@@ -1,58 +1,47 @@
 #!/usr/bin/env bash
-##################################
-### oligoPepSVM : SVM-based prediction of RBPs based on counts of oligopeptide frequencies of
-### a specific taxonomical group
-##################################
-# USAGE:
-# ./oligoPepSVM.sh [predictionFile] [OUTDIR] [TAXON_ID] [P] [COST] [RECURSIVE] [TRAINSET]
-# predictionFile : fasta file with protein sequences for prediction
-# OUTDIR : output path
-# TAXON_ID: uniprot ttaxon identifier, e.g. 1566 (human), 230 (salmonella), 535 (escherichia)
-# P : subsequence length, e.g. 3 or 4
-# COST : cost parameter, e.g. 1
-# RECURISVE : data set collecetion in recursive mode?, e.g. False
 
-#######################
-# Requirements:
-# R 
-# HMMER
-# CDHIT
-# IUPRED
-# (please add locations to environmental path)
-#######################
-# USAGE EXAMPLE:
-# ./oliPepSVM.sh x.fa Results/ 590 3 1 False
-#
-#######################
+#####################################################################################################################################
+### TriPepSVM : SVM-based prediction of RBPs based on counts of oligopeptide frequencies of a specific taxonomical group
+#####################################################################################################################################
+
 scriptDir=$(dirname "$0")
 
-PRED=$1
-RESULT=$2
-TAXON=$3
-P=$4
-COST=$5
-RECURSIVE=$6
-mode=$7
-posW=$8
-negW=$9
-cutoff=${10}
+#######################
+# Set default parameter, parse input and check parameter:
 
-mkdir -p $RESULT
+bash $scriptDir/source/setDefaultparseParameter.sh $@
+
+source $scriptDir/source/parameter.in
+
+#######################
+# Create output folder:
+
+mkdir -p $outDir
+
+#######################
+# Collect data:
+
+# collect data in outDir if new taxon is selected, use existing data if not
+if [ "$taxon_id" == "9606" ] || [ "$taxon_id" == "590" ];then
+	data=$scriptDir/trainData
+else
+	data=$outDir/trainData
+fi
 
 # create pos set if not exist
-if [ ! -f $scriptDir/$mode/RBP_$TAXON.fasta ];then 
-	bash $scriptDir/posDataset.sh $TAXON $scriptDir/$mode $RECURSIVE
+if [ ! -f $data/RBP_$taxon_id.fasta ];then 
+	bash $scriptDir/source/posDataset.sh $taxon_id $data $recM
 fi
 
 # create neg set if not exist
-if [ ! -f $scriptDir/$mode/NRBP_$TAXON.fasta ];then 
-	bash $scriptDir/negDataset.sh $TAXON $scriptDir/$mode $RECURSIVE
+if [ ! -f $data/NRBP_$taxon_id.fasta ];then 
+	bash $scriptDir/source/negDataset.sh $taxon_id $data $recM
 fi
 
-xbase=${PRED##*/}
-FILENAME=${xbase%.*}
+base=${INPUT_FILE##*/}
+filename=${base%.*}
 
-Rscript $scriptDir/kmerPrediction.r $scriptDir/$mode/RBP_$TAXON.fasta $scriptDir/$mode/NRBP_$TAXON.fasta $PRED $P $COST $RESULT $FILENAME.oligoPepSVM.pred.txt $posW $negW $cutoff
+Rscript $scriptDir/source/kmerPrediction.r $data/RBP_${taxon_id}.fasta $data/NRBP_${taxon_id}.fasta $INPUT_FILE $k $cost $outDir ${filename}.TriPepSVM.pred.txt ${filename}.featureWeights.txt $posW $negW $thr
 
 
 

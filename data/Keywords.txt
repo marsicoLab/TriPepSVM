@@ -1,0 +1,47 @@
+Activator	KW-0010
+ADP-ribosylation	KW-0013
+Chromatin regulator	KW-0156
+Chromosome partition	KW-0159
+Nucleosome core	KW-0544
+Chromosome	KW-0158
+Endonuclease	KW-0255
+Excision nuclease	KW-0267
+Exonuclease	KW-0269 
+Helicase	KW-0347
+Intron homing	KW-0404
+Isomerase	KW-0413
+Nuclease	KW-0540
+Spliceosome	KW-0747
+Topoisomerase	KW-0799
+Transcription	KW-0804
+Transcription regulation	KW-0805
+Transcription termination	KW-0806
+Translation regulation	KW-0810
+DNA-binding	KW-0238
+DNA damage	KW-0227
+DNA excision	KW-0228
+DNA integration	KW-0229
+DNA repair	KW-0234
+DNA replication	KW-0235
+DNA replication inhibitor	KW-0236
+DNA synthesis	KW-0237
+DNA recombination	KW-0233
+DNA-directed DNA polymerase	KW-0239
+DNA-directed RNA polymerase	KW-0240
+RNA-binding	KW-0694
+RNA-directed DNA polymerase	KW-0695
+RNA-directed RNA polymerase	KW-0696
+RNA repair	KW-0692
+rRNA-binding	KW-0699
+rRNA processing	KW-0698
+mRNA processing	KW-0507
+mRNA splicing	KW-0508
+mRNA transport	KW-0509
+tRNA-binding	KW-0820
+tRNA processing	KW-0819
+Ribonucleoprotein	KW-0687
+Ribosomal protein	KW-0689
+Viral genome packaging	KW-0231
+Viral RNA replication	KW-0693
+Ribosome biogenesis	KW-0690
+Nucleotide-binding	KW-0547

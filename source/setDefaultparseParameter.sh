@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 help="\n
 ############################################################### \n
 ### \n
@@ -16,8 +15,8 @@ help="\n
 #  -id,\t--taxon-id [9606|590|...] : Uniprot taxon id, DEFAULT: 9606 (human) \n
 #  -c,\t--cost : change COST parameter, DEFAULT: 1 \n
 #  -k,\t--oligo-length : change k parameter, DEFAULT: 3 \n
-#  -pos,\t--pos-class : change positive class weight, DEFAULT: 1.8 \n
-#  -neg,\t--neg-class : change negative class weight, DEFAULT: 0.2 \n
+#  -pos,\t--pos-class : change positive class weight, DEFAULT: inverse proportional to class size \n
+#  -neg,\t--neg-class : change negative class weight, DEFAULT: inverse proportional to class size \n
 #  -thr,\t--threshold : change prediction threshold, DEFAULT: 0 \n
 #  -r,\t--recursive [TRUE|FALSE]: apply recursive mode, DEFAULT: FALSE \n
 #  -h,\t--help : help text \n
@@ -25,6 +24,7 @@ help="\n
 ####################### \n
 # REQUIREMENTS: \n
 # R (>= 3.2.0) \n
+# Kebabs \n
 # HMMER (in PATH variable) \n
 # CDHIT (in PATH variable) \n
 # \n
@@ -34,8 +34,8 @@ help="\n
 # \n
 ####################### \n
 # USAGE EXAMPLE: \n
-# ./TriPepSVM.sh -i salmonellaProteom.fasta -o Results/ -id 590 -r True \n
-# ./TriPepSVM.sh -i humanProteom.fasta -o Results_Human/ \n
+# ./TriPepSVM.sh -i salmonellaProteom.fasta -o Results/ -id 590 -r True -posW 1.8 -negW 0.2 \n
+# ./TriPepSVM.sh -i humanProteom.fasta -o Results_Human/ -posW 1.8 -negW 0.2 \n
 # \n
 ####################### \n
 "
@@ -50,8 +50,8 @@ INPUT_FILE=""
 taxon_id=9606
 cost=1
 k=3
-posW=1.8
-negW=0.2
+posW=inversePropClassSize
+negW=inversePropClassSize
 thr=0
 recM=FALSE
 
@@ -132,6 +132,30 @@ if [ "$INPUT_FILE" == "" ];then
 	echo $status
 	exit 0
 fi
+
+if [ "$taxon_id" == "590" ];then
+	if [ "$posW" != "1.8" ] || [ "$negW" != "0.2" ];then
+		status="---- > ATTENTION: Application use suboptimal positive and negative class weights\n---- > we recommend positive class weight = 1.8 and nagetive class weight = 0.2"
+		echo -e $status\n
+	fi
+
+	if [ "$thr" != "0.68" ];then
+		status="---- > ATTENTION: Application use suboptimal classification cutoff\n---- > we recommend a threshold = 0.68\n"
+		echo -e $status
+	fi
+fi	
+
+if [ "$taxon_id" == "9606" ];then
+	if [ "$posW" != "1.8" ] || [ "$negW" == "0.2" ];then
+		status="---- > ATTENTION: Application use suboptimal positive and negative class weights\n---- > we recommend positive class weight = 1.8 and nagetive class weight = 0.2"
+		echo -e $status
+	fi
+
+	if [ "$thr" != "0.28" ];then
+		status="---- > ATTENTION: Application use suboptimal classification cutoff\n---- > we recommend a threshold = 0.28\n"
+		echo -e $status
+	fi
+fi	
 
 #######################
 # Report parameter:
