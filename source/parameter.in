@@ -1,14 +1,13 @@
 ####################### 
 # 
 # PARAMETER:
-INPUT_FILE=/project/owlmayerTemporary/Bressin/Salmonella/proteome_prediction/proteomes/proteome_9606.fasta
-outDir=/project/owlmayer/Annkatrin/GitHub/TriPepSVM/Results_Mouse/
-taxon_id=10090
+INPUT_FILE=./data/proteome_9606.fasta
+outDir=./proteome_prediction_human
+taxon_id=9606
 cost=1
 k=3
-posW=inversePropClassSize
-negW=inversePropClassSize
-thr=0
+posW=1.8
+negW=0.2
+thr=0.28
 recM=FALSE
-# 
 ####################### 

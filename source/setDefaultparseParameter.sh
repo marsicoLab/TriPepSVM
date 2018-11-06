@@ -112,14 +112,16 @@ case $key in
 
     -h|--help)
     echo -e $help
-    exit 0
+    echo "exit=1">$scriptDir/parameter.in	
+    exit 1
     ;;
     
     *)
     status="---- > $key isn't a valid input argument"
     echo -e $help
     echo $status
-    exit 0
+    echo "exit=1">$scriptDir/parameter.in
+    exit 1
     ;; 
 esac
 done
@@ -130,7 +132,8 @@ if [ "$INPUT_FILE" == "" ];then
 	status="---- > Please specify an input file using either -i or --input option"
 	echo -e $help
 	echo $status
-	exit 0
+	echo "exit=1">$scriptDir/parameter.in
+	exit 1 
 fi
 
 if [ "$taxon_id" == "590" ];then
@@ -146,7 +149,7 @@ if [ "$taxon_id" == "590" ];then
 fi	
 
 if [ "$taxon_id" == "9606" ];then
-	if [ "$posW" != "1.8" ] || [ "$negW" == "0.2" ];then
+	if [ "$posW" != "1.8" ] || [ "$negW" != "0.2" ];then
 		status="---- > ATTENTION: Application use suboptimal positive and negative class weights\n---- > we recommend positive class weight = 1.8 and nagetive class weight = 0.2"
 		echo -e $status
 	fi
@@ -190,6 +193,5 @@ echo "posW=$posW">> $scriptDir/parameter.in
 echo "negW=$negW">> $scriptDir/parameter.in
 echo "thr=$thr">> $scriptDir/parameter.in
 echo "recM=$recM">> $scriptDir/parameter.in
-echo "# " >> $scriptDir/parameter.in
 echo "####################### ">> $scriptDir/parameter.in
 
