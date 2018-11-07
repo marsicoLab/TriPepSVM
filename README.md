@@ -7,24 +7,23 @@ Predict RNA-binding proteins from amino acid sequences using string kernel SVMs.
 
 * Unix system
 * R (>= 3.2.0)
-* [HMMER] (http://hmmer.org/)
-* [CDHIT] (https://github.com/weizhongli/cdhit) 
+* HMMER (http://hmmer.org/)
+* CDHIT (https://github.com/weizhongli/cdhit) 
 * Internet connection (if tool is applied to new taxon id) 
-
 * Please change the PATH system variable:
-
-1. Edit the startup file (~/.bashrc)
-2. Modify PATH variable
+  1. Edit the startup file (~/.bashrc)
+  2. Modify PATH variable
+  3. Save and close the file
 
 For example:
 ```
 export PATH=$PATH:/home/Programms/cdhit-4.6.4
 export PATH=$PATH:/home/Programms/hmmer-3.1b2-linux-intel-x86_64/binaries
 ```
-3. Save and close the file
+
 
 ### Usage
-
+```
 ./TriPepSVM.sh [OPTION] ... -i INPUT.[fasta|fa] 
 -i,\t--input [INPUT.fasta|fa] : AA sequence in fasta format, NO DEFAULT 
 -o,\t--output : path to output folder, DEFAULT: current directory 
@@ -36,15 +35,16 @@ export PATH=$PATH:/home/Programms/hmmer-3.1b2-linux-intel-x86_64/binaries
 -thr,\t--threshold : change prediction threshold, DEFAULT: 0 
 -r,\t--recursive [TRUE|FALSE]: apply recursive mode, DEFAULT: FALSE 
 -h,\t--help : help text
+```
 
 Example 1: prediction Salmonella proteome
 ```
-./TriPepSVM.sh -i salmonellaProteom.fasta -o Results/ -id 590 -r True -posW 1.8 -negW 0.2 -thr 0.68 \n
+./TriPepSVM.sh -i salmonellaProteom.fasta -o Results/ -id 590 -r True -posW 1.8 -negW 0.2 -thr 0.68
 ```
 
 Example 2: prediction human proteome
 ```
-# ./TriPepSVM.sh -i humanProteom.fasta -o Results/ -id 9606 -posW 1.8 -negW 0.2 -thr 0.28 \n
+./TriPepSVM.sh -i humanProteom.fasta -o Results/ -id 9606 -posW 1.8 -negW 0.2 -thr 0.28
 ```
 
 ## Contributing
