@@ -1,18 +1,11 @@
-library("plyr")
-library("calibrate")
-library("scales")
-library("graphics")
-library("RColorBrewer")
-library("data.table")
+list.of.packages <- c("calibrate")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
 
-color_palett= brewer.pal(11,"RdYlGn")[c(1,4,8,11)]
+suppressPackageStartupMessages(require("calibrate"))
 
 options(echo=F) # if you want see commands in output file
 args <- commandArgs(trailingOnly = TRUE) 
-
-salmonella_path="/project/owlmayerTemporary/Bressin/Salmonella/feature_importance/Result/feature_weights/feature_weights_590_train.txt"
-human_path="/project/owlmayerTemporary/Bressin/Salmonella/feature_importance/Result/feature_weights/feature_weights_9606_train.txt"
-conservedKmer_path = "/project/salmonella/kmer_enriched_human.txt"
 
 salmonella_path = args[1]
 human_path = args[2]
@@ -34,7 +27,7 @@ indexConservedKmer = colnames(table) %in% conservedKmer[,1]
 xrange = 1.5
 yrange = 2
 
-pdf(out3)
+pdf(out)
 smoothScatter(table[1,],table[2,], xlim=c(-xrange,+xrange), ylim=c(-yrange,+yrange),
               xlab="Salmonella", nbin = 200,
               ylab="Human", colramp = colorRampPalette(c("white", "gray30")),
