@@ -1,7 +1,7 @@
 # TriPepSVM
 Predict RNA-binding proteins from amino acid sequences using string kernel SVMs.
 
-TriPepSVM was developed by the Marsico RNA bioinformatics research group at the Max-Planck-Institute for Molecular Genetics in Berlin.
+TriPepSVM was developed by the [Marsico RNA bioinformatics group](https://www.molgen.mpg.de/2733742/RNA-Bioinformatics) at the Max-Planck-Institute for Molecular Genetics in Berlin.
 
 ## Getting Started
 
@@ -11,13 +11,15 @@ TriPepSVM was developed by the Marsico RNA bioinformatics research group at the 
 * R (>= 3.2.0)
 * HMMER (3.1) (http://hmmer.org/)
 * CDHIT (4.6.4) (https://github.com/weizhongli/cdhit) 
-* Internet connection (if tool is applied to new taxon id) 
+
+Remarks:
+* If TriPepSVM is applied to a new taxon id, you need a stable internet connection 
 * Please change the PATH system variable:
   1. Edit the startup file (~/.bashrc)
   2. Modify PATH variable
   3. Save and close the file
 
-For example:
+For example (please adjust your path):
 ```
 export PATH=$PATH:/home/Programms/cdhit-4.6.4
 export PATH=$PATH:/home/Programms/hmmer-3.1b2-linux-intel-x86_64/binaries
