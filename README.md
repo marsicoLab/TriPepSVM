@@ -43,11 +43,13 @@ export PATH=$PATH:/home/Programms/hmmer-3.1b2-linux-intel-x86_64/binaries
 ```
 
 Example 1: Salmonella
+
 ```
 ./TriPepSVM.sh -i salmonellaProteom.fasta -o Results/ -id 590 -r True -posW 1.8 -negW 0.2 -thr 0.68
 ```
 
 Example 2: Human
+
 ```
 ./TriPepSVM.sh -i humanProteom.fasta -o Results/ -id 9606 -posW 1.8 -negW 0.2 -thr 0.28
 ```
