@@ -12,7 +12,7 @@ TriPepSVM was developed by the [Marsico RNA bioinformatics group](https://www.mo
 * [HMMER](http://hmmer.org/) (3.1)
 * [CDHIT](https://github.com/weizhongli/cdhit) (4.6.4)  
 
-Remarks:
+### Remarks:
 * If TriPepSVM is applied to a new taxon id, you need a stable internet connection 
 * Please change the PATH system variable:
   1. Edit the startup file (~/.bashrc)
