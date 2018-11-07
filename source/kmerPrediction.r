@@ -1,3 +1,8 @@
+list.of.packages <- c("kebabs","seqinr")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+
+
 suppressPackageStartupMessages(require("kebabs"))
 suppressPackageStartupMessages(require("seqinr"))
 
@@ -70,4 +75,4 @@ print("write prediction output table")
 write.table(data.frame(ID=predAnn,SVMscore=prob,PREDICTION=label),sep="\t",file=paste(output_path,out,sep="/"),row.names = F,col.names = F,quote = F)
 
 print("write weights output")
-write.table(as.data.frame(weights),file=paste(output_path,out2,sep="/"),sep="\t",append=F,quote=F,col.names=T,row.names=F)
+write.table(t(as.data.frame(weights)),file=paste(output_path,out2,sep="/"),sep="\t",append=F,quote=F,col.names=F,row.names=T)
