@@ -25,7 +25,8 @@ export PATH=$PATH:/home/Programms/hmmer-3.1b2-linux-intel-x86_64/binaries
 
 ### Usage
 ```
-./TriPepSVM.sh [OPTION] ... -i INPUT.[fasta|fa] 
+./TriPepSVM.sh [OPTION] ... -i INPUT.[fasta|fa]
+
 -i,\t--input [INPUT.fasta|fa]: AA sequence in fasta format, NO DEFAULT 
 -o,\t--output : path to output folder, DEFAULT: current directory 
 -id,\t--taxon-id [9606|590|...] : Uniprot taxon id, DEFAULT: 9606 (human) 
