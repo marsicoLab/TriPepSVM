@@ -1,14 +1,16 @@
 # TriPepSVM
 Predict RNA-binding proteins from amino acid sequences using string kernel SVMs.
 
+TriPepSVM was developed by the Marsico RNA bioinformatics research group at the Max-Planck-Institute for Molecular Genetics in Berlin.
+
 ## Getting Started
 
 ### Requirements
 
 * Unix system
 * R (>= 3.2.0)
-* HMMER (http://hmmer.org/)
-* CDHIT (https://github.com/weizhongli/cdhit) 
+* HMMER (3.1) (http://hmmer.org/)
+* CDHIT (4.6.4)(https://github.com/weizhongli/cdhit) 
 * Internet connection (if tool is applied to new taxon id) 
 * Please change the PATH system variable:
   1. Edit the startup file (~/.bashrc)
@@ -20,7 +22,6 @@ For example:
 export PATH=$PATH:/home/Programms/cdhit-4.6.4
 export PATH=$PATH:/home/Programms/hmmer-3.1b2-linux-intel-x86_64/binaries
 ```
-
 
 ### Usage
 ```
@@ -47,22 +48,8 @@ Example 2: prediction human proteome
 ./TriPepSVM.sh -i humanProteom.fasta -o Results/ -id 9606 -posW 1.8 -negW 0.2 -thr 0.28
 ```
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Annkatrin Bressin** - *Initial work* - [bressin](https://github.molgen.mpg.de/bressin)
+* **Annkatrin Bressin** - [bressin](https://github.molgen.mpg.de/bressin)
 * **Roman Schulte-Sasse** - [schulte-sasse](https://github.molgen.mpg.de/sasse)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
