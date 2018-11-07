@@ -10,7 +10,7 @@ TriPepSVM was developed by the Marsico RNA bioinformatics research group at the 
 * Unix system
 * R (>= 3.2.0)
 * HMMER (3.1) (http://hmmer.org/)
-* CDHIT (4.6.4)(https://github.com/weizhongli/cdhit) 
+* CDHIT (4.6.4) (https://github.com/weizhongli/cdhit) 
 * Internet connection (if tool is applied to new taxon id) 
 * Please change the PATH system variable:
   1. Edit the startup file (~/.bashrc)
@@ -38,15 +38,43 @@ export PATH=$PATH:/home/Programms/hmmer-3.1b2-linux-intel-x86_64/binaries
 -h,\t--help : help text
 ```
 
-Example 1: prediction Salmonella proteome
+Example 1: Salmonella
 ```
 ./TriPepSVM.sh -i salmonellaProteom.fasta -o Results/ -id 590 -r True -posW 1.8 -negW 0.2 -thr 0.68
 ```
 
-Example 2: prediction human proteome
+Example 2: Human
 ```
 ./TriPepSVM.sh -i humanProteom.fasta -o Results/ -id 9606 -posW 1.8 -negW 0.2 -thr 0.28
 ```
+### Output
+
+Result folder contains two files:
+
+* nameInputFile.TriPepSVM.pred.txt: Main output file containing prediction for the input file
+  * Identifier
+  * SVM score
+  * Classification
+  
+  ```
+  sp|P0CL07|GSA_SALTY -0.664768610799015	Non RNA-binding protein
+  sp|O68838|GSH1_SALTY	-0.592678648819721	Non RNA-binding protein
+  sp|P43666|EPTB_SALTY	-0.443698432714576	Non RNA-binding protein
+  sp|P36555|EPTA_SALTY	-0.303451909779383	Non RNA-binding protein
+  ...
+  ```
+  
+* nameInputFile.featureWeights.txt: Feature weights used by SVM classifier
+  * Feature (tri-peptide sequences)
+  * Feature weight
+  
+  ```
+  AAA	0.518691300046882
+  AAC	0.10328499221261
+  AAD	0.0894537449099789
+  AAE	-0.0464292430990747
+  ...
+  ```
 
 ## Authors
 
