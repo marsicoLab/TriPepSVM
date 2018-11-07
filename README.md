@@ -15,6 +15,7 @@ TriPepSVM was developed by the [Marsico RNA bioinformatics group](https://www.mo
 ### Remarks:
 * If TriPepSVM is applied to a new taxon id, you need a stable internet connection 
 * Please change the PATH system variable:
+
   1. Edit the startup file (~/.bashrc)
   2. Modify PATH variable
   3. Save and close the file
