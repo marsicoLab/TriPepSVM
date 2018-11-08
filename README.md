@@ -85,5 +85,5 @@ Result folder contains two files:
 ## Authors
 
 * **Annkatrin Bressin** - [bressin](https://github.molgen.mpg.de/bressin)
-* **Roman Schulte-Sasse** - [schulte-sasse](https://github.molgen.mpg.de/sasse)
+* **Roman Schulte-Sasse** - [Schulte-Sasse](https://github.com/schulter)
 
