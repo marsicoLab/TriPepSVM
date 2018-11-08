@@ -1,1204 +1,1204 @@
-Q8NET6|CHSTD_HUMAN	-1.55	Non RNA-binding protein
-Q9H4P4|RNF41_HUMAN	0.68	RNA-binding protein
-Q6JBY9|CPZIP_HUMAN	2.55	RNA-binding protein
-Q6ZMD2|SPNS3_HUMAN	-4.39	Non RNA-binding protein
-P04118|COL_HUMAN	0.04	RNA-binding protein
-Q9BXY8|BEX2_HUMAN	-0.45	Non RNA-binding protein
-Q7Z443|PK1L3_HUMAN	-1.12	Non RNA-binding protein
-Q8IVN3|MSTN1_HUMAN	2.22	RNA-binding protein
-P49675|STAR_HUMAN	1.54	RNA-binding protein
-Q8IVT2|MISP_HUMAN	0.41	RNA-binding protein
-Q6XQN6|PNCB_HUMAN	-1.71	Non RNA-binding protein
-Q96NB2|SFXN2_HUMAN	0.33	RNA-binding protein
-Q96S66|CLCC1_HUMAN	-0.06	RNA-binding protein
-P28066|PSA5_HUMAN	0.44	RNA-binding protein
-Q9Y4M8|CH071_HUMAN	-2.64	Non RNA-binding protein
-Q5VXU9|CI084_HUMAN	0.12	RNA-binding protein
-Q6V702|CD022_HUMAN	0.39	RNA-binding protein
-Q9UBD6|RHCG_HUMAN	-4.15	Non RNA-binding protein
-Q9H7Y0|DIA1R_HUMAN	-0.32	Non RNA-binding protein
-Q6ZUJ8|BCAP_HUMAN	1.53	RNA-binding protein
-P05230|FGF1_HUMAN	0.12	RNA-binding protein
-Q9UJQ1|LAMP5_HUMAN	0.23	RNA-binding protein
-Q9BX95|SGPP1_HUMAN	-3.28	Non RNA-binding protein
-Q8IXU6|S35F2_HUMAN	-5.22	Non RNA-binding protein
-P13987|CD59_HUMAN	-3.18	Non RNA-binding protein
-O00295|TULP2_HUMAN	1.65	RNA-binding protein
-P20711|DDC_HUMAN	-0.59	Non RNA-binding protein
-O00562|PITM1_HUMAN	0.20	RNA-binding protein
-P17752|TPH1_HUMAN	0.49	RNA-binding protein
-Q9H606|PRORY_HUMAN	-3.14	Non RNA-binding protein
-P51160|PDE6C_HUMAN	0.14	RNA-binding protein
-B1ATL7|PRR32_HUMAN	-0.72	Non RNA-binding protein
-O95049|ZO3_HUMAN	0.54	RNA-binding protein
-Q6A555|TXND8_HUMAN	0.22	RNA-binding protein
-O15034|RIMB2_HUMAN	1.69	RNA-binding protein
-P51397|DAP1_HUMAN	-1.47	Non RNA-binding protein
-Q8NFT8|DNER_HUMAN	0.57	RNA-binding protein
-Q6JEL2|KLH10_HUMAN	-0.41	Non RNA-binding protein
-Q6UXR4|SPA13_HUMAN	-1.57	Non RNA-binding protein
-Q86U28|ISCA2_HUMAN	-0.03	RNA-binding protein
-O14977|AZIN1_HUMAN	0.25	RNA-binding protein
-P16233|LIPP_HUMAN	-0.57	Non RNA-binding protein
-O95757|HS74L_HUMAN	1.66	RNA-binding protein
-Q9NPA0|EMC7_HUMAN	0.49	RNA-binding protein
-P01225|FSHB_HUMAN	-5.00	Non RNA-binding protein
-Q96LM9|CT173_HUMAN	-1.30	Non RNA-binding protein
-O95433|AHSA1_HUMAN	0.14	RNA-binding protein
-Q96T53|MBOA4_HUMAN	-6.40	Non RNA-binding protein
-Q8WVZ1|ZDH19_HUMAN	-4.57	Non RNA-binding protein
-Q93052|LPP_HUMAN	1.58	RNA-binding protein
-P43363|MAGAA_HUMAN	0.73	RNA-binding protein
-Q96T68|SETB2_HUMAN	1.16	RNA-binding protein
-Q9NQC8|IFT46_HUMAN	0.28	RNA-binding protein
-Q96NR7|WWAS2_HUMAN	-3.09	Non RNA-binding protein
-Q9UI33|SCNBA_HUMAN	-0.94	Non RNA-binding protein
-Q16799|RTN1_HUMAN	1.48	RNA-binding protein
-O43820|HYAL3_HUMAN	-3.90	Non RNA-binding protein
-Q96IZ2|ADTRP_HUMAN	-7.23	Non RNA-binding protein
-Q9NPC3|CIP1_HUMAN	1.33	RNA-binding protein
-O14662|STX16_HUMAN	1.42	RNA-binding protein
-Q6UX15|LAYN_HUMAN	1.12	RNA-binding protein
-O60931|CTNS_HUMAN	-4.85	Non RNA-binding protein
-P15090|FABP4_HUMAN	-1.25	Non RNA-binding protein
-Q4G0T1|SRCRM_HUMAN	-2.62	Non RNA-binding protein
-O43852|CALU_HUMAN	-0.90	Non RNA-binding protein
-Q9H0A3|T191A_HUMAN	-2.69	Non RNA-binding protein
-O43934|MFS11_HUMAN	-4.88	Non RNA-binding protein
-Q99829|CPNE1_HUMAN	0.45	RNA-binding protein
-Q5T447|HECD3_HUMAN	0.17	RNA-binding protein
-O76042|ERIT1_HUMAN	-4.29	Non RNA-binding protein
-Q04900|MUC24_HUMAN	-1.27	Non RNA-binding protein
-O14639|ABLM1_HUMAN	1.49	RNA-binding protein
-Q9UI47|CTNA3_HUMAN	1.29	RNA-binding protein
-Q4FZB7|KMT5B_HUMAN	2.50	RNA-binding protein
-A8MU46|SMTL1_HUMAN	2.12	RNA-binding protein
-O95994|AGR2_HUMAN	0.49	RNA-binding protein
-Q9Y2L5|TPPC8_HUMAN	1.04	RNA-binding protein
-P05000|IFNW1_HUMAN	-0.69	Non RNA-binding protein
-Q9BY14|TX101_HUMAN	-2.69	Non RNA-binding protein
-P48165|CXA8_HUMAN	0.48	RNA-binding protein
-Q9H1C3|GL8D2_HUMAN	-0.47	Non RNA-binding protein
-Q6ZVT0|TTL10_HUMAN	0.43	RNA-binding protein
-Q8N8U9|BMPER_HUMAN	-0.64	Non RNA-binding protein
-Q6UXP9|YO001_HUMAN	-1.26	Non RNA-binding protein
-Q9UQF0|SYCY1_HUMAN	-1.25	Non RNA-binding protein
-Q8N3X6|LCORL_HUMAN	2.28	RNA-binding protein
-Q9Y6R1|S4A4_HUMAN	-0.79	Non RNA-binding protein
-Q6PEX3|KR261_HUMAN	2.27	RNA-binding protein
-Q9UHE5|NAT8_HUMAN	-3.11	Non RNA-binding protein
-Q5VVS0|CA140_HUMAN	0.69	RNA-binding protein
-Q96QT4|TRPM7_HUMAN	0.61	RNA-binding protein
-Q5VWC8|HACD4_HUMAN	-6.80	Non RNA-binding protein
-Q8N4E4|PDCL2_HUMAN	0.43	RNA-binding protein
-P28907|CD38_HUMAN	0.09	RNA-binding protein
-Q9H7V2|SYNG1_HUMAN	0.21	RNA-binding protein
-P51668|UB2D1_HUMAN	-1.32	Non RNA-binding protein
-O76099|OR7C1_HUMAN	-8.19	Non RNA-binding protein
-Q8N8F7|LSME1_HUMAN	1.13	RNA-binding protein
-Q8NEM8|CBPC3_HUMAN	0.20	RNA-binding protein
-P57105|SYJ2B_HUMAN	0.87	RNA-binding protein
-Q8IVN8|SBSPO_HUMAN	-0.59	Non RNA-binding protein
-Q92539|LPIN2_HUMAN	1.19	RNA-binding protein
-Q6NXR4|TTI2_HUMAN	-0.37	Non RNA-binding protein
-P21673|SAT1_HUMAN	-2.49	Non RNA-binding protein
-Q8NBJ7|SUMF2_HUMAN	-0.74	Non RNA-binding protein
-Q8WWZ1|IL1FA_HUMAN	-0.27	Non RNA-binding protein
-P58062|ISK7_HUMAN	-2.19	Non RNA-binding protein
-P56705|WNT4_HUMAN	0.99	RNA-binding protein
-P63146|UBE2B_HUMAN	1.46	RNA-binding protein
-O15270|SPTC2_HUMAN	0.09	RNA-binding protein
-Q14165|MLEC_HUMAN	0.65	RNA-binding protein
-Q9C030|TRIM6_HUMAN	0.43	RNA-binding protein
-Q8N5R6|CCD33_HUMAN	1.80	RNA-binding protein
-Q92565|RPGF5_HUMAN	-0.11	RNA-binding protein
-Q9BQQ7|RTP3_HUMAN	-0.34	Non RNA-binding protein
-A6NDB9|PALM3_HUMAN	1.97	RNA-binding protein
-Q86X24|HORM1_HUMAN	1.17	RNA-binding protein
-O00401|WASL_HUMAN	1.28	RNA-binding protein
-O95070|YIF1A_HUMAN	-4.21	Non RNA-binding protein
-Q9NUH8|TM14B_HUMAN	-5.43	Non RNA-binding protein
-Q9UGM1|ACHA9_HUMAN	-1.19	Non RNA-binding protein
-Q8NE22|SETD9_HUMAN	0.58	RNA-binding protein
-Q8NGF7|OR5BH_HUMAN	-5.42	Non RNA-binding protein
-P22735|TGM1_HUMAN	0.43	RNA-binding protein
-Q86VH2|KIF27_HUMAN	1.63	RNA-binding protein
-A6NFE2|SMCO2_HUMAN	0.44	RNA-binding protein
-P30954|O10J1_HUMAN	-4.33	Non RNA-binding protein
-Q9H9T3|ELP3_HUMAN	0.89	RNA-binding protein
-Q5T5P2|SKT_HUMAN	1.90	RNA-binding protein
-Q14140|SRTD2_HUMAN	1.17	RNA-binding protein
-O75387|LAT3_HUMAN	-3.81	Non RNA-binding protein
-Q96LK8|SPT32_HUMAN	1.59	RNA-binding protein
-P55058|PLTP_HUMAN	-0.95	Non RNA-binding protein
-P42701|I12R1_HUMAN	0.04	RNA-binding protein
-Q5T442|CXG2_HUMAN	-0.14	RNA-binding protein
-Q2QL34|MP17L_HUMAN	-3.33	Non RNA-binding protein
-Q0VF96|CGNL1_HUMAN	0.92	RNA-binding protein
-Q96P69|GPR78_HUMAN	-2.85	Non RNA-binding protein
-Q6PL24|TMED8_HUMAN	1.15	RNA-binding protein
-Q5T4T6|SYC2L_HUMAN	0.59	RNA-binding protein
-Q9GZU8|F192A_HUMAN	1.67	RNA-binding protein
-Q96CG8|CTHR1_HUMAN	0.85	RNA-binding protein
-Q8IXT1|DDIAS_HUMAN	1.32	RNA-binding protein
-P19224|UD16_HUMAN	-0.70	Non RNA-binding protein
-Q8TAP8|PPR35_HUMAN	-0.91	Non RNA-binding protein
-Q9P1Y5|CAMP3_HUMAN	0.73	RNA-binding protein
-O95177|GAAS1_HUMAN	1.35	RNA-binding protein
-Q2M389|WASC4_HUMAN	0.09	RNA-binding protein
-Q93045|STMN2_HUMAN	-1.50	Non RNA-binding protein
-A6NHG4|DDTL_HUMAN	-0.44	Non RNA-binding protein
-Q8WXF8|DEDD2_HUMAN	-0.68	Non RNA-binding protein
-Q5VTY9|HHAT_HUMAN	-7.59	Non RNA-binding protein
-Q13103|SPP24_HUMAN	0.33	RNA-binding protein
-Q6UX72|B3GN9_HUMAN	-3.29	Non RNA-binding protein
-P0DMU4|F231A_HUMAN	-0.54	Non RNA-binding protein
-Q9NPC2|KCNK9_HUMAN	-0.64	Non RNA-binding protein
-Q9H0H0|INT2_HUMAN	0.14	RNA-binding protein
-Q86X51|CX067_HUMAN	-0.33	Non RNA-binding protein
-O95096|NKX22_HUMAN	1.31	RNA-binding protein
-Q14703|MBTP1_HUMAN	0.28	RNA-binding protein
-O95396|MOCS3_HUMAN	-0.45	Non RNA-binding protein
-Q6ZRU5|YQ032_HUMAN	-1.66	Non RNA-binding protein
-O75715|GPX5_HUMAN	0.31	RNA-binding protein
-Q9NWS6|F118A_HUMAN	1.19	RNA-binding protein
-P54289|CA2D1_HUMAN	0.33	RNA-binding protein
-O75352|MPU1_HUMAN	-3.96	Non RNA-binding protein
-A8MUL3|ADAS1_HUMAN	-1.22	Non RNA-binding protein
-P08582|TRFM_HUMAN	-0.29	Non RNA-binding protein
-Q86XA9|HTR5A_HUMAN	-0.54	Non RNA-binding protein
-O43325|LYRM1_HUMAN	0.33	RNA-binding protein
-P51911|CNN1_HUMAN	1.82	RNA-binding protein
-A6NHC0|CAN8_HUMAN	-0.28	Non RNA-binding protein
-P02748|CO9_HUMAN	0.59	RNA-binding protein
-Q9Y625|GPC6_HUMAN	1.01	RNA-binding protein
-O14559|RHG33_HUMAN	-0.89	Non RNA-binding protein
-Q9ULB5|CADH7_HUMAN	0.39	RNA-binding protein
-Q8IWA5|CTL2_HUMAN	-3.88	Non RNA-binding protein
-Q15599|NHRF2_HUMAN	1.58	RNA-binding protein
-Q14244|MAP7_HUMAN	1.00	RNA-binding protein
-Q9NYG5|APC11_HUMAN	-2.06	Non RNA-binding protein
-Q16534|HLF_HUMAN	0.73	RNA-binding protein
-Q16773|KAT1_HUMAN	-0.37	Non RNA-binding protein
-Q96IS3|RAX2_HUMAN	-1.72	Non RNA-binding protein
-Q6ZVL8|YP033_HUMAN	-1.63	Non RNA-binding protein
-Q96EE4|CC126_HUMAN	0.51	RNA-binding protein
-Q9BXJ3|C1QT4_HUMAN	-2.05	Non RNA-binding protein
-P09912|IFI6_HUMAN	-3.42	Non RNA-binding protein
-P15328|FOLR1_HUMAN	-0.75	Non RNA-binding protein
-Q9GZQ8|MLP3B_HUMAN	0.52	RNA-binding protein
-P12109|CO6A1_HUMAN	2.08	RNA-binding protein
-Q9UNW1|MINP1_HUMAN	0.29	RNA-binding protein
-Q9BQ89|F110A_HUMAN	-0.31	Non RNA-binding protein
-Q2KHT3|CL16A_HUMAN	0.67	RNA-binding protein
-Q6A162|K1C40_HUMAN	-0.06	RNA-binding protein
-Q8NG75|OR5T1_HUMAN	-6.30	Non RNA-binding protein
-Q8NAU1|FNDC5_HUMAN	0.96	RNA-binding protein
-Q9H1F0|WF10A_HUMAN	1.40	RNA-binding protein
-O75379|VAMP4_HUMAN	2.08	RNA-binding protein
-Q9UL63|MKLN1_HUMAN	0.22	RNA-binding protein
-O43920|NDUS5_HUMAN	0.34	RNA-binding protein
-Q8NGT1|OR2K2_HUMAN	-4.40	Non RNA-binding protein
-Q9UKL3|C8AP2_HUMAN	1.73	RNA-binding protein
-Q9NQT6|FSCN3_HUMAN	-2.78	Non RNA-binding protein
-Q5T5Y3|CAMP1_HUMAN	1.65	RNA-binding protein
-Q86UD0|SAPC2_HUMAN	-0.09	RNA-binding protein
-Q92597|NDRG1_HUMAN	0.80	RNA-binding protein
-Q9NSA3|CNBP1_HUMAN	0.24	RNA-binding protein
-B7U540|KCJ18_HUMAN	-0.27	Non RNA-binding protein
-Q9UNE0|EDAR_HUMAN	1.51	RNA-binding protein
-Q5VT40|FA78B_HUMAN	-0.73	Non RNA-binding protein
-P55089|UCN1_HUMAN	-1.98	Non RNA-binding protein
-Q92914|FGF11_HUMAN	1.25	RNA-binding protein
-Q9NWQ8|PHAG1_HUMAN	2.56	RNA-binding protein
-P40967|PMEL_HUMAN	-0.22	RNA-binding protein
-Q8WWZ8|OIT3_HUMAN	-0.43	Non RNA-binding protein
-A6H8Z2|F221B_HUMAN	0.32	RNA-binding protein
-O60645|EXOC3_HUMAN	0.98	RNA-binding protein
-Q6UW60|PCSK4_HUMAN	-1.51	Non RNA-binding protein
-Q03828|EVX2_HUMAN	-0.79	Non RNA-binding protein
-Q9UBU3|GHRL_HUMAN	0.05	RNA-binding protein
-P32926|DSG3_HUMAN	0.44	RNA-binding protein
-P51861|CDR1_HUMAN	-4.71	Non RNA-binding protein
-O00264|PGRC1_HUMAN	0.47	RNA-binding protein
-Q2TBA0|KLH40_HUMAN	-0.53	Non RNA-binding protein
-O75414|NDK6_HUMAN	-1.48	Non RNA-binding protein
-Q9BZM6|N2DL1_HUMAN	-1.34	Non RNA-binding protein
-P14384|CBPM_HUMAN	0.14	RNA-binding protein
-Q7Z7H3|CATIP_HUMAN	-0.55	Non RNA-binding protein
-Q9H3P7|GCP60_HUMAN	0.31	RNA-binding protein
-Q32M92|CO032_HUMAN	0.92	RNA-binding protein
-P05814|CASB_HUMAN	-1.74	Non RNA-binding protein
-A5PL33|KRBA1_HUMAN	-0.29	Non RNA-binding protein
-Q8WZ33|MAFIP_HUMAN	0.16	RNA-binding protein
-Q8WWY6|MB3L1_HUMAN	1.32	RNA-binding protein
-P51790|CLCN3_HUMAN	-2.58	Non RNA-binding protein
-O15061|SYNEM_HUMAN	1.09	RNA-binding protein
-Q92915|FGF14_HUMAN	2.13	RNA-binding protein
-Q9NWV8|BABA1_HUMAN	1.52	RNA-binding protein
-O43286|B4GT5_HUMAN	-0.94	Non RNA-binding protein
-Q5VVM6|CCD30_HUMAN	-1.38	Non RNA-binding protein
-O75800|ZMY10_HUMAN	-0.27	Non RNA-binding protein
-Q86SH4|PRNT_HUMAN	-4.35	Non RNA-binding protein
-P00167|CYB5_HUMAN	-0.93	Non RNA-binding protein
-Q9NSB8|HOME2_HUMAN	-0.13	RNA-binding protein
-P0CK96|S352B_HUMAN	-2.33	Non RNA-binding protein
-O15063|K0355_HUMAN	1.67	RNA-binding protein
-Q70J99|UN13D_HUMAN	-0.04	RNA-binding protein
-Q9NP56|PDE7B_HUMAN	0.25	RNA-binding protein
-Q2KHT4|GSG1_HUMAN	-1.15	Non RNA-binding protein
-A8MZ26|EFCB9_HUMAN	-0.20	RNA-binding protein
-P03886|NU1M_HUMAN	-7.06	Non RNA-binding protein
-Q96A59|MALD3_HUMAN	1.05	RNA-binding protein
-Q8WWF8|CAPSL_HUMAN	0.62	RNA-binding protein
-Q9NWZ8|GEMI8_HUMAN	-0.84	Non RNA-binding protein
-O00443|P3C2A_HUMAN	0.59	RNA-binding protein
-Q9P1W3|CSC1_HUMAN	-3.23	Non RNA-binding protein
-P30532|ACHA5_HUMAN	-2.17	Non RNA-binding protein
-Q8IWV1|LAX1_HUMAN	0.91	RNA-binding protein
-Q3V5L5|MGT5B_HUMAN	-0.12	RNA-binding protein
-P57740|NU107_HUMAN	-0.05	RNA-binding protein
-Q9UKZ4|TEN1_HUMAN	-0.30	Non RNA-binding protein
-Q8NH43|OR4L1_HUMAN	-7.65	Non RNA-binding protein
-Q9Y5T5|UBP16_HUMAN	1.99	RNA-binding protein
-O95249|GOSR1_HUMAN	0.02	RNA-binding protein
-Q96B02|UBE2W_HUMAN	0.98	RNA-binding protein
-A6NEY8|PRXD1_HUMAN	-0.72	Non RNA-binding protein
-P10636|TAU_HUMAN	2.40	RNA-binding protein
-P30049|ATPD_HUMAN	-0.08	RNA-binding protein
-P04234|CD3D_HUMAN	-1.18	Non RNA-binding protein
-Q8TE02|ELP5_HUMAN	-0.37	Non RNA-binding protein
-P13521|SCG2_HUMAN	1.56	RNA-binding protein
-Q14696|MESD_HUMAN	1.53	RNA-binding protein
-Q9UBU6|FA8A1_HUMAN	-0.76	Non RNA-binding protein
-O60437|PEPL_HUMAN	-0.10	RNA-binding protein
-Q9Y275|TN13B_HUMAN	0.86	RNA-binding protein
-P52294|IMA5_HUMAN	1.06	RNA-binding protein
-Q7L5Y9|MAEA_HUMAN	1.85	RNA-binding protein
-P18405|S5A1_HUMAN	-4.00	Non RNA-binding protein
-Q8IY82|DRC7_HUMAN	0.07	RNA-binding protein
-Q5XG99|LYSM4_HUMAN	1.29	RNA-binding protein
-Q8TF44|C2C4C_HUMAN	0.58	RNA-binding protein
-O95631|NET1_HUMAN	1.10	RNA-binding protein
-Q01668|CAC1D_HUMAN	0.21	RNA-binding protein
-Q08188|TGM3_HUMAN	0.34	RNA-binding protein
-P42892|ECE1_HUMAN	0.34	RNA-binding protein
-Q6UWR7|ENPP6_HUMAN	-1.32	Non RNA-binding protein
-P49747|COMP_HUMAN	0.13	RNA-binding protein
-P78395|PRAME_HUMAN	-1.56	Non RNA-binding protein
-P18887|XRCC1_HUMAN	1.97	RNA-binding protein
-Q969F2|NKD2_HUMAN	0.39	RNA-binding protein
-Q8N4V2|SVOP_HUMAN	-4.20	Non RNA-binding protein
-Q96RI0|PAR4_HUMAN	-6.08	Non RNA-binding protein
-P05556|ITB1_HUMAN	0.69	RNA-binding protein
-P09565|IG2R_HUMAN	-1.91	Non RNA-binding protein
-Q8WTP9|XAGE3_HUMAN	1.29	RNA-binding protein
-P18509|PACA_HUMAN	-0.31	Non RNA-binding protein
-Q9H7T3|CJ095_HUMAN	0.40	RNA-binding protein
-Q8WYK2|JDP2_HUMAN	0.91	RNA-binding protein
-Q5TEJ8|THMS2_HUMAN	0.44	RNA-binding protein
-Q8IZT6|ASPM_HUMAN	2.24	RNA-binding protein
-Q5FYA8|ARSH_HUMAN	-2.83	Non RNA-binding protein
-Q17R89|RHG44_HUMAN	1.64	RNA-binding protein
-Q8IWF6|DEN6A_HUMAN	-0.09	RNA-binding protein
-Q96AG3|S2546_HUMAN	-1.95	Non RNA-binding protein
-A2VDF0|FUCM_HUMAN	-2.35	Non RNA-binding protein
-Q9Y2D8|ADIP_HUMAN	0.56	RNA-binding protein
-Q9UPV7|PHF24_HUMAN	0.56	RNA-binding protein
-Q9NZ56|FMN2_HUMAN	0.24	RNA-binding protein
-Q5TBE3|CI153_HUMAN	2.78	RNA-binding protein
-Q7RTR8|T2R42_HUMAN	-8.84	Non RNA-binding protein
-Q13490|BIRC2_HUMAN	1.19	RNA-binding protein
-K7EIQ3|CS082_HUMAN	-1.20	Non RNA-binding protein
-A5LHX3|PSB11_HUMAN	-1.47	Non RNA-binding protein
-Q6UW02|CP20A_HUMAN	-0.34	Non RNA-binding protein
-Q7Z449|CP2U1_HUMAN	-1.46	Non RNA-binding protein
-P41586|PACR_HUMAN	-3.65	Non RNA-binding protein
-Q9HBU1|BARX1_HUMAN	0.85	RNA-binding protein
-O15498|YKT6_HUMAN	0.38	RNA-binding protein
-O94823|AT10B_HUMAN	-0.35	Non RNA-binding protein
-Q96F44|TRI11_HUMAN	0.02	RNA-binding protein
-Q9UHV9|PFD2_HUMAN	1.43	RNA-binding protein
-Q9Y255|PRLD1_HUMAN	0.19	RNA-binding protein
-P0CG37|CFC1_HUMAN	-2.98	Non RNA-binding protein
-P27658|CO8A1_HUMAN	0.97	RNA-binding protein
-Q6ZQQ2|S31D1_HUMAN	0.82	RNA-binding protein
-Q5VZT2|CJ113_HUMAN	1.13	RNA-binding protein
-P49006|MRP_HUMAN	2.98	RNA-binding protein
-Q9HBL8|NMRL1_HUMAN	0.74	RNA-binding protein
-Q9Y5Q0|FADS3_HUMAN	-3.21	Non RNA-binding protein
-Q0D2K5|EGFEM_HUMAN	1.42	RNA-binding protein
-Q9Y3Q7|ADA18_HUMAN	0.26	RNA-binding protein
-Q9BZR8|B2L14_HUMAN	0.97	RNA-binding protein
-Q96PU4|UHRF2_HUMAN	1.52	RNA-binding protein
-A6NH11|GLTD2_HUMAN	-3.29	Non RNA-binding protein
-Q9HBR0|S38AA_HUMAN	1.50	RNA-binding protein
-Q14162|SREC_HUMAN	1.31	RNA-binding protein
-Q70CQ4|UBP31_HUMAN	1.35	RNA-binding protein
-Q96CC6|RHDF1_HUMAN	-0.91	Non RNA-binding protein
-Q5W188|CST9P_HUMAN	-2.17	Non RNA-binding protein
-Q8NFW9|MYRIP_HUMAN	1.32	RNA-binding protein
-Q8N392|RHG18_HUMAN	1.54	RNA-binding protein
-Q9Y664|KPTN_HUMAN	-0.24	RNA-binding protein
-Q9BY76|ANGL4_HUMAN	0.16	RNA-binding protein
-Q9C0B1|FTO_HUMAN	0.43	RNA-binding protein
-Q9UQK1|PPR3C_HUMAN	0.43	RNA-binding protein
-Q8NGQ3|OR1S2_HUMAN	-6.13	Non RNA-binding protein
-Q9UMW8|UBP18_HUMAN	1.11	RNA-binding protein
-Q7Z460|CLAP1_HUMAN	0.92	RNA-binding protein
-P02656|APOC3_HUMAN	-1.38	Non RNA-binding protein
-Q86SQ3|AGRE4_HUMAN	-4.66	Non RNA-binding protein
-O14763|TR10B_HUMAN	1.52	RNA-binding protein
-Q96LK0|CEP19_HUMAN	0.74	RNA-binding protein
-Q96KJ9|COX42_HUMAN	0.42	RNA-binding protein
-Q8NEE0|KLAS1_HUMAN	-0.19	RNA-binding protein
-Q86UK5|LBN_HUMAN	0.63	RNA-binding protein
-Q92982|NINJ1_HUMAN	-0.90	Non RNA-binding protein
-P06280|AGAL_HUMAN	-0.76	Non RNA-binding protein
-Q9BZD2|S29A3_HUMAN	-4.10	Non RNA-binding protein
-Q9GZP4|PITH1_HUMAN	0.32	RNA-binding protein
-Q2V2M9|FHOD3_HUMAN	1.72	RNA-binding protein
-Q4G0G2|H1AS1_HUMAN	1.63	RNA-binding protein
-Q7RTU5|ASCL5_HUMAN	0.64	RNA-binding protein
-A6NDL8|O6C68_HUMAN	-4.57	Non RNA-binding protein
-Q9Y6I3|EPN1_HUMAN	1.10	RNA-binding protein
-O60331|PI51C_HUMAN	1.14	RNA-binding protein
-P78381|S35A2_HUMAN	-3.47	Non RNA-binding protein
-Q8N3F9|G137C_HUMAN	-4.12	Non RNA-binding protein
-Q12893|TM115_HUMAN	-3.67	Non RNA-binding protein
-Q76NI1|VKIND_HUMAN	0.95	RNA-binding protein
-Q96NT0|CC115_HUMAN	-0.00	RNA-binding protein
-Q9UNW8|GP132_HUMAN	-2.65	Non RNA-binding protein
-Q96FW1|OTUB1_HUMAN	-0.07	RNA-binding protein
-P05067|A4_HUMAN	0.74	RNA-binding protein
-Q96BM0|I27L1_HUMAN	-2.50	Non RNA-binding protein
-Q9H8Y1|VRTN_HUMAN	-0.61	Non RNA-binding protein
-Q9NWH2|TM242_HUMAN	-1.08	Non RNA-binding protein
-Q9UJ98|STAG3_HUMAN	0.11	RNA-binding protein
-Q8N6K4|YP021_HUMAN	-3.13	Non RNA-binding protein
-Q8NFJ9|BBS1_HUMAN	0.12	RNA-binding protein
-Q02083|NAAA_HUMAN	-1.61	Non RNA-binding protein
-Q9Y496|KIF3A_HUMAN	1.51	RNA-binding protein
-A6NCI8|CB078_HUMAN	1.94	RNA-binding protein
-Q9P0W0|IFNK_HUMAN	-0.21	RNA-binding protein
-P0C5K7|CT62_HUMAN	-0.99	Non RNA-binding protein
-Q5T4W7|ARTN_HUMAN	-3.15	Non RNA-binding protein
-Q6UY27|PATE2_HUMAN	-4.23	Non RNA-binding protein
-Q9H239|MMP28_HUMAN	-1.80	Non RNA-binding protein
-Q9HBT6|CAD20_HUMAN	-0.15	RNA-binding protein
-P38117|ETFB_HUMAN	1.43	RNA-binding protein
-Q96GN5|CDA7L_HUMAN	1.52	RNA-binding protein
-Q8IZS7|CLCL1_HUMAN	-1.62	Non RNA-binding protein
-Q09MP3|R51A2_HUMAN	1.56	RNA-binding protein
-Q8WUX9|CHMP7_HUMAN	0.88	RNA-binding protein
-Q3LHN1|KR213_HUMAN	-6.23	Non RNA-binding protein
-Q6ZQR2|CFA77_HUMAN	1.63	RNA-binding protein
-Q8TCX5|RHPN1_HUMAN	-0.09	RNA-binding protein
-O60243|H6ST1_HUMAN	0.69	RNA-binding protein
-P09525|ANXA4_HUMAN	0.51	RNA-binding protein
-Q8IXY8|PPIL6_HUMAN	0.78	RNA-binding protein
-Q5T124|UBX11_HUMAN	1.23	RNA-binding protein
-Q6NXP2|F71F2_HUMAN	-0.00	RNA-binding protein
-Q9HC84|MUC5B_HUMAN	-1.83	Non RNA-binding protein
-P31431|SDC4_HUMAN	1.38	RNA-binding protein
-P29371|NK3R_HUMAN	-2.69	Non RNA-binding protein
-Q9UKJ8|ADA21_HUMAN	-0.68	Non RNA-binding protein
-O43680|TCF21_HUMAN	2.27	RNA-binding protein
-A6NEK1|ARRD5_HUMAN	-0.09	RNA-binding protein
-P54829|PTN5_HUMAN	0.28	RNA-binding protein
-Q2NKQ1|SGSM1_HUMAN	0.43	RNA-binding protein
-A6NKN8|PC4L1_HUMAN	0.13	RNA-binding protein
-Q9Y2B2|PIGL_HUMAN	-2.42	Non RNA-binding protein
-P05413|FABPH_HUMAN	-3.72	Non RNA-binding protein
-P01298|PAHO_HUMAN	-1.77	Non RNA-binding protein
-Q107X0|KRIP1_HUMAN	-0.89	Non RNA-binding protein
-P04278|SHBG_HUMAN	-2.26	Non RNA-binding protein
-Q9UI25|YP002_HUMAN	0.51	RNA-binding protein
-Q5TA31|RN187_HUMAN	-0.04	RNA-binding protein
-O43731|ERD23_HUMAN	-7.99	Non RNA-binding protein
-Q99727|TIMP4_HUMAN	-0.59	Non RNA-binding protein
-Q92482|AQP3_HUMAN	-4.68	Non RNA-binding protein
-O95665|NTR2_HUMAN	-3.44	Non RNA-binding protein
-Q9BT92|TCHP_HUMAN	-5.63	Non RNA-binding protein
-P48651|PTSS1_HUMAN	-5.80	Non RNA-binding protein
-Q5BIV9|SPRN_HUMAN	-4.29	Non RNA-binding protein
-O15123|ANGP2_HUMAN	0.05	RNA-binding protein
-Q8IZ16|CG061_HUMAN	-0.36	Non RNA-binding protein
-Q6UX39|AMTN_HUMAN	-1.26	Non RNA-binding protein
-A2RU30|TESP1_HUMAN	0.91	RNA-binding protein
-A6NK02|TRI75_HUMAN	0.62	RNA-binding protein
-Q9HCN2|TPIP1_HUMAN	-1.82	Non RNA-binding protein
-Q8N661|TM86B_HUMAN	-7.02	Non RNA-binding protein
-Q9Y3M2|CBY1_HUMAN	0.61	RNA-binding protein
-Q96HA1|P121A_HUMAN	0.64	RNA-binding protein
-P03928|ATP8_HUMAN	-1.29	Non RNA-binding protein
-P01374|TNFB_HUMAN	-3.39	Non RNA-binding protein
-Q16613|SNAT_HUMAN	-4.73	Non RNA-binding protein
-Q8NGL3|OR5DE_HUMAN	-6.50	Non RNA-binding protein
-Q9H159|CAD19_HUMAN	-0.08	RNA-binding protein
-P29218|IMPA1_HUMAN	0.37	RNA-binding protein
-Q96JB8|MPP4_HUMAN	0.85	RNA-binding protein
-Q16718|NDUA5_HUMAN	-0.76	Non RNA-binding protein
-Q01851|PO4F1_HUMAN	-0.72	Non RNA-binding protein
-Q8NFH8|REPS2_HUMAN	1.71	RNA-binding protein
-O95183|VAMP5_HUMAN	1.70	RNA-binding protein
-Q53HC5|KLH26_HUMAN	-0.78	Non RNA-binding protein
-Q99618|CDCA3_HUMAN	1.67	RNA-binding protein
-Q96MC5|CP045_HUMAN	-0.12	RNA-binding protein
-P78347|GTF2I_HUMAN	1.72	RNA-binding protein
-P61421|VA0D1_HUMAN	-1.26	Non RNA-binding protein
-Q9P1D8|YP008_HUMAN	0.33	RNA-binding protein
-Q9ULY5|CLC4E_HUMAN	-1.25	Non RNA-binding protein
-Q5DID0|UROL1_HUMAN	0.21	RNA-binding protein
-Q9P126|CLC1B_HUMAN	-0.51	Non RNA-binding protein
-O14524|NEMP1_HUMAN	-2.07	Non RNA-binding protein
-Q99624|S38A3_HUMAN	-3.47	Non RNA-binding protein
-Q15649|ZNHI3_HUMAN	1.51	RNA-binding protein
-O95379|TFIP8_HUMAN	1.26	RNA-binding protein
-Q8IY26|PLPP6_HUMAN	-4.95	Non RNA-binding protein
-Q9BPX1|DHB14_HUMAN	0.07	RNA-binding protein
-Q96PX6|CC85A_HUMAN	0.79	RNA-binding protein
-Q8TC07|TBC15_HUMAN	0.34	RNA-binding protein
-Q6UX40|TM107_HUMAN	-6.65	Non RNA-binding protein
-O43247|TEX33_HUMAN	1.74	RNA-binding protein
-H7C350|CC188_HUMAN	-0.29	Non RNA-binding protein
-Q8IUC1|KR111_HUMAN	-1.28	Non RNA-binding protein
-A1E959|ODAM_HUMAN	-0.20	RNA-binding protein
-O75311|GLRA3_HUMAN	-0.98	Non RNA-binding protein
-P25105|PTAFR_HUMAN	-3.58	Non RNA-binding protein
-P56746|CLD15_HUMAN	-4.99	Non RNA-binding protein
-P14174|MIF_HUMAN	0.87	RNA-binding protein
-Q99435|NELL2_HUMAN	-1.08	Non RNA-binding protein
-Q8TDX6|CGAT1_HUMAN	0.91	RNA-binding protein
-Q8IX21|SLF2_HUMAN	1.85	RNA-binding protein
-P16109|LYAM3_HUMAN	0.29	RNA-binding protein
-P56202|CATW_HUMAN	0.17	RNA-binding protein
-P32245|MC4R_HUMAN	-3.87	Non RNA-binding protein
-Q9BZW4|TM6S2_HUMAN	-5.73	Non RNA-binding protein
-Q9H903|MTD2L_HUMAN	0.36	RNA-binding protein
-Q9NQR7|CC177_HUMAN	-0.30	Non RNA-binding protein
-Q6IE38|ISK14_HUMAN	-3.75	Non RNA-binding protein
-O14908|GIPC1_HUMAN	1.01	RNA-binding protein
-P0DJH9|RD3L_HUMAN	-0.25	Non RNA-binding protein
-Q9Y342|PLLP_HUMAN	-5.04	Non RNA-binding protein
-Q07011|TNR9_HUMAN	0.95	RNA-binding protein
-Q9BYW3|DB126_HUMAN	-0.51	Non RNA-binding protein
-Q8IV08|PLD3_HUMAN	-0.62	Non RNA-binding protein
-Q8WU58|F222B_HUMAN	0.58	RNA-binding protein
-Q7Z699|SPRE1_HUMAN	1.61	RNA-binding protein
-Q9Y6I4|UBP3_HUMAN	0.53	RNA-binding protein
-Q9BWX1|PHF7_HUMAN	1.83	RNA-binding protein
-Q9Y5Z7|HCFC2_HUMAN	0.55	RNA-binding protein
-Q6ZS62|COLC1_HUMAN	-1.70	Non RNA-binding protein
-Q71RS6|NCKX5_HUMAN	-4.34	Non RNA-binding protein
-Q08380|LG3BP_HUMAN	-1.65	Non RNA-binding protein
-Q9HCI6|K1586_HUMAN	0.59	RNA-binding protein
-Q8N9X3|YA026_HUMAN	0.35	RNA-binding protein
-P05154|IPSP_HUMAN	0.25	RNA-binding protein
-O43281|EFS_HUMAN	-0.50	Non RNA-binding protein
-Q63HM1|KFA_HUMAN	-0.55	Non RNA-binding protein
-Q9Y6N9|USH1C_HUMAN	1.97	RNA-binding protein
-Q9Y661|HS3S4_HUMAN	0.29	RNA-binding protein
-O95139|NDUB6_HUMAN	-0.27	Non RNA-binding protein
-Q9BXF3|CECR2_HUMAN	1.70	RNA-binding protein
-Q99527|GPER1_HUMAN	-3.68	Non RNA-binding protein
-Q5TG30|RHG40_HUMAN	0.98	RNA-binding protein
-Q8NH80|O10D3_HUMAN	-6.89	Non RNA-binding protein
-P12829|MYL4_HUMAN	1.59	RNA-binding protein
-P78417|GSTO1_HUMAN	-0.09	RNA-binding protein
-Q9H3N8|HRH4_HUMAN	-3.58	Non RNA-binding protein
-Q16352|AINX_HUMAN	0.21	RNA-binding protein
-Q9UBD9|CLCF1_HUMAN	-2.18	Non RNA-binding protein
-P32780|TF2H1_HUMAN	1.70	RNA-binding protein
-P98088|MUC5A_HUMAN	-0.94	Non RNA-binding protein
-P19099|C11B2_HUMAN	-1.48	Non RNA-binding protein
-Q16890|TPD53_HUMAN	0.29	RNA-binding protein
-O95935|TBX18_HUMAN	1.00	RNA-binding protein
-P0C0P6|NPS_HUMAN	-0.66	Non RNA-binding protein
-Q9UNH6|SNX7_HUMAN	-0.12	RNA-binding protein
-Q8WVD3|RN138_HUMAN	0.02	RNA-binding protein
-Q96RU2|UBP28_HUMAN	0.94	RNA-binding protein
-P03923|NU6M_HUMAN	-5.05	Non RNA-binding protein
-Q9H2G9|GO45_HUMAN	1.79	RNA-binding protein
-Q9Y6R0|NUMBL_HUMAN	0.96	RNA-binding protein
-Q8NFP0|PXT1_HUMAN	1.99	RNA-binding protein
-Q969I6|S38A4_HUMAN	-2.69	Non RNA-binding protein
-Q9UGK3|STAP2_HUMAN	1.14	RNA-binding protein
-A8MZ36|EVPLL_HUMAN	0.10	RNA-binding protein
-Q5VT06|CE350_HUMAN	1.09	RNA-binding protein
-Q9GZY1|PBOV1_HUMAN	-1.11	Non RNA-binding protein
-Q8TEV9|SMCR8_HUMAN	0.52	RNA-binding protein
-O60551|NMT2_HUMAN	1.13	RNA-binding protein
-Q5EG05|CAR16_HUMAN	0.26	RNA-binding protein
-Q53SF7|COBL1_HUMAN	1.97	RNA-binding protein
-Q9HA64|KT3K_HUMAN	-0.01	RNA-binding protein
-P06276|CHLE_HUMAN	-1.42	Non RNA-binding protein
-K7EJ46|SIM22_HUMAN	-1.34	Non RNA-binding protein
-Q13542|4EBP2_HUMAN	-0.72	Non RNA-binding protein
-O43261|LEU1_HUMAN	-0.68	Non RNA-binding protein
-Q6UWF3|SCIMP_HUMAN	-0.29	Non RNA-binding protein
-Q9BZ67|FRMD8_HUMAN	-0.22	RNA-binding protein
-P49069|CAMLG_HUMAN	0.86	RNA-binding protein
-Q8WV19|SFT2A_HUMAN	-7.21	Non RNA-binding protein
-Q9HAT8|PELI2_HUMAN	0.22	RNA-binding protein
-Q9H0U9|TSYL1_HUMAN	0.96	RNA-binding protein
-Q15758|AAAT_HUMAN	-3.27	Non RNA-binding protein
-Q9Y5H8|PCDA3_HUMAN	1.45	RNA-binding protein
-A8MTZ0|BBIP1_HUMAN	2.20	RNA-binding protein
-A8MPX8|PP2D1_HUMAN	0.43	RNA-binding protein
-Q6ZQT7|YJ013_HUMAN	-2.31	Non RNA-binding protein
-Q8WW59|SPRY4_HUMAN	-0.94	Non RNA-binding protein
-A4D263|CG072_HUMAN	0.42	RNA-binding protein
-O43257|ZNHI1_HUMAN	2.73	RNA-binding protein
-Q7Z3J2|CP062_HUMAN	0.16	RNA-binding protein
-A6NGJ6|TRI64_HUMAN	0.45	RNA-binding protein
-P34741|SDC2_HUMAN	0.41	RNA-binding protein
-P08729|K2C7_HUMAN	1.40	RNA-binding protein
-Q96A09|FA46B_HUMAN	-1.01	Non RNA-binding protein
-Q9NSE7|ABCCD_HUMAN	0.55	RNA-binding protein
-E9PI22|P23D1_HUMAN	0.42	RNA-binding protein
-Q9BR77|CCD77_HUMAN	0.50	RNA-binding protein
-Q5HYC2|K2026_HUMAN	1.84	RNA-binding protein
-Q92628|K0232_HUMAN	1.80	RNA-binding protein
-Q16661|GUC2B_HUMAN	0.34	RNA-binding protein
-Q5VZQ5|TEX36_HUMAN	1.47	RNA-binding protein
-P31213|S5A2_HUMAN	-6.55	Non RNA-binding protein
-Q14112|NID2_HUMAN	-0.03	RNA-binding protein
-Q9NWV4|CA123_HUMAN	0.49	RNA-binding protein
-P50749|RASF2_HUMAN	1.17	RNA-binding protein
-P59796|GPX6_HUMAN	-1.19	Non RNA-binding protein
-P0C7V0|CF217_HUMAN	-0.29	Non RNA-binding protein
-Q9H3P2|NELFA_HUMAN	1.96	RNA-binding protein
-Q96DB9|FXYD5_HUMAN	-1.79	Non RNA-binding protein
-Q96RE7|NACC1_HUMAN	1.92	RNA-binding protein
-A1A519|F170A_HUMAN	0.55	RNA-binding protein
-P21912|SDHB_HUMAN	0.84	RNA-binding protein
-Q5VVC0|CA146_HUMAN	-0.34	Non RNA-binding protein
-P32745|SSR3_HUMAN	-0.76	Non RNA-binding protein
-Q96N87|S6A18_HUMAN	-4.74	Non RNA-binding protein
-O76064|RNF8_HUMAN	1.06	RNA-binding protein
-Q9C0H9|SRCN1_HUMAN	1.40	RNA-binding protein
-Q9BXU9|CABP8_HUMAN	0.59	RNA-binding protein
-P19438|TNR1A_HUMAN	0.28	RNA-binding protein
-Q8J025|APCD1_HUMAN	-1.13	Non RNA-binding protein
-P16083|NQO2_HUMAN	-0.97	Non RNA-binding protein
-P05112|IL4_HUMAN	-1.43	Non RNA-binding protein
-Q96MI6|PPM1M_HUMAN	-0.04	RNA-binding protein
-Q96NY7|CLIC6_HUMAN	2.27	RNA-binding protein
-Q9HD34|LYRM4_HUMAN	2.18	RNA-binding protein
-P21917|DRD4_HUMAN	-2.96	Non RNA-binding protein
-A6NED2|RCCD1_HUMAN	-1.72	Non RNA-binding protein
-P21246|PTN_HUMAN	1.40	RNA-binding protein
-Q00994|BEX3_HUMAN	-0.03	RNA-binding protein
-P13671|CO6_HUMAN	1.25	RNA-binding protein
-Q86U17|SPA11_HUMAN	-0.89	Non RNA-binding protein
-Q13621|S12A1_HUMAN	-0.58	Non RNA-binding protein
-O75074|LRP3_HUMAN	0.16	RNA-binding protein
-P10600|TGFB3_HUMAN	0.89	RNA-binding protein
-Q969U7|PSMG2_HUMAN	-0.01	RNA-binding protein
-Q92187|SIA8D_HUMAN	0.08	RNA-binding protein
-Q9NQ92|COPRS_HUMAN	1.19	RNA-binding protein
-Q9H819|DJC18_HUMAN	0.60	RNA-binding protein
-Q8N1H7|S6OS1_HUMAN	-0.12	RNA-binding protein
-Q92685|ALG3_HUMAN	-7.02	Non RNA-binding protein
-Q02383|SEMG2_HUMAN	0.05	RNA-binding protein
-Q8NGJ4|O52E2_HUMAN	-6.11	Non RNA-binding protein
-Q9NZK5|CECR1_HUMAN	-0.90	Non RNA-binding protein
-Q6GQQ9|OTU7B_HUMAN	1.69	RNA-binding protein
-Q9Y4F5|C170B_HUMAN	1.01	RNA-binding protein
-Q08493|PDE4C_HUMAN	0.81	RNA-binding protein
-Q96C03|MID49_HUMAN	-2.82	Non RNA-binding protein
-Q5JR12|PPM1J_HUMAN	0.30	RNA-binding protein
-Q4G112|HSF5_HUMAN	1.70	RNA-binding protein
-Q6B0K9|HBM_HUMAN	-0.92	Non RNA-binding protein
-Q9UKN1|MUC12_HUMAN	-1.09	Non RNA-binding protein
-P52789|HXK2_HUMAN	0.57	RNA-binding protein
-Q96T76|MMS19_HUMAN	-0.86	Non RNA-binding protein
-Q93050|VPP1_HUMAN	-2.08	Non RNA-binding protein
-O14617|AP3D1_HUMAN	1.83	RNA-binding protein
-Q9UHI7|S23A1_HUMAN	-4.10	Non RNA-binding protein
-Q6ZW61|BBS12_HUMAN	-0.10	RNA-binding protein
-Q3LI77|KR134_HUMAN	1.53	RNA-binding protein
-Q5T6L9|EMARD_HUMAN	-2.13	Non RNA-binding protein
-Q9BR09|NEUL2_HUMAN	-1.76	Non RNA-binding protein
-Q9NQC7|CYLD_HUMAN	1.01	RNA-binding protein
-Q96P67|GPR82_HUMAN	-3.82	Non RNA-binding protein
-Q96B97|SH3K1_HUMAN	2.36	RNA-binding protein
-P01579|IFNG_HUMAN	1.51	RNA-binding protein
-P04156|PRIO_HUMAN	-0.51	Non RNA-binding protein
-Q8IVF2|AHNK2_HUMAN	1.39	RNA-binding protein
-Q9NP31|SH22A_HUMAN	0.07	RNA-binding protein
-Q9UBG3|CRNN_HUMAN	-3.40	Non RNA-binding protein
-O95073|FSBP_HUMAN	1.13	RNA-binding protein
-Q8N196|SIX5_HUMAN	-0.20	RNA-binding protein
-Q9NQ33|ASCL3_HUMAN	0.98	RNA-binding protein
-Q9Y244|POMP_HUMAN	0.27	RNA-binding protein
-Q75WM6|H1FNT_HUMAN	1.45	RNA-binding protein
-Q6X784|ZPBP2_HUMAN	-0.70	Non RNA-binding protein
-Q9P215|POGK_HUMAN	1.03	RNA-binding protein
-P05091|ALDH2_HUMAN	0.33	RNA-binding protein
-O75787|RENR_HUMAN	-0.46	Non RNA-binding protein
-P84550|SKOR1_HUMAN	1.05	RNA-binding protein
-Q13609|DNSL3_HUMAN	0.37	RNA-binding protein
-Q9BZP3|CR002_HUMAN	0.16	RNA-binding protein
-P06396|GELS_HUMAN	0.74	RNA-binding protein
-P41219|PERI_HUMAN	-0.53	Non RNA-binding protein
-P20963|CD3Z_HUMAN	1.92	RNA-binding protein
-Q86WR0|CCD25_HUMAN	0.19	RNA-binding protein
-H3BS89|T178B_HUMAN	-2.84	Non RNA-binding protein
-Q01344|IL5RA_HUMAN	-1.48	Non RNA-binding protein
-P35414|APJ_HUMAN	-3.71	Non RNA-binding protein
-Q8N5B7|CERS5_HUMAN	-4.51	Non RNA-binding protein
-Q76M96|CCD80_HUMAN	1.88	RNA-binding protein
-O95838|GLP2R_HUMAN	-3.44	Non RNA-binding protein
-Q9H008|LHPP_HUMAN	1.28	RNA-binding protein
-O75173|ATS4_HUMAN	-0.71	Non RNA-binding protein
-P31277|HXD11_HUMAN	1.76	RNA-binding protein
-P0CV99|TSPY4_HUMAN	0.14	RNA-binding protein
-Q99750|MDFI_HUMAN	0.90	RNA-binding protein
-Q6UXF1|TM108_HUMAN	0.70	RNA-binding protein
-P55283|CADH4_HUMAN	0.52	RNA-binding protein
-Q9Y2F5|ICE1_HUMAN	2.01	RNA-binding protein
-P78352|DLG4_HUMAN	1.09	RNA-binding protein
-Q9BS40|LXN_HUMAN	0.19	RNA-binding protein
-P26436|ASPX_HUMAN	1.39	RNA-binding protein
-Q9BTD1|SHAS3_HUMAN	-1.65	Non RNA-binding protein
-Q9Y548|YIPF1_HUMAN	-3.32	Non RNA-binding protein
-Q9Y219|JAG2_HUMAN	-0.71	Non RNA-binding protein
-Q6P050|FXL22_HUMAN	-1.46	Non RNA-binding protein
-Q14565|DMC1_HUMAN	0.72	RNA-binding protein
-Q7Z3T1|OR2W3_HUMAN	-4.88	Non RNA-binding protein
-Q9Y6H8|CXA3_HUMAN	-0.48	Non RNA-binding protein
-Q9UNN4|TF2AY_HUMAN	1.36	RNA-binding protein
-P55160|NCKPL_HUMAN	-0.48	Non RNA-binding protein
-Q5T036|F120S_HUMAN	-0.90	Non RNA-binding protein
-P07602|SAP_HUMAN	0.05	RNA-binding protein
-Q6UXV4|MIC27_HUMAN	1.09	RNA-binding protein
-Q8N5J2|FA63A_HUMAN	1.14	RNA-binding protein
-P46020|KPB1_HUMAN	0.27	RNA-binding protein
-Q9BQE6|LBHD1_HUMAN	0.84	RNA-binding protein
-A6ND36|FA83G_HUMAN	0.92	RNA-binding protein
-Q96PH1|NOX5_HUMAN	-1.72	Non RNA-binding protein
-Q8IX05|CD302_HUMAN	-2.43	Non RNA-binding protein
-Q6ZN03|CU136_HUMAN	0.01	RNA-binding protein
-Q8IZP9|AGRG2_HUMAN	-0.22	RNA-binding protein
-Q9NVZ3|NECP2_HUMAN	0.89	RNA-binding protein
-Q6AZY7|SCAR3_HUMAN	1.40	RNA-binding protein
-Q9UHI8|ATS1_HUMAN	1.12	RNA-binding protein
-O14829|PPE1_HUMAN	0.03	RNA-binding protein
-Q6ZNB5|TRC2L_HUMAN	1.80	RNA-binding protein
-Q9UNE2|RPH3L_HUMAN	1.19	RNA-binding protein
-Q8WW14|CJ082_HUMAN	1.36	RNA-binding protein
-Q14574|DSC3_HUMAN	0.71	RNA-binding protein
-Q9UP52|TFR2_HUMAN	-1.18	Non RNA-binding protein
-Q12962|TAF10_HUMAN	-0.00	RNA-binding protein
-Q9UJY1|HSPB8_HUMAN	1.46	RNA-binding protein
-Q6HA08|ASTL_HUMAN	-0.50	Non RNA-binding protein
-Q6ZV29|PLPL7_HUMAN	0.34	RNA-binding protein
-Q9BZL1|UBL5_HUMAN	-2.07	Non RNA-binding protein
-P51582|P2RY4_HUMAN	-5.16	Non RNA-binding protein
-Q9H4I0|RD21L_HUMAN	0.99	RNA-binding protein
-Q96I76|GPTC3_HUMAN	0.97	RNA-binding protein
-Q9H343|O51I1_HUMAN	-5.83	Non RNA-binding protein
-Q9NPU4|CN132_HUMAN	-1.32	Non RNA-binding protein
-Q6N021|TET2_HUMAN	2.43	RNA-binding protein
-P54315|LIPR1_HUMAN	-1.00	Non RNA-binding protein
-Q15369|ELOC_HUMAN	-0.03	RNA-binding protein
-Q9BUZ4|TRAF4_HUMAN	0.82	RNA-binding protein
-P57060|RWD2B_HUMAN	0.23	RNA-binding protein
-Q9BZG2|PPAT_HUMAN	-4.26	Non RNA-binding protein
-P19429|TNNI3_HUMAN	2.08	RNA-binding protein
-Q8IWV7|UBR1_HUMAN	0.03	RNA-binding protein
-Q92502|STAR8_HUMAN	0.59	RNA-binding protein
-Q8N1I8|CAAS1_HUMAN	-0.59	Non RNA-binding protein
-Q99932|SPAG8_HUMAN	1.66	RNA-binding protein
-Q8NGV5|O13D1_HUMAN	-4.47	Non RNA-binding protein
-P10916|MLRV_HUMAN	0.62	RNA-binding protein
-Q6UWU4|CF089_HUMAN	-1.21	Non RNA-binding protein
-Q14116|IL18_HUMAN	0.44	RNA-binding protein
-P14649|MYL6B_HUMAN	2.21	RNA-binding protein
-O14994|SYN3_HUMAN	1.16	RNA-binding protein
-P21854|CD72_HUMAN	0.42	RNA-binding protein
-Q96AP0|ACD_HUMAN	-0.11	RNA-binding protein
-Q8NFJ8|BHE22_HUMAN	-0.80	Non RNA-binding protein
-Q96E09|F122A_HUMAN	1.89	RNA-binding protein
-Q96K78|AGRG7_HUMAN	-1.08	Non RNA-binding protein
-P36222|CH3L1_HUMAN	-2.07	Non RNA-binding protein
-O15375|MOT6_HUMAN	-4.87	Non RNA-binding protein
-Q8NA03|FSIP1_HUMAN	0.84	RNA-binding protein
-Q6UX01|LMBRL_HUMAN	-5.85	Non RNA-binding protein
-Q5TYM5|FA72A_HUMAN	-2.03	Non RNA-binding protein
-Q96F25|ALG14_HUMAN	-2.05	Non RNA-binding protein
-P41229|KDM5C_HUMAN	0.74	RNA-binding protein
-Q9NSB4|KRT82_HUMAN	1.49	RNA-binding protein
-Q6BCY4|NB5R2_HUMAN	-0.15	RNA-binding protein
-P42357|HUTH_HUMAN	0.38	RNA-binding protein
-Q9UBT7|CTNL1_HUMAN	0.76	RNA-binding protein
-P41597|CCR2_HUMAN	-4.46	Non RNA-binding protein
-P00441|SODC_HUMAN	1.15	RNA-binding protein
-Q8NEP7|KLDC9_HUMAN	-2.66	Non RNA-binding protein
-Q96BH3|ESPB1_HUMAN	-2.40	Non RNA-binding protein
-Q68DU8|KCD16_HUMAN	1.00	RNA-binding protein
-Q9NVX0|HAUS2_HUMAN	1.03	RNA-binding protein
-Q9HAY6|BCDO1_HUMAN	-0.61	Non RNA-binding protein
-Q8NGI7|O10V1_HUMAN	-5.03	Non RNA-binding protein
-Q96RI9|TAAR9_HUMAN	-3.73	Non RNA-binding protein
-P14867|GBRA1_HUMAN	-1.08	Non RNA-binding protein
-Q12836|ZP4_HUMAN	0.14	RNA-binding protein
-Q92564|DCNL4_HUMAN	-0.26	Non RNA-binding protein
-Q9UBV4|WNT16_HUMAN	0.17	RNA-binding protein
-Q8TCG2|P4K2B_HUMAN	1.07	RNA-binding protein
-Q8IVU9|CJ107_HUMAN	-1.03	Non RNA-binding protein
-O94864|ST65G_HUMAN	1.34	RNA-binding protein
-P18283|GPX2_HUMAN	-0.01	RNA-binding protein
-Q13576|IQGA2_HUMAN	1.20	RNA-binding protein
-Q9Y2I9|TBC30_HUMAN	1.67	RNA-binding protein
-A6NJI1|CK086_HUMAN	-2.80	Non RNA-binding protein
-P31275|HXC12_HUMAN	0.62	RNA-binding protein
-Q14416|GRM2_HUMAN	-1.62	Non RNA-binding protein
-P51825|AFF1_HUMAN	1.26	RNA-binding protein
-O95721|SNP29_HUMAN	1.44	RNA-binding protein
-Q9UHP7|CLC2D_HUMAN	-0.41	Non RNA-binding protein
-Q5VWZ2|LYPL1_HUMAN	0.17	RNA-binding protein
-Q14643|ITPR1_HUMAN	1.04	RNA-binding protein
-Q0P651|ABD18_HUMAN	0.30	RNA-binding protein
-P52732|KIF11_HUMAN	0.87	RNA-binding protein
-Q8IVP5|FUND1_HUMAN	0.63	RNA-binding protein
-Q6DN90|IQEC1_HUMAN	1.63	RNA-binding protein
-Q96A61|TRI52_HUMAN	-0.21	RNA-binding protein
-Q9Y3Q3|TMED3_HUMAN	-1.04	Non RNA-binding protein
-Q6UX65|DRAM2_HUMAN	-4.70	Non RNA-binding protein
-Q9NQR9|G6PC2_HUMAN	-6.56	Non RNA-binding protein
-Q9UGF7|O12D3_HUMAN	-6.05	Non RNA-binding protein
-Q9NWU1|OXSM_HUMAN	-0.21	RNA-binding protein
-Q9H8X9|ZDH11_HUMAN	-0.36	Non RNA-binding protein
-Q93063|EXT2_HUMAN	-0.09	RNA-binding protein
-Q8NCL8|TM116_HUMAN	-2.66	Non RNA-binding protein
-P47872|SCTR_HUMAN	-3.17	Non RNA-binding protein
-Q9NWF4|S52A1_HUMAN	-5.79	Non RNA-binding protein
-Q5VZ52|MORN5_HUMAN	-1.46	Non RNA-binding protein
-O15255|CXX1_HUMAN	-4.88	Non RNA-binding protein
-A6ND01|JUNO_HUMAN	-1.21	Non RNA-binding protein
-P59551|T2R60_HUMAN	-7.18	Non RNA-binding protein
-Q9UNH7|SNX6_HUMAN	0.87	RNA-binding protein
-Q14695|K0087_HUMAN	0.38	RNA-binding protein
-Q96P71|NECA3_HUMAN	-0.35	Non RNA-binding protein
-Q08431|MFGM_HUMAN	-0.67	Non RNA-binding protein
-P11215|ITAM_HUMAN	0.49	RNA-binding protein
-O95243|MBD4_HUMAN	1.45	RNA-binding protein
-Q9ULW2|FZD10_HUMAN	-1.18	Non RNA-binding protein
-Q5T0J3|CA220_HUMAN	0.38	RNA-binding protein
-Q8TEY5|CR3L4_HUMAN	1.21	RNA-binding protein
-Q96DG6|CMBL_HUMAN	-0.24	RNA-binding protein
-Q6PIV7|S2534_HUMAN	-1.85	Non RNA-binding protein
-O14841|OPLA_HUMAN	-0.44	Non RNA-binding protein
-P46939|UTRO_HUMAN	1.00	RNA-binding protein
-O43396|TXNL1_HUMAN	1.46	RNA-binding protein
-Q9BZQ8|NIBAN_HUMAN	1.25	RNA-binding protein
-Q6P444|MTFR2_HUMAN	1.92	RNA-binding protein
-Q8N104|D106A_HUMAN	-3.71	Non RNA-binding protein
-P55808|XG_HUMAN	1.17	RNA-binding protein
-Q8WWF3|SSMM1_HUMAN	0.56	RNA-binding protein
-P28062|PSB8_HUMAN	-0.04	RNA-binding protein
-O43741|AAKB2_HUMAN	0.73	RNA-binding protein
-A1L4Q6|YK033_HUMAN	-1.23	Non RNA-binding protein
-Q9H410|DSN1_HUMAN	0.72	RNA-binding protein
-A6NNE9|MARHB_HUMAN	-0.32	Non RNA-binding protein
-Q9UPM6|LHX6_HUMAN	1.87	RNA-binding protein
-Q5XG92|EST4A_HUMAN	-0.44	Non RNA-binding protein
-Q5TAB7|RIPP2_HUMAN	0.07	RNA-binding protein
-Q30KQ5|DB115_HUMAN	-0.39	Non RNA-binding protein
-Q15582|BGH3_HUMAN	0.32	RNA-binding protein
-Q53RY4|KCP3_HUMAN	-3.52	Non RNA-binding protein
-P0C2W1|FBSP1_HUMAN	-1.42	Non RNA-binding protein
-Q6UWT2|ENHO_HUMAN	-2.03	Non RNA-binding protein
-Q69YL0|NCAS2_HUMAN	-1.36	Non RNA-binding protein
-P49418|AMPH_HUMAN	1.73	RNA-binding protein
-Q05315|LEG10_HUMAN	-0.24	RNA-binding protein
-Q8WTS1|ABHD5_HUMAN	-0.73	Non RNA-binding protein
-O14494|PLPP1_HUMAN	-3.14	Non RNA-binding protein
-Q5HYI7|MTX3_HUMAN	-0.08	RNA-binding protein
-Q17RM4|CC142_HUMAN	-2.60	Non RNA-binding protein
-P23510|TNFL4_HUMAN	0.55	RNA-binding protein
-Q07092|COGA1_HUMAN	3.00	RNA-binding protein
-Q15059|BRD3_HUMAN	1.49	RNA-binding protein
-Q9UK55|ZPI_HUMAN	0.07	RNA-binding protein
-Q96KR4|LMLN_HUMAN	0.00	RNA-binding protein
-Q92478|CLC2B_HUMAN	-2.81	Non RNA-binding protein
-Q9H477|RBSK_HUMAN	-0.12	RNA-binding protein
-Q7L0L9|YA043_HUMAN	-4.14	Non RNA-binding protein
-Q96GL9|F163A_HUMAN	0.03	RNA-binding protein
-P05089|ARGI1_HUMAN	0.11	RNA-binding protein
-A6NFY4|NEMP2_HUMAN	-3.61	Non RNA-binding protein
-Q86VZ4|LRP11_HUMAN	0.54	RNA-binding protein
-Q9NRY6|PLS3_HUMAN	-0.88	Non RNA-binding protein
-P51688|SPHM_HUMAN	-1.35	Non RNA-binding protein
-Q66K80|RUAS1_HUMAN	-2.36	Non RNA-binding protein
-Q96MX0|CKLF3_HUMAN	-4.14	Non RNA-binding protein
-Q8TCQ1|MARH1_HUMAN	-0.18	RNA-binding protein
-O15244|S22A2_HUMAN	-3.46	Non RNA-binding protein
-Q01459|DIAC_HUMAN	-0.35	Non RNA-binding protein
-P49763|PLGF_HUMAN	0.22	RNA-binding protein
-I3L1E1|CS084_HUMAN	-0.46	Non RNA-binding protein
-Q5T870|PRR9_HUMAN	-5.34	Non RNA-binding protein
-O15273|TELT_HUMAN	-1.10	Non RNA-binding protein
-P34949|MPI_HUMAN	0.66	RNA-binding protein
-P30408|T4S1_HUMAN	-6.48	Non RNA-binding protein
-Q9NV64|TM39A_HUMAN	-4.40	Non RNA-binding protein
-Q9Y345|SC6A5_HUMAN	-2.43	Non RNA-binding protein
-Q76L83|ASXL2_HUMAN	2.33	RNA-binding protein
-A4D174|CG071_HUMAN	-0.43	Non RNA-binding protein
-Q9P032|NDUF4_HUMAN	1.16	RNA-binding protein
-Q6PEY1|TMM88_HUMAN	-4.14	Non RNA-binding protein
-Q8WVF1|OSCP1_HUMAN	0.91	RNA-binding protein
-Q68G75|LEMD1_HUMAN	0.32	RNA-binding protein
-A6NCI5|SIM16_HUMAN	-7.06	Non RNA-binding protein
-Q86XD8|ZFAN4_HUMAN	2.07	RNA-binding protein
-A6NGH7|CC160_HUMAN	-1.72	Non RNA-binding protein
-Q9NYB0|TE2IP_HUMAN	1.52	RNA-binding protein
-Q9NVA1|UQCC1_HUMAN	-0.03	RNA-binding protein
-Q86WB7|UN93A_HUMAN	-4.37	Non RNA-binding protein
-Q9Y5B6|PAXB1_HUMAN	1.88	RNA-binding protein
-P34059|GALNS_HUMAN	-1.52	Non RNA-binding protein
-Q9BR46|CT078_HUMAN	-0.44	Non RNA-binding protein
-Q92736|RYR2_HUMAN	0.47	RNA-binding protein
-Q01650|LAT1_HUMAN	-4.88	Non RNA-binding protein
-Q8TEW0|PARD3_HUMAN	1.76	RNA-binding protein
-P86434|AAS1_HUMAN	-0.13	RNA-binding protein
-Q3SY05|CA157_HUMAN	-0.35	Non RNA-binding protein
-P48594|SPB4_HUMAN	-0.71	Non RNA-binding protein
-P07093|GDN_HUMAN	0.26	RNA-binding protein
-Q86XP0|PA24D_HUMAN	-0.30	Non RNA-binding protein
-Q15562|TEAD2_HUMAN	0.65	RNA-binding protein
-Q13166|CATR1_HUMAN	0.11	RNA-binding protein
-P36383|CXG1_HUMAN	0.60	RNA-binding protein
-A0A087WUL8|NBPFJ_HU	0.51	RNA-binding protein
-Q8IUR0|TPPC5_HUMAN	-0.06	RNA-binding protein
-Q6PRD7|CEMP1_HUMAN	0.05	RNA-binding protein
-A2IDD5|CCD78_HUMAN	0.00	RNA-binding protein
-Q04844|ACHE_HUMAN	-1.45	Non RNA-binding protein
-Q86YQ2|LATH_HUMAN	-0.37	Non RNA-binding protein
-P29279|CTGF_HUMAN	-0.13	RNA-binding protein
-O95998|I18BP_HUMAN	-0.58	Non RNA-binding protein
-Q9UJW9|SRTD3_HUMAN	-0.92	Non RNA-binding protein
-P41440|S19A1_HUMAN	-2.62	Non RNA-binding protein
-Q9Y5K8|VATD_HUMAN	0.80	RNA-binding protein
-Q9NUQ3|TXLNG_HUMAN	0.22	RNA-binding protein
-Q8NBN3|TM87A_HUMAN	-2.49	Non RNA-binding protein
-O75330|HMMR_HUMAN	-1.42	Non RNA-binding protein
-P20908|CO5A1_HUMAN	3.41	RNA-binding protein
-Q9UQF2|JIP1_HUMAN	1.53	RNA-binding protein
-Q9Y3T6|R3HC1_HUMAN	1.32	RNA-binding protein
-Q15276|RABE1_HUMAN	-0.71	Non RNA-binding protein
-Q9NQG7|HPS4_HUMAN	0.64	RNA-binding protein
-Q8N1Y9|YI025_HUMAN	-1.67	Non RNA-binding protein
-Q8NDY6|BHE23_HUMAN	-0.17	RNA-binding protein
-Q9BY07|S4A5_HUMAN	-0.93	Non RNA-binding protein
-Q8IZD2|KMT2E_HUMAN	1.80	RNA-binding protein
-Q8NG68|TTL_HUMAN	0.38	RNA-binding protein
-Q9NPC6|MYOZ2_HUMAN	2.00	RNA-binding protein
-Q6UWP7|LCLT1_HUMAN	-3.33	Non RNA-binding protein
-Q9NS75|CLTR2_HUMAN	-4.56	Non RNA-binding protein
-Q9H427|KCNKF_HUMAN	-3.99	Non RNA-binding protein
-Q6UE05|WBS28_HUMAN	-4.38	Non RNA-binding protein
-P20020|AT2B1_HUMAN	1.03	RNA-binding protein
-Q13616|CUL1_HUMAN	0.97	RNA-binding protein
-Q8NHB8|OR5K2_HUMAN	-5.43	Non RNA-binding protein
-Q9H773|DCTP1_HUMAN	-0.35	Non RNA-binding protein
-A6NM03|O2AG2_HUMAN	-5.80	Non RNA-binding protein
-Q9HC07|TM165_HUMAN	-1.45	Non RNA-binding protein
-Q68EM7|RHG17_HUMAN	1.77	RNA-binding protein
-Q9H741|CL049_HUMAN	0.67	RNA-binding protein
-Q9Y2G8|DJC16_HUMAN	-0.73	Non RNA-binding protein
-P43155|CACP_HUMAN	0.57	RNA-binding protein
-Q9NUD9|PIGV_HUMAN	-7.14	Non RNA-binding protein
-P29466|CASP1_HUMAN	1.03	RNA-binding protein
-O94868|FCSD2_HUMAN	1.34	RNA-binding protein
-Q86X83|COMD2_HUMAN	0.55	RNA-binding protein
-O75843|AP1G2_HUMAN	0.17	RNA-binding protein
-Q6PJ69|TRI65_HUMAN	-0.53	Non RNA-binding protein
-P54802|ANAG_HUMAN	-2.63	Non RNA-binding protein
-Q9H9S5|FKRP_HUMAN	-1.73	Non RNA-binding protein
-O75381|PEX14_HUMAN	1.23	RNA-binding protein
-O95402|MED26_HUMAN	0.96	RNA-binding protein
-Q8N7B6|PACRL_HUMAN	1.23	RNA-binding protein
-Q9UBD0|HSFX1_HUMAN	0.38	RNA-binding protein
-Q01850|CDR2_HUMAN	-0.36	Non RNA-binding protein
-Q5T953|IER5L_HUMAN	-0.86	Non RNA-binding protein
-Q70EL3|UBP50_HUMAN	-2.01	Non RNA-binding protein
-Q6PIJ6|FBX38_HUMAN	1.57	RNA-binding protein
-Q15080|NCF4_HUMAN	0.45	RNA-binding protein
-Q96PS6|GAFA1_HUMAN	-1.40	Non RNA-binding protein
-P13631|RARG_HUMAN	1.82	RNA-binding protein
-Q8N8P6|YX004_HUMAN	-1.00	Non RNA-binding protein
-Q9H6U6|BCAS3_HUMAN	0.70	RNA-binding protein
-Q6ZQY7|YO026_HUMAN	-1.47	Non RNA-binding protein
-P56747|CLD6_HUMAN	-3.33	Non RNA-binding protein
-Q96NL8|CH037_HUMAN	0.82	RNA-binding protein
-Q13257|MD2L1_HUMAN	-1.09	Non RNA-binding protein
-P06454|PTMA_HUMAN	-1.80	Non RNA-binding protein
-Q96F63|CCD97_HUMAN	0.93	RNA-binding protein
-O14657|TOR1B_HUMAN	-0.54	Non RNA-binding protein
-H3BRN8|CO065_HUMAN	0.71	RNA-binding protein
-Q96B67|ARRD3_HUMAN	0.79	RNA-binding protein
-Q5VXT5|SYPL2_HUMAN	-2.03	Non RNA-binding protein
-Q5HYW2|NHSL2_HUMAN	1.90	RNA-binding protein
-P49257|LMAN1_HUMAN	1.67	RNA-binding protein
-Q2TAA2|IAH1_HUMAN	-1.09	Non RNA-binding protein
-Q6ZU65|UBN2_HUMAN	2.21	RNA-binding protein
-Q9BT67|NFIP1_HUMAN	-4.11	Non RNA-binding protein
-P08397|HEM3_HUMAN	1.24	RNA-binding protein
-Q96MW5|COG8_HUMAN	-0.39	Non RNA-binding protein
-Q96T54|KCNKH_HUMAN	-3.62	Non RNA-binding protein
-Q9BPX7|CG025_HUMAN	1.33	RNA-binding protein
-Q15906|VPS72_HUMAN	2.33	RNA-binding protein
-P38435|VKGC_HUMAN	-2.40	Non RNA-binding protein
-Q6ZUF6|NC336_HUMAN	-0.86	Non RNA-binding protein
-A6NMZ5|O4C45_HUMAN	-6.71	Non RNA-binding protein
-Q92831|KAT2B_HUMAN	1.73	RNA-binding protein
-O75323|NIPS2_HUMAN	-0.69	Non RNA-binding protein
-Q8NHC5|O14AG_HUMAN	-5.25	Non RNA-binding protein
-P55061|BI1_HUMAN	-5.22	Non RNA-binding protein
-Q08334|I10R2_HUMAN	-0.81	Non RNA-binding protein
-Q14442|PIGH_HUMAN	-1.92	Non RNA-binding protein
-Q8NGX6|O10R2_HUMAN	-6.99	Non RNA-binding protein
-P28358|HXD10_HUMAN	2.15	RNA-binding protein
-Q5BJE1|CC178_HUMAN	-0.40	Non RNA-binding protein
-Q658Y4|F91A1_HUMAN	0.15	RNA-binding protein
-P10643|CO7_HUMAN	1.31	RNA-binding protein
-Q1AE95|T183B_HUMAN	0.67	RNA-binding protein
-Q96LR1|CRIT1_HUMAN	0.32	RNA-binding protein
-Q6P9B6|TLDC1_HUMAN	0.71	RNA-binding protein
-A0PJE2|DHR12_HUMAN	0.76	RNA-binding protein
-O75419|CDC45_HUMAN	-0.29	Non RNA-binding protein
-O15327|INP4B_HUMAN	1.17	RNA-binding protein
-Q13367|AP3B2_HUMAN	1.54	RNA-binding protein
-E2RYF6|MUC22_HUMAN	-6.00	Non RNA-binding protein
-Q96T75|DSCR8_HUMAN	-0.11	RNA-binding protein
-Q7Z5V6|PPR32_HUMAN	1.72	RNA-binding protein
-Q9Y4G6|TLN2_HUMAN	1.41	RNA-binding protein
-Q8IZU3|SYCP3_HUMAN	-0.97	Non RNA-binding protein
-Q6PK18|OGFD3_HUMAN	-0.57	Non RNA-binding protein
-P39877|PA2G5_HUMAN	-3.20	Non RNA-binding protein
-Q14542|S29A2_HUMAN	-5.72	Non RNA-binding protein
-P69891|HBG1_HUMAN	-1.21	Non RNA-binding protein
-O75165|DJC13_HUMAN	0.36	RNA-binding protein
-O94929|ABLM3_HUMAN	0.65	RNA-binding protein
-O75444|MAF_HUMAN	0.18	RNA-binding protein
-Q13093|PAFA_HUMAN	-0.47	Non RNA-binding protein
-Q8NCU7|C2C4A_HUMAN	-1.39	Non RNA-binding protein
-Q8N511|TM199_HUMAN	-0.27	Non RNA-binding protein
-Q3SXM5|HSDL1_HUMAN	-1.40	Non RNA-binding protein
-Q8WUW1|BRK1_HUMAN	-1.19	Non RNA-binding protein
-Q9NYP8|CU062_HUMAN	-2.15	Non RNA-binding protein
-O00400|ACATN_HUMAN	-3.91	Non RNA-binding protein
-Q6NZY7|BORG3_HUMAN	-3.06	Non RNA-binding protein
-Q6PIS1|S23A3_HUMAN	-4.36	Non RNA-binding protein
-Q9BXA5|SUCR1_HUMAN	-5.55	Non RNA-binding protein
-Q8NEG0|FA71C_HUMAN	0.37	RNA-binding protein
-Q9H7C9|AAMDC_HUMAN	0.71	RNA-binding protein
-Q8NGA1|OR1M1_HUMAN	-4.17	Non RNA-binding protein
-Q8TEZ7|MPRB_HUMAN	-4.89	Non RNA-binding protein
-B1AJZ9|FHAD1_HUMAN	0.52	RNA-binding protein
-P29965|CD40L_HUMAN	0.17	RNA-binding protein
-O76082|S22A5_HUMAN	-4.36	Non RNA-binding protein
-Q96I23|PREY_HUMAN	0.97	RNA-binding protein
-A6NK44|GLOD5_HUMAN	0.05	RNA-binding protein
-P46721|SO1A2_HUMAN	-2.75	Non RNA-binding protein
-Q6P988|NOTUM_HUMAN	-0.27	Non RNA-binding protein
-Q9BT43|RPC7L_HUMAN	1.88	RNA-binding protein
-Q14914|PTGR1_HUMAN	-0.30	Non RNA-binding protein
-Q96LR9|APLD1_HUMAN	-0.21	RNA-binding protein
-P52849|NDST2_HUMAN	-2.15	Non RNA-binding protein
-Q9NXD2|MTMRA_HUMAN	0.08	RNA-binding protein
-Q5TFE4|NT5D1_HUMAN	-0.67	Non RNA-binding protein
-Q9HBU6|EKI1_HUMAN	0.01	RNA-binding protein
-Q6ZSK4|NTAS1_HUMAN	-0.75	Non RNA-binding protein
-Q5U5R9|HECD2_HUMAN	0.32	RNA-binding protein
-B4DS77|SHSA9_HUMAN	1.53	RNA-binding protein
-Q71SY5|MED25_HUMAN	0.47	RNA-binding protein
-P18858|DNLI1_HUMAN	1.72	RNA-binding protein
-O60271|JIP4_HUMAN	1.56	RNA-binding protein
-Q96DE5|APC16_HUMAN	0.27	RNA-binding protein
-Q9Y5P1|O51B2_HUMAN	-6.85	Non RNA-binding protein
-Q14CS0|UBX2B_HUMAN	1.75	RNA-binding protein
-Q9Y5U2|TSSC4_HUMAN	1.73	RNA-binding protein
-Q8WVM8|SCFD1_HUMAN	1.08	RNA-binding protein
-Q9UNK0|STX8_HUMAN	1.49	RNA-binding protein
-Q7Z6J2|GRASP_HUMAN	0.47	RNA-binding protein
-Q9BTK6|PAGR1_HUMAN	2.14	RNA-binding protein
-P49619|DGKG_HUMAN	1.08	RNA-binding protein
-Q5VUM1|SDHF4_HUMAN	0.94	RNA-binding protein
-Q07837|SLC31_HUMAN	-1.01	Non RNA-binding protein
-Q96Q05|TPPC9_HUMAN	0.34	RNA-binding protein
-Q86TP1|PRUNE_HUMAN	0.63	RNA-binding protein
-P0DMS8|AA3R_HUMAN	-5.90	Non RNA-binding protein
-Q9UJW3|DNM3L_HUMAN	-0.40	Non RNA-binding protein
-O95214|LERL1_HUMAN	-9.26	Non RNA-binding protein
-Q13394|MB211_HUMAN	1.02	RNA-binding protein
-Q14566|MCM6_HUMAN	1.21	RNA-binding protein
-O75071|EFC14_HUMAN	2.02	RNA-binding protein
-P0C646|O52Z1_HUMAN	-6.77	Non RNA-binding protein
-O75368|SH3L1_HUMAN	1.86	RNA-binding protein
-P01008|ANT3_HUMAN	0.57	RNA-binding protein
-Q9HCT0|FGF22_HUMAN	-2.47	Non RNA-binding protein
-Q8N112|LSME2_HUMAN	-2.95	Non RNA-binding protein
-Q15858|SCN9A_HUMAN	-0.49	Non RNA-binding protein
-Q3KNW5|SOAT_HUMAN	-3.21	Non RNA-binding protein
-Q13753|LAMC2_HUMAN	2.14	RNA-binding protein
-Q15493|RGN_HUMAN	0.19	RNA-binding protein
-Q96S42|NODAL_HUMAN	-0.92	Non RNA-binding protein
-Q8IYM9|TRI22_HUMAN	0.93	RNA-binding protein
-Q96M98|PACRG_HUMAN	1.27	RNA-binding protein
-O00300|TR11B_HUMAN	0.30	RNA-binding protein
-Q7Z6K5|ARPIN_HUMAN	0.56	RNA-binding protein
-Q9HCP6|HHATL_HUMAN	-5.03	Non RNA-binding protein
-Q15147|PLCB4_HUMAN	1.54	RNA-binding protein
-Q9P2N7|KLH13_HUMAN	-0.27	Non RNA-binding protein
-O14683|P5I11_HUMAN	-2.13	Non RNA-binding protein
-P55001|MFAP2_HUMAN	0.51	RNA-binding protein
-Q6ZTR7|FA92B_HUMAN	1.74	RNA-binding protein
-Q16763|UBE2S_HUMAN	0.02	RNA-binding protein
-P61568|ENK11_HUMAN	-2.84	Non RNA-binding protein
-Q9BXN2|CLC7A_HUMAN	0.05	RNA-binding protein
-Q13467|FZD5_HUMAN	-2.60	Non RNA-binding protein
-Q9NTG1|PKDRE_HUMAN	-1.10	Non RNA-binding protein
-P21817|RYR1_HUMAN	0.39	RNA-binding protein
-Q9UI30|TR112_HUMAN	-1.72	Non RNA-binding protein
-Q8WXF7|ATLA1_HUMAN	-0.12	RNA-binding protein
-Q9Y547|IFT25_HUMAN	-1.15	Non RNA-binding protein
-Q96N23|CFA54_HUMAN	0.26	RNA-binding protein
-Q53SZ7|PRR30_HUMAN	-1.25	Non RNA-binding protein
-A2RUU4|COLL1_HUMAN	-1.46	Non RNA-binding protein
-Q9NQZ5|STAR7_HUMAN	-0.03	RNA-binding protein
-Q86VQ0|LCA5_HUMAN	1.41	RNA-binding protein
-O75638|CTAG2_HUMAN	0.75	RNA-binding protein
-Q14241|ELOA1_HUMAN	2.09	RNA-binding protein
-P84101|SERF2_HUMAN	-1.36	Non RNA-binding protein
-Q8N535|CB052_HUMAN	2.73	RNA-binding protein
-Q16563|SYPL1_HUMAN	-3.09	Non RNA-binding protein
-Q9NS93|TM7S3_HUMAN	-4.30	Non RNA-binding protein
-O76027|ANXA9_HUMAN	0.74	RNA-binding protein
-P43362|MAGA9_HUMAN	-0.01	RNA-binding protein
-Q9BQE9|BCL7B_HUMAN	0.93	RNA-binding protein
-P41159|LEP_HUMAN	-2.38	Non RNA-binding protein
-Q8IWY9|CDAN1_HUMAN	-0.79	Non RNA-binding protein
-Q9UJQ7|SCP2D_HUMAN	0.35	RNA-binding protein
-P60606|CTXN1_HUMAN	-2.81	Non RNA-binding protein
-Q96MK2|FA65C_HUMAN	0.41	RNA-binding protein
-P25940|CO5A3_HUMAN	3.15	RNA-binding protein
-P54707|AT12A_HUMAN	-0.19	RNA-binding protein
-Q6ZNA5|FRRS1_HUMAN	-1.92	Non RNA-binding protein
-Q7L266|ASGL1_HUMAN	0.07	RNA-binding protein
-Q96M53|TBATA_HUMAN	0.75	RNA-binding protein
-H3BQJ8|LY6L_HUMAN	-1.70	Non RNA-binding protein
-Q9UHG3|PCYOX_HUMAN	-1.07	Non RNA-binding protein
-O95995|GAS8_HUMAN	0.28	RNA-binding protein
-Q6ZVK1|T179A_HUMAN	-6.95	Non RNA-binding protein
-P08236|BGLR_HUMAN	-1.09	Non RNA-binding protein
-Q9BRY0|S39A3_HUMAN	-5.04	Non RNA-binding protein
-P01034|CYTC_HUMAN	1.03	RNA-binding protein
-Q14146|URB2_HUMAN	-0.99	Non RNA-binding protein
-Q96K37|S35E1_HUMAN	-2.87	Non RNA-binding protein
-Q93008|USP9X_HUMAN	1.01	RNA-binding protein
-O15342|VA0E1_HUMAN	-9.95	Non RNA-binding protein
-Q8N6V9|TEX9_HUMAN	1.26	RNA-binding protein
-Q8NCS4|TM35B_HUMAN	-6.03	Non RNA-binding protein
-Q9NTG7|SIR3_HUMAN	-1.07	Non RNA-binding protein
-P31371|FGF9_HUMAN	0.63	RNA-binding protein
-O43897|TLL1_HUMAN	0.22	RNA-binding protein
-A4D250|BLACE_HUMAN	-0.64	Non RNA-binding protein
-Q86XQ3|CTSR3_HUMAN	-2.91	Non RNA-binding protein
-Q8N865|CG031_HUMAN	0.96	RNA-binding protein
-Q9P2W6|CK021_HUMAN	-4.47	Non RNA-binding protein
-P48051|KCNJ6_HUMAN	-0.75	Non RNA-binding protein
-Q68D86|C102B_HUMAN	-0.06	RNA-binding protein
-O00339|MATN2_HUMAN	0.81	RNA-binding protein
-Q86Y46|K2C73_HUMAN	1.51	RNA-binding protein
-Q15849|UT2_HUMAN	-3.87	Non RNA-binding protein
-P55083|MFAP4_HUMAN	-2.62	Non RNA-binding protein
-Q6ZRP5|YD019_HUMAN	-9.28	Non RNA-binding protein
-Q8NHB1|OR2V1_HUMAN	-4.62	Non RNA-binding protein
-Q58HT5|AWAT1_HUMAN	-4.74	Non RNA-binding protein
-P00846|ATP6_HUMAN	-7.20	Non RNA-binding protein
-P01589|IL2RA_HUMAN	-0.36	Non RNA-binding protein
-Q6XPR3|RPTN_HUMAN	-4.76	Non RNA-binding protein
-Q96GI7|FA89A_HUMAN	-1.35	Non RNA-binding protein
-Q9BUA3|CK084_HUMAN	1.77	RNA-binding protein
-Q96C74|ROP1L_HUMAN	0.31	RNA-binding protein
-Q70YC4|TALAN_HUMAN	-0.80	Non RNA-binding protein
-Q9H7X0|NAA60_HUMAN	-2.99	Non RNA-binding protein
-Q8IVH2|FOXP4_HUMAN	1.43	RNA-binding protein
-Q9BR39|JPH2_HUMAN	1.17	RNA-binding protein
-Q3ZCW2|LEGL_HUMAN	-0.02	RNA-binding protein
-Q96JQ5|M4A4A_HUMAN	-1.76	Non RNA-binding protein
-Q96M43|NBPF4_HUMAN	1.19	RNA-binding protein
-Q8IXL7|MSRB3_HUMAN	0.59	RNA-binding protein
-Q9NS40|KCNH7_HUMAN	0.52	RNA-binding protein
-Q9H8M1|CQ10B_HUMAN	-0.75	Non RNA-binding protein
-Q9H6D7|HAUS4_HUMAN	-0.31	Non RNA-binding protein
-Q9UHV5|RPGFL_HUMAN	0.06	RNA-binding protein
-O76054|S14L2_HUMAN	1.00	RNA-binding protein
-Q9UF83|YM012_HUMAN	-1.13	Non RNA-binding protein
-Q9NQC1|JADE2_HUMAN	1.55	RNA-binding protein
-Q96ST8|CEP89_HUMAN	1.36	RNA-binding protein
-Q9BXM0|PRAX_HUMAN	0.64	RNA-binding protein
-Q16572|VACHT_HUMAN	-3.42	Non RNA-binding protein
-Q5VWQ0|RSBN1_HUMAN	1.74	RNA-binding protein
-Q96EW2|HBAP1_HUMAN	0.17	RNA-binding protein
-Q9H0I9|TKTL2_HUMAN	-0.07	RNA-binding protein
-O95807|TM50A_HUMAN	-5.57	Non RNA-binding protein
-Q9P2X7|DEC1_HUMAN	-0.80	Non RNA-binding protein
-P55197|AF10_HUMAN	2.05	RNA-binding protein
-Q29RF7|PDS5A_HUMAN	1.87	RNA-binding protein
-Q06190|P2R3A_HUMAN	1.14	RNA-binding protein
-Q13797|ITA9_HUMAN	0.45	RNA-binding protein
-Q495X7|TRI60_HUMAN	0.66	RNA-binding protein
-P28676|GRAN_HUMAN	-1.36	Non RNA-binding protein
-Q7RTW8|OTOAN_HUMAN	-0.67	Non RNA-binding protein
-Q9NVM9|ASUN_HUMAN	1.45	RNA-binding protein
-P55809|SCOT1_HUMAN	0.81	RNA-binding protein
-Q96MW1|CCD43_HUMAN	0.83	RNA-binding protein
-Q8WV99|ZFN2B_HUMAN	1.51	RNA-binding protein
-Q2T9K0|TMM44_HUMAN	-1.02	Non RNA-binding protein
-Q5SY85|F201A_HUMAN	-3.36	Non RNA-binding protein
-P13584|CP4B1_HUMAN	-1.98	Non RNA-binding protein
-Q9UBF8|PI4KB_HUMAN	1.14	RNA-binding protein
-O75486|SUPT3_HUMAN	1.01	RNA-binding protein
-Q6B8I1|DS13A_HUMAN	-1.88	Non RNA-binding protein
-P48509|CD151_HUMAN	-3.86	Non RNA-binding protein
-Q9BTV4|TMM43_HUMAN	-1.94	Non RNA-binding protein
-P00558|PGK1_HUMAN	0.87	RNA-binding protein
-P0CG08|GPHRB_HUMAN	-5.32	Non RNA-binding protein
-Q5SZI1|LRAD2_HUMAN	-1.61	Non RNA-binding protein
-O75438|NDUB1_HUMAN	-0.33	Non RNA-binding protein
-P12755|SKI_HUMAN	1.11	RNA-binding protein
-Q9H9V9|JMJD4_HUMAN	-1.77	Non RNA-binding protein
-Q6IFG1|O52E8_HUMAN	-7.21	Non RNA-binding protein
-Q9Y6X1|SERP1_HUMAN	2.96	RNA-binding protein
-O15205|UBD_HUMAN	1.39	RNA-binding protein
-P21452|NK2R_HUMAN	-4.44	Non RNA-binding protein
-O43291|SPIT2_HUMAN	0.39	RNA-binding protein
-Q8N146|OR8H3_HUMAN	-4.62	Non RNA-binding protein
-Q9Y2W3|S45A1_HUMAN	-2.67	Non RNA-binding protein
-Q8IV03|LUR1L_HUMAN	0.48	RNA-binding protein
-A8K7I4|CLCA1_HUMAN	0.21	RNA-binding protein
-Q9BUM1|G6PC3_HUMAN	-7.32	Non RNA-binding protein
-O15519|CFLAR_HUMAN	1.07	RNA-binding protein
-P63172|DYLT1_HUMAN	-1.99	Non RNA-binding protein
-B1ANH7|IBAS1_HUMAN	-1.83	Non RNA-binding protein
-O00458|IFRD1_HUMAN	0.53	RNA-binding protein
-Q8ND82|Z280C_HUMAN	1.76	RNA-binding protein
-Q8NEN9|PDZD8_HUMAN	1.18	RNA-binding protein
-Q9UKY4|POMT2_HUMAN	-5.20	Non RNA-binding protein
-P0C854|CECR9_HUMAN	0.47	RNA-binding protein
-Q13201|MMRN1_HUMAN	0.98	RNA-binding protein
-Q58FF7|H90B3_HUMAN	0.34	RNA-binding protein
-Q8NGJ9|O51T1_HUMAN	-6.81	Non RNA-binding protein
-Q9H1X1|RSPH9_HUMAN	-0.66	Non RNA-binding protein
-Q9H0B3|K1683_HUMAN	0.20	RNA-binding protein
-P15374|UCHL3_HUMAN	0.49	RNA-binding protein
-P19971|TYPH_HUMAN	-1.10	Non RNA-binding protein
-Q15005|SPCS2_HUMAN	-1.30	Non RNA-binding protein
-Q9UD71|PPR1B_HUMAN	0.44	RNA-binding protein
-Q9UMZ2|SYNRG_HUMAN	2.04	RNA-binding protein
+Sequence name	SVM score	RNA-binding protein
+sp|Q8NET6|CHSTD_HUM	-1.55	Non RNA-binding protein
+sp|Q9H4P4|RNF41_HUM	0.68	RNA-binding protein
+sp|Q6JBY9|CPZIP_HUM	2.55	RNA-binding protein
+sp|Q6ZMD2|SPNS3_HUM	-4.39	Non RNA-binding protein
+sp|P04118|COL_HUMAN	0.04	RNA-binding protein
+sp|Q9BXY8|BEX2_HUMA	-0.45	Non RNA-binding protein
+sp|Q7Z443|PK1L3_HUM	-1.12	Non RNA-binding protein
+sp|Q8IVN3|MSTN1_HUM	2.22	RNA-binding protein
+sp|P49675|STAR_HUMA	1.54	RNA-binding protein
+sp|Q8IVT2|MISP_HUMA	0.41	RNA-binding protein
+sp|Q6XQN6|PNCB_HUMA	-1.71	Non RNA-binding protein
+sp|Q96NB2|SFXN2_HUM	0.33	RNA-binding protein
+sp|Q96S66|CLCC1_HUM	-0.06	RNA-binding protein
+sp|P28066|PSA5_HUMA	0.44	RNA-binding protein
+sp|Q9Y4M8|CH071_HUM	-2.64	Non RNA-binding protein
+sp|Q5VXU9|CI084_HUM	0.12	RNA-binding protein
+sp|Q6V702|CD022_HUM	0.39	RNA-binding protein
+sp|Q9UBD6|RHCG_HUMA	-4.15	Non RNA-binding protein
+sp|Q9H7Y0|DIA1R_HUM	-0.32	Non RNA-binding protein
+sp|Q6ZUJ8|BCAP_HUMA	1.53	RNA-binding protein
+sp|P05230|FGF1_HUMA	0.12	RNA-binding protein
+sp|Q9UJQ1|LAMP5_HUM	0.23	RNA-binding protein
+sp|Q9BX95|SGPP1_HUM	-3.28	Non RNA-binding protein
+sp|Q8IXU6|S35F2_HUM	-5.22	Non RNA-binding protein
+sp|P13987|CD59_HUMA	-3.18	Non RNA-binding protein
+sp|O00295|TULP2_HUM	1.65	RNA-binding protein
+sp|P20711|DDC_HUMAN	-0.59	Non RNA-binding protein
+sp|O00562|PITM1_HUM	0.20	RNA-binding protein
+sp|P17752|TPH1_HUMA	0.49	RNA-binding protein
+sp|Q9H606|PRORY_HUM	-3.14	Non RNA-binding protein
+sp|P51160|PDE6C_HUM	0.14	RNA-binding protein
+sp|B1ATL7|PRR32_HUM	-0.72	Non RNA-binding protein
+sp|O95049|ZO3_HUMAN	0.54	RNA-binding protein
+sp|Q6A555|TXND8_HUM	0.22	RNA-binding protein
+sp|O15034|RIMB2_HUM	1.69	RNA-binding protein
+sp|P51397|DAP1_HUMA	-1.47	Non RNA-binding protein
+sp|Q8NFT8|DNER_HUMA	0.57	RNA-binding protein
+sp|Q6JEL2|KLH10_HUM	-0.41	Non RNA-binding protein
+sp|Q6UXR4|SPA13_HUM	-1.57	Non RNA-binding protein
+sp|Q86U28|ISCA2_HUM	-0.03	RNA-binding protein
+sp|O14977|AZIN1_HUM	0.25	RNA-binding protein
+sp|P16233|LIPP_HUMA	-0.57	Non RNA-binding protein
+sp|O95757|HS74L_HUM	1.66	RNA-binding protein
+sp|Q9NPA0|EMC7_HUMA	0.49	RNA-binding protein
+sp|P01225|FSHB_HUMA	-5.00	Non RNA-binding protein
+sp|Q96LM9|CT173_HUM	-1.30	Non RNA-binding protein
+sp|O95433|AHSA1_HUM	0.14	RNA-binding protein
+sp|Q96T53|MBOA4_HUM	-6.40	Non RNA-binding protein
+sp|Q8WVZ1|ZDH19_HUM	-4.57	Non RNA-binding protein
+sp|Q93052|LPP_HUMAN	1.58	RNA-binding protein
+sp|P43363|MAGAA_HUM	0.73	RNA-binding protein
+sp|Q96T68|SETB2_HUM	1.16	RNA-binding protein
+sp|Q9NQC8|IFT46_HUM	0.28	RNA-binding protein
+sp|Q96NR7|WWAS2_HUM	-3.09	Non RNA-binding protein
+sp|Q9UI33|SCNBA_HUM	-0.94	Non RNA-binding protein
+sp|Q16799|RTN1_HUMA	1.48	RNA-binding protein
+sp|O43820|HYAL3_HUM	-3.90	Non RNA-binding protein
+sp|Q96IZ2|ADTRP_HUM	-7.23	Non RNA-binding protein
+sp|Q9NPC3|CIP1_HUMA	1.33	RNA-binding protein
+sp|O14662|STX16_HUM	1.42	RNA-binding protein
+sp|Q6UX15|LAYN_HUMA	1.12	RNA-binding protein
+sp|O60931|CTNS_HUMA	-4.85	Non RNA-binding protein
+sp|P15090|FABP4_HUM	-1.25	Non RNA-binding protein
+sp|Q4G0T1|SRCRM_HUM	-2.62	Non RNA-binding protein
+sp|O43852|CALU_HUMA	-0.90	Non RNA-binding protein
+sp|Q9H0A3|T191A_HUM	-2.69	Non RNA-binding protein
+sp|O43934|MFS11_HUM	-4.88	Non RNA-binding protein
+sp|Q99829|CPNE1_HUM	0.45	RNA-binding protein
+sp|Q5T447|HECD3_HUM	0.17	RNA-binding protein
+sp|O76042|ERIT1_HUM	-4.29	Non RNA-binding protein
+sp|Q04900|MUC24_HUM	-1.27	Non RNA-binding protein
+sp|O14639|ABLM1_HUM	1.49	RNA-binding protein
+sp|Q9UI47|CTNA3_HUM	1.29	RNA-binding protein
+sp|Q4FZB7|KMT5B_HUM	2.50	RNA-binding protein
+sp|A8MU46|SMTL1_HUM	2.12	RNA-binding protein
+sp|O95994|AGR2_HUMA	0.49	RNA-binding protein
+sp|Q9Y2L5|TPPC8_HUM	1.04	RNA-binding protein
+sp|P05000|IFNW1_HUM	-0.69	Non RNA-binding protein
+sp|Q9BY14|TX101_HUM	-2.69	Non RNA-binding protein
+sp|P48165|CXA8_HUMA	0.48	RNA-binding protein
+sp|Q9H1C3|GL8D2_HUM	-0.47	Non RNA-binding protein
+sp|Q6ZVT0|TTL10_HUM	0.43	RNA-binding protein
+sp|Q8N8U9|BMPER_HUM	-0.64	Non RNA-binding protein
+sp|Q6UXP9|YO001_HUM	-1.26	Non RNA-binding protein
+sp|Q9UQF0|SYCY1_HUM	-1.25	Non RNA-binding protein
+sp|Q8N3X6|LCORL_HUM	2.28	RNA-binding protein
+sp|Q9Y6R1|S4A4_HUMA	-0.79	Non RNA-binding protein
+sp|Q6PEX3|KR261_HUM	2.27	RNA-binding protein
+sp|Q9UHE5|NAT8_HUMA	-3.11	Non RNA-binding protein
+sp|Q5VVS0|CA140_HUM	0.69	RNA-binding protein
+sp|Q96QT4|TRPM7_HUM	0.61	RNA-binding protein
+sp|Q5VWC8|HACD4_HUM	-6.80	Non RNA-binding protein
+sp|Q8N4E4|PDCL2_HUM	0.43	RNA-binding protein
+sp|P28907|CD38_HUMA	0.09	RNA-binding protein
+sp|Q9H7V2|SYNG1_HUM	0.21	RNA-binding protein
+sp|P51668|UB2D1_HUM	-1.32	Non RNA-binding protein
+sp|O76099|OR7C1_HUM	-8.19	Non RNA-binding protein
+sp|Q8N8F7|LSME1_HUM	1.13	RNA-binding protein
+sp|Q8NEM8|CBPC3_HUM	0.20	RNA-binding protein
+sp|P57105|SYJ2B_HUM	0.87	RNA-binding protein
+sp|Q8IVN8|SBSPO_HUM	-0.59	Non RNA-binding protein
+sp|Q92539|LPIN2_HUM	1.19	RNA-binding protein
+sp|Q6NXR4|TTI2_HUMA	-0.37	Non RNA-binding protein
+sp|P21673|SAT1_HUMA	-2.49	Non RNA-binding protein
+sp|Q8NBJ7|SUMF2_HUM	-0.74	Non RNA-binding protein
+sp|Q8WWZ1|IL1FA_HUM	-0.27	Non RNA-binding protein
+sp|P58062|ISK7_HUMA	-2.19	Non RNA-binding protein
+sp|P56705|WNT4_HUMA	0.99	RNA-binding protein
+sp|P63146|UBE2B_HUM	1.46	RNA-binding protein
+sp|O15270|SPTC2_HUM	0.09	RNA-binding protein
+sp|Q14165|MLEC_HUMA	0.65	RNA-binding protein
+sp|Q9C030|TRIM6_HUM	0.43	RNA-binding protein
+sp|Q8N5R6|CCD33_HUM	1.80	RNA-binding protein
+sp|Q92565|RPGF5_HUM	-0.11	RNA-binding protein
+sp|Q9BQQ7|RTP3_HUMA	-0.34	Non RNA-binding protein
+sp|A6NDB9|PALM3_HUM	1.97	RNA-binding protein
+sp|Q86X24|HORM1_HUM	1.17	RNA-binding protein
+sp|O00401|WASL_HUMA	1.28	RNA-binding protein
+sp|O95070|YIF1A_HUM	-4.21	Non RNA-binding protein
+sp|Q9NUH8|TM14B_HUM	-5.43	Non RNA-binding protein
+sp|Q9UGM1|ACHA9_HUM	-1.19	Non RNA-binding protein
+sp|Q8NE22|SETD9_HUM	0.58	RNA-binding protein
+sp|Q8NGF7|OR5BH_HUM	-5.42	Non RNA-binding protein
+sp|P22735|TGM1_HUMA	0.43	RNA-binding protein
+sp|Q86VH2|KIF27_HUM	1.63	RNA-binding protein
+sp|A6NFE2|SMCO2_HUM	0.44	RNA-binding protein
+sp|P30954|O10J1_HUM	-4.33	Non RNA-binding protein
+sp|Q9H9T3|ELP3_HUMA	0.89	RNA-binding protein
+sp|Q5T5P2|SKT_HUMAN	1.90	RNA-binding protein
+sp|Q14140|SRTD2_HUM	1.17	RNA-binding protein
+sp|O75387|LAT3_HUMA	-3.81	Non RNA-binding protein
+sp|Q96LK8|SPT32_HUM	1.59	RNA-binding protein
+sp|P55058|PLTP_HUMA	-0.95	Non RNA-binding protein
+sp|P42701|I12R1_HUM	0.04	RNA-binding protein
+sp|Q5T442|CXG2_HUMA	-0.14	RNA-binding protein
+sp|Q2QL34|MP17L_HUM	-3.33	Non RNA-binding protein
+sp|Q0VF96|CGNL1_HUM	0.92	RNA-binding protein
+sp|Q96P69|GPR78_HUM	-2.85	Non RNA-binding protein
+sp|Q6PL24|TMED8_HUM	1.15	RNA-binding protein
+sp|Q5T4T6|SYC2L_HUM	0.59	RNA-binding protein
+sp|Q9GZU8|F192A_HUM	1.67	RNA-binding protein
+sp|Q96CG8|CTHR1_HUM	0.85	RNA-binding protein
+sp|Q8IXT1|DDIAS_HUM	1.32	RNA-binding protein
+sp|P19224|UD16_HUMA	-0.70	Non RNA-binding protein
+sp|Q8TAP8|PPR35_HUM	-0.91	Non RNA-binding protein
+sp|Q9P1Y5|CAMP3_HUM	0.73	RNA-binding protein
+sp|O95177|GAAS1_HUM	1.35	RNA-binding protein
+sp|Q2M389|WASC4_HUM	0.09	RNA-binding protein
+sp|Q93045|STMN2_HUM	-1.50	Non RNA-binding protein
+sp|A6NHG4|DDTL_HUMA	-0.44	Non RNA-binding protein
+sp|Q8WXF8|DEDD2_HUM	-0.68	Non RNA-binding protein
+sp|Q5VTY9|HHAT_HUMA	-7.59	Non RNA-binding protein
+sp|Q13103|SPP24_HUM	0.33	RNA-binding protein
+sp|Q6UX72|B3GN9_HUM	-3.29	Non RNA-binding protein
+sp|P0DMU4|F231A_HUM	-0.54	Non RNA-binding protein
+sp|Q9NPC2|KCNK9_HUM	-0.64	Non RNA-binding protein
+sp|Q9H0H0|INT2_HUMA	0.14	RNA-binding protein
+sp|Q86X51|CX067_HUM	-0.33	Non RNA-binding protein
+sp|O95096|NKX22_HUM	1.31	RNA-binding protein
+sp|Q14703|MBTP1_HUM	0.28	RNA-binding protein
+sp|O95396|MOCS3_HUM	-0.45	Non RNA-binding protein
+sp|Q6ZRU5|YQ032_HUM	-1.66	Non RNA-binding protein
+sp|O75715|GPX5_HUMA	0.31	RNA-binding protein
+sp|Q9NWS6|F118A_HUM	1.19	RNA-binding protein
+sp|P54289|CA2D1_HUM	0.33	RNA-binding protein
+sp|O75352|MPU1_HUMA	-3.96	Non RNA-binding protein
+sp|A8MUL3|ADAS1_HUM	-1.22	Non RNA-binding protein
+sp|P08582|TRFM_HUMA	-0.29	Non RNA-binding protein
+sp|Q86XA9|HTR5A_HUM	-0.54	Non RNA-binding protein
+sp|O43325|LYRM1_HUM	0.33	RNA-binding protein
+sp|P51911|CNN1_HUMA	1.82	RNA-binding protein
+sp|A6NHC0|CAN8_HUMA	-0.28	Non RNA-binding protein
+sp|P02748|CO9_HUMAN	0.59	RNA-binding protein
+sp|Q9Y625|GPC6_HUMA	1.01	RNA-binding protein
+sp|O14559|RHG33_HUM	-0.89	Non RNA-binding protein
+sp|Q9ULB5|CADH7_HUM	0.39	RNA-binding protein
+sp|Q8IWA5|CTL2_HUMA	-3.88	Non RNA-binding protein
+sp|Q15599|NHRF2_HUM	1.58	RNA-binding protein
+sp|Q14244|MAP7_HUMA	1.00	RNA-binding protein
+sp|Q9NYG5|APC11_HUM	-2.06	Non RNA-binding protein
+sp|Q16534|HLF_HUMAN	0.73	RNA-binding protein
+sp|Q16773|KAT1_HUMA	-0.37	Non RNA-binding protein
+sp|Q96IS3|RAX2_HUMA	-1.72	Non RNA-binding protein
+sp|Q6ZVL8|YP033_HUM	-1.63	Non RNA-binding protein
+sp|Q96EE4|CC126_HUM	0.51	RNA-binding protein
+sp|Q9BXJ3|C1QT4_HUM	-2.05	Non RNA-binding protein
+sp|P09912|IFI6_HUMA	-3.42	Non RNA-binding protein
+sp|P15328|FOLR1_HUM	-0.75	Non RNA-binding protein
+sp|Q9GZQ8|MLP3B_HUM	0.52	RNA-binding protein
+sp|P12109|CO6A1_HUM	2.08	RNA-binding protein
+sp|Q9UNW1|MINP1_HUM	0.29	RNA-binding protein
+sp|Q9BQ89|F110A_HUM	-0.31	Non RNA-binding protein
+sp|Q2KHT3|CL16A_HUM	0.67	RNA-binding protein
+sp|Q6A162|K1C40_HUM	-0.06	RNA-binding protein
+sp|Q8NG75|OR5T1_HUM	-6.30	Non RNA-binding protein
+sp|Q8NAU1|FNDC5_HUM	0.96	RNA-binding protein
+sp|Q9H1F0|WF10A_HUM	1.40	RNA-binding protein
+sp|O75379|VAMP4_HUM	2.08	RNA-binding protein
+sp|Q9UL63|MKLN1_HUM	0.22	RNA-binding protein
+sp|O43920|NDUS5_HUM	0.34	RNA-binding protein
+sp|Q8NGT1|OR2K2_HUM	-4.40	Non RNA-binding protein
+sp|Q9UKL3|C8AP2_HUM	1.73	RNA-binding protein
+sp|Q9NQT6|FSCN3_HUM	-2.78	Non RNA-binding protein
+sp|Q5T5Y3|CAMP1_HUM	1.65	RNA-binding protein
+sp|Q86UD0|SAPC2_HUM	-0.09	RNA-binding protein
+sp|Q92597|NDRG1_HUM	0.80	RNA-binding protein
+sp|Q9NSA3|CNBP1_HUM	0.24	RNA-binding protein
+sp|B7U540|KCJ18_HUM	-0.27	Non RNA-binding protein
+sp|Q9UNE0|EDAR_HUMA	1.51	RNA-binding protein
+sp|Q5VT40|FA78B_HUM	-0.73	Non RNA-binding protein
+sp|P55089|UCN1_HUMA	-1.98	Non RNA-binding protein
+sp|Q92914|FGF11_HUM	1.25	RNA-binding protein
+sp|Q9NWQ8|PHAG1_HUM	2.56	RNA-binding protein
+sp|P40967|PMEL_HUMA	-0.22	RNA-binding protein
+sp|Q8WWZ8|OIT3_HUMA	-0.43	Non RNA-binding protein
+sp|A6H8Z2|F221B_HUM	0.32	RNA-binding protein
+sp|O60645|EXOC3_HUM	0.98	RNA-binding protein
+sp|Q6UW60|PCSK4_HUM	-1.51	Non RNA-binding protein
+sp|Q03828|EVX2_HUMA	-0.79	Non RNA-binding protein
+sp|Q9UBU3|GHRL_HUMA	0.05	RNA-binding protein
+sp|P32926|DSG3_HUMA	0.44	RNA-binding protein
+sp|P51861|CDR1_HUMA	-4.71	Non RNA-binding protein
+sp|O00264|PGRC1_HUM	0.47	RNA-binding protein
+sp|Q2TBA0|KLH40_HUM	-0.53	Non RNA-binding protein
+sp|O75414|NDK6_HUMA	-1.48	Non RNA-binding protein
+sp|Q9BZM6|N2DL1_HUM	-1.34	Non RNA-binding protein
+sp|P14384|CBPM_HUMA	0.14	RNA-binding protein
+sp|Q7Z7H3|CATIP_HUM	-0.55	Non RNA-binding protein
+sp|Q9H3P7|GCP60_HUM	0.31	RNA-binding protein
+sp|Q32M92|CO032_HUM	0.92	RNA-binding protein
+sp|P05814|CASB_HUMA	-1.74	Non RNA-binding protein
+sp|A5PL33|KRBA1_HUM	-0.29	Non RNA-binding protein
+sp|Q8WZ33|MAFIP_HUM	0.16	RNA-binding protein
+sp|Q8WWY6|MB3L1_HUM	1.32	RNA-binding protein
+sp|P51790|CLCN3_HUM	-2.58	Non RNA-binding protein
+sp|O15061|SYNEM_HUM	1.09	RNA-binding protein
+sp|Q92915|FGF14_HUM	2.13	RNA-binding protein
+sp|Q9NWV8|BABA1_HUM	1.52	RNA-binding protein
+sp|O43286|B4GT5_HUM	-0.94	Non RNA-binding protein
+sp|Q5VVM6|CCD30_HUM	-1.38	Non RNA-binding protein
+sp|O75800|ZMY10_HUM	-0.27	Non RNA-binding protein
+sp|Q86SH4|PRNT_HUMA	-4.35	Non RNA-binding protein
+sp|P00167|CYB5_HUMA	-0.93	Non RNA-binding protein
+sp|Q9NSB8|HOME2_HUM	-0.13	RNA-binding protein
+sp|P0CK96|S352B_HUM	-2.33	Non RNA-binding protein
+sp|O15063|K0355_HUM	1.67	RNA-binding protein
+sp|Q70J99|UN13D_HUM	-0.04	RNA-binding protein
+sp|Q9NP56|PDE7B_HUM	0.25	RNA-binding protein
+sp|Q2KHT4|GSG1_HUMA	-1.15	Non RNA-binding protein
+sp|A8MZ26|EFCB9_HUM	-0.20	RNA-binding protein
+sp|P03886|NU1M_HUMA	-7.06	Non RNA-binding protein
+sp|Q96A59|MALD3_HUM	1.05	RNA-binding protein
+sp|Q8WWF8|CAPSL_HUM	0.62	RNA-binding protein
+sp|Q9NWZ8|GEMI8_HUM	-0.84	Non RNA-binding protein
+sp|O00443|P3C2A_HUM	0.59	RNA-binding protein
+sp|Q9P1W3|CSC1_HUMA	-3.23	Non RNA-binding protein
+sp|P30532|ACHA5_HUM	-2.17	Non RNA-binding protein
+sp|Q8IWV1|LAX1_HUMA	0.91	RNA-binding protein
+sp|Q3V5L5|MGT5B_HUM	-0.12	RNA-binding protein
+sp|P57740|NU107_HUM	-0.05	RNA-binding protein
+sp|Q9UKZ4|TEN1_HUMA	-0.30	Non RNA-binding protein
+sp|Q8NH43|OR4L1_HUM	-7.65	Non RNA-binding protein
+sp|Q9Y5T5|UBP16_HUM	1.99	RNA-binding protein
+sp|O95249|GOSR1_HUM	0.02	RNA-binding protein
+sp|Q96B02|UBE2W_HUM	0.98	RNA-binding protein
+sp|A6NEY8|PRXD1_HUM	-0.72	Non RNA-binding protein
+sp|P10636|TAU_HUMAN	2.40	RNA-binding protein
+sp|P30049|ATPD_HUMA	-0.08	RNA-binding protein
+sp|P04234|CD3D_HUMA	-1.18	Non RNA-binding protein
+sp|Q8TE02|ELP5_HUMA	-0.37	Non RNA-binding protein
+sp|P13521|SCG2_HUMA	1.56	RNA-binding protein
+sp|Q14696|MESD_HUMA	1.53	RNA-binding protein
+sp|Q9UBU6|FA8A1_HUM	-0.76	Non RNA-binding protein
+sp|O60437|PEPL_HUMA	-0.10	RNA-binding protein
+sp|Q9Y275|TN13B_HUM	0.86	RNA-binding protein
+sp|P52294|IMA5_HUMA	1.06	RNA-binding protein
+sp|Q7L5Y9|MAEA_HUMA	1.85	RNA-binding protein
+sp|P18405|S5A1_HUMA	-4.00	Non RNA-binding protein
+sp|Q8IY82|DRC7_HUMA	0.07	RNA-binding protein
+sp|Q5XG99|LYSM4_HUM	1.29	RNA-binding protein
+sp|Q8TF44|C2C4C_HUM	0.58	RNA-binding protein
+sp|O95631|NET1_HUMA	1.10	RNA-binding protein
+sp|Q01668|CAC1D_HUM	0.21	RNA-binding protein
+sp|Q08188|TGM3_HUMA	0.34	RNA-binding protein
+sp|P42892|ECE1_HUMA	0.34	RNA-binding protein
+sp|Q6UWR7|ENPP6_HUM	-1.32	Non RNA-binding protein
+sp|P49747|COMP_HUMA	0.13	RNA-binding protein
+sp|P78395|PRAME_HUM	-1.56	Non RNA-binding protein
+sp|P18887|XRCC1_HUM	1.97	RNA-binding protein
+sp|Q969F2|NKD2_HUMA	0.39	RNA-binding protein
+sp|Q8N4V2|SVOP_HUMA	-4.20	Non RNA-binding protein
+sp|Q96RI0|PAR4_HUMA	-6.08	Non RNA-binding protein
+sp|P05556|ITB1_HUMA	0.69	RNA-binding protein
+sp|P09565|IG2R_HUMA	-1.91	Non RNA-binding protein
+sp|Q8WTP9|XAGE3_HUM	1.29	RNA-binding protein
+sp|P18509|PACA_HUMA	-0.31	Non RNA-binding protein
+sp|Q9H7T3|CJ095_HUM	0.40	RNA-binding protein
+sp|Q8WYK2|JDP2_HUMA	0.91	RNA-binding protein
+sp|Q5TEJ8|THMS2_HUM	0.44	RNA-binding protein
+sp|Q8IZT6|ASPM_HUMA	2.24	RNA-binding protein
+sp|Q5FYA8|ARSH_HUMA	-2.83	Non RNA-binding protein
+sp|Q17R89|RHG44_HUM	1.64	RNA-binding protein
+sp|Q8IWF6|DEN6A_HUM	-0.09	RNA-binding protein
+sp|Q96AG3|S2546_HUM	-1.95	Non RNA-binding protein
+sp|A2VDF0|FUCM_HUMA	-2.35	Non RNA-binding protein
+sp|Q9Y2D8|ADIP_HUMA	0.56	RNA-binding protein
+sp|Q9UPV7|PHF24_HUM	0.56	RNA-binding protein
+sp|Q9NZ56|FMN2_HUMA	0.24	RNA-binding protein
+sp|Q5TBE3|CI153_HUM	2.78	RNA-binding protein
+sp|Q7RTR8|T2R42_HUM	-8.84	Non RNA-binding protein
+sp|Q13490|BIRC2_HUM	1.19	RNA-binding protein
+sp|K7EIQ3|CS082_HUM	-1.20	Non RNA-binding protein
+sp|A5LHX3|PSB11_HUM	-1.47	Non RNA-binding protein
+sp|Q6UW02|CP20A_HUM	-0.34	Non RNA-binding protein
+sp|Q7Z449|CP2U1_HUM	-1.46	Non RNA-binding protein
+sp|P41586|PACR_HUMA	-3.65	Non RNA-binding protein
+sp|Q9HBU1|BARX1_HUM	0.85	RNA-binding protein
+sp|O15498|YKT6_HUMA	0.38	RNA-binding protein
+sp|O94823|AT10B_HUM	-0.35	Non RNA-binding protein
+sp|Q96F44|TRI11_HUM	0.02	RNA-binding protein
+sp|Q9UHV9|PFD2_HUMA	1.43	RNA-binding protein
+sp|Q9Y255|PRLD1_HUM	0.19	RNA-binding protein
+sp|P0CG37|CFC1_HUMA	-2.98	Non RNA-binding protein
+sp|P27658|CO8A1_HUM	0.97	RNA-binding protein
+sp|Q6ZQQ2|S31D1_HUM	0.82	RNA-binding protein
+sp|Q5VZT2|CJ113_HUM	1.13	RNA-binding protein
+sp|P49006|MRP_HUMAN	2.98	RNA-binding protein
+sp|Q9HBL8|NMRL1_HUM	0.74	RNA-binding protein
+sp|Q9Y5Q0|FADS3_HUM	-3.21	Non RNA-binding protein
+sp|Q0D2K5|EGFEM_HUM	1.42	RNA-binding protein
+sp|Q9Y3Q7|ADA18_HUM	0.26	RNA-binding protein
+sp|Q9BZR8|B2L14_HUM	0.97	RNA-binding protein
+sp|Q96PU4|UHRF2_HUM	1.52	RNA-binding protein
+sp|A6NH11|GLTD2_HUM	-3.29	Non RNA-binding protein
+sp|Q9HBR0|S38AA_HUM	1.50	RNA-binding protein
+sp|Q14162|SREC_HUMA	1.31	RNA-binding protein
+sp|Q70CQ4|UBP31_HUM	1.35	RNA-binding protein
+sp|Q96CC6|RHDF1_HUM	-0.91	Non RNA-binding protein
+sp|Q5W188|CST9P_HUM	-2.17	Non RNA-binding protein
+sp|Q8NFW9|MYRIP_HUM	1.32	RNA-binding protein
+sp|Q8N392|RHG18_HUM	1.54	RNA-binding protein
+sp|Q9Y664|KPTN_HUMA	-0.24	RNA-binding protein
+sp|Q9BY76|ANGL4_HUM	0.16	RNA-binding protein
+sp|Q9C0B1|FTO_HUMAN	0.43	RNA-binding protein
+sp|Q9UQK1|PPR3C_HUM	0.43	RNA-binding protein
+sp|Q8NGQ3|OR1S2_HUM	-6.13	Non RNA-binding protein
+sp|Q9UMW8|UBP18_HUM	1.11	RNA-binding protein
+sp|Q7Z460|CLAP1_HUM	0.92	RNA-binding protein
+sp|P02656|APOC3_HUM	-1.38	Non RNA-binding protein
+sp|Q86SQ3|AGRE4_HUM	-4.66	Non RNA-binding protein
+sp|O14763|TR10B_HUM	1.52	RNA-binding protein
+sp|Q96LK0|CEP19_HUM	0.74	RNA-binding protein
+sp|Q96KJ9|COX42_HUM	0.42	RNA-binding protein
+sp|Q8NEE0|KLAS1_HUM	-0.19	RNA-binding protein
+sp|Q86UK5|LBN_HUMAN	0.63	RNA-binding protein
+sp|Q92982|NINJ1_HUM	-0.90	Non RNA-binding protein
+sp|P06280|AGAL_HUMA	-0.76	Non RNA-binding protein
+sp|Q9BZD2|S29A3_HUM	-4.10	Non RNA-binding protein
+sp|Q9GZP4|PITH1_HUM	0.32	RNA-binding protein
+sp|Q2V2M9|FHOD3_HUM	1.72	RNA-binding protein
+sp|Q4G0G2|H1AS1_HUM	1.63	RNA-binding protein
+sp|Q7RTU5|ASCL5_HUM	0.64	RNA-binding protein
+sp|A6NDL8|O6C68_HUM	-4.57	Non RNA-binding protein
+sp|Q9Y6I3|EPN1_HUMA	1.10	RNA-binding protein
+sp|O60331|PI51C_HUM	1.14	RNA-binding protein
+sp|P78381|S35A2_HUM	-3.47	Non RNA-binding protein
+sp|Q8N3F9|G137C_HUM	-4.12	Non RNA-binding protein
+sp|Q12893|TM115_HUM	-3.67	Non RNA-binding protein
+sp|Q76NI1|VKIND_HUM	0.95	RNA-binding protein
+sp|Q96NT0|CC115_HUM	-0.00	RNA-binding protein
+sp|Q9UNW8|GP132_HUM	-2.65	Non RNA-binding protein
+sp|Q96FW1|OTUB1_HUM	-0.07	RNA-binding protein
+sp|P05067|A4_HUMAN	0.74	RNA-binding protein
+sp|Q96BM0|I27L1_HUM	-2.50	Non RNA-binding protein
+sp|Q9H8Y1|VRTN_HUMA	-0.61	Non RNA-binding protein
+sp|Q9NWH2|TM242_HUM	-1.08	Non RNA-binding protein
+sp|Q9UJ98|STAG3_HUM	0.11	RNA-binding protein
+sp|Q8N6K4|YP021_HUM	-3.13	Non RNA-binding protein
+sp|Q8NFJ9|BBS1_HUMA	0.12	RNA-binding protein
+sp|Q02083|NAAA_HUMA	-1.61	Non RNA-binding protein
+sp|Q9Y496|KIF3A_HUM	1.51	RNA-binding protein
+sp|A6NCI8|CB078_HUM	1.94	RNA-binding protein
+sp|Q9P0W0|IFNK_HUMA	-0.21	RNA-binding protein
+sp|P0C5K7|CT62_HUMA	-0.99	Non RNA-binding protein
+sp|Q5T4W7|ARTN_HUMA	-3.15	Non RNA-binding protein
+sp|Q6UY27|PATE2_HUM	-4.23	Non RNA-binding protein
+sp|Q9H239|MMP28_HUM	-1.80	Non RNA-binding protein
+sp|Q9HBT6|CAD20_HUM	-0.15	RNA-binding protein
+sp|P38117|ETFB_HUMA	1.43	RNA-binding protein
+sp|Q96GN5|CDA7L_HUM	1.52	RNA-binding protein
+sp|Q8IZS7|CLCL1_HUM	-1.62	Non RNA-binding protein
+sp|Q09MP3|R51A2_HUM	1.56	RNA-binding protein
+sp|Q8WUX9|CHMP7_HUM	0.88	RNA-binding protein
+sp|Q3LHN1|KR213_HUM	-6.23	Non RNA-binding protein
+sp|Q6ZQR2|CFA77_HUM	1.63	RNA-binding protein
+sp|Q8TCX5|RHPN1_HUM	-0.09	RNA-binding protein
+sp|O60243|H6ST1_HUM	0.69	RNA-binding protein
+sp|P09525|ANXA4_HUM	0.51	RNA-binding protein
+sp|Q8IXY8|PPIL6_HUM	0.78	RNA-binding protein
+sp|Q5T124|UBX11_HUM	1.23	RNA-binding protein
+sp|Q6NXP2|F71F2_HUM	-0.00	RNA-binding protein
+sp|Q9HC84|MUC5B_HUM	-1.83	Non RNA-binding protein
+sp|P31431|SDC4_HUMA	1.38	RNA-binding protein
+sp|P29371|NK3R_HUMA	-2.69	Non RNA-binding protein
+sp|Q9UKJ8|ADA21_HUM	-0.68	Non RNA-binding protein
+sp|O43680|TCF21_HUM	2.27	RNA-binding protein
+sp|A6NEK1|ARRD5_HUM	-0.09	RNA-binding protein
+sp|P54829|PTN5_HUMA	0.28	RNA-binding protein
+sp|Q2NKQ1|SGSM1_HUM	0.43	RNA-binding protein
+sp|A6NKN8|PC4L1_HUM	0.13	RNA-binding protein
+sp|Q9Y2B2|PIGL_HUMA	-2.42	Non RNA-binding protein
+sp|P05413|FABPH_HUM	-3.72	Non RNA-binding protein
+sp|P01298|PAHO_HUMA	-1.77	Non RNA-binding protein
+sp|Q107X0|KRIP1_HUM	-0.89	Non RNA-binding protein
+sp|P04278|SHBG_HUMA	-2.26	Non RNA-binding protein
+sp|Q9UI25|YP002_HUM	0.51	RNA-binding protein
+sp|Q5TA31|RN187_HUM	-0.04	RNA-binding protein
+sp|O43731|ERD23_HUM	-7.99	Non RNA-binding protein
+sp|Q99727|TIMP4_HUM	-0.59	Non RNA-binding protein
+sp|Q92482|AQP3_HUMA	-4.68	Non RNA-binding protein
+sp|O95665|NTR2_HUMA	-3.44	Non RNA-binding protein
+sp|Q9BT92|TCHP_HUMA	-5.63	Non RNA-binding protein
+sp|P48651|PTSS1_HUM	-5.80	Non RNA-binding protein
+sp|Q5BIV9|SPRN_HUMA	-4.29	Non RNA-binding protein
+sp|O15123|ANGP2_HUM	0.05	RNA-binding protein
+sp|Q8IZ16|CG061_HUM	-0.36	Non RNA-binding protein
+sp|Q6UX39|AMTN_HUMA	-1.26	Non RNA-binding protein
+sp|A2RU30|TESP1_HUM	0.91	RNA-binding protein
+sp|A6NK02|TRI75_HUM	0.62	RNA-binding protein
+sp|Q9HCN2|TPIP1_HUM	-1.82	Non RNA-binding protein
+sp|Q8N661|TM86B_HUM	-7.02	Non RNA-binding protein
+sp|Q9Y3M2|CBY1_HUMA	0.61	RNA-binding protein
+sp|Q96HA1|P121A_HUM	0.64	RNA-binding protein
+sp|P03928|ATP8_HUMA	-1.29	Non RNA-binding protein
+sp|P01374|TNFB_HUMA	-3.39	Non RNA-binding protein
+sp|Q16613|SNAT_HUMA	-4.73	Non RNA-binding protein
+sp|Q8NGL3|OR5DE_HUM	-6.50	Non RNA-binding protein
+sp|Q9H159|CAD19_HUM	-0.08	RNA-binding protein
+sp|P29218|IMPA1_HUM	0.37	RNA-binding protein
+sp|Q96JB8|MPP4_HUMA	0.85	RNA-binding protein
+sp|Q16718|NDUA5_HUM	-0.76	Non RNA-binding protein
+sp|Q01851|PO4F1_HUM	-0.72	Non RNA-binding protein
+sp|Q8NFH8|REPS2_HUM	1.71	RNA-binding protein
+sp|O95183|VAMP5_HUM	1.70	RNA-binding protein
+sp|Q53HC5|KLH26_HUM	-0.78	Non RNA-binding protein
+sp|Q99618|CDCA3_HUM	1.67	RNA-binding protein
+sp|Q96MC5|CP045_HUM	-0.12	RNA-binding protein
+sp|P78347|GTF2I_HUM	1.72	RNA-binding protein
+sp|P61421|VA0D1_HUM	-1.26	Non RNA-binding protein
+sp|Q9P1D8|YP008_HUM	0.33	RNA-binding protein
+sp|Q9ULY5|CLC4E_HUM	-1.25	Non RNA-binding protein
+sp|Q5DID0|UROL1_HUM	0.21	RNA-binding protein
+sp|Q9P126|CLC1B_HUM	-0.51	Non RNA-binding protein
+sp|O14524|NEMP1_HUM	-2.07	Non RNA-binding protein
+sp|Q99624|S38A3_HUM	-3.47	Non RNA-binding protein
+sp|Q15649|ZNHI3_HUM	1.51	RNA-binding protein
+sp|O95379|TFIP8_HUM	1.26	RNA-binding protein
+sp|Q8IY26|PLPP6_HUM	-4.95	Non RNA-binding protein
+sp|Q9BPX1|DHB14_HUM	0.07	RNA-binding protein
+sp|Q96PX6|CC85A_HUM	0.79	RNA-binding protein
+sp|Q8TC07|TBC15_HUM	0.34	RNA-binding protein
+sp|Q6UX40|TM107_HUM	-6.65	Non RNA-binding protein
+sp|O43247|TEX33_HUM	1.74	RNA-binding protein
+sp|H7C350|CC188_HUM	-0.29	Non RNA-binding protein
+sp|Q8IUC1|KR111_HUM	-1.28	Non RNA-binding protein
+sp|A1E959|ODAM_HUMA	-0.20	RNA-binding protein
+sp|O75311|GLRA3_HUM	-0.98	Non RNA-binding protein
+sp|P25105|PTAFR_HUM	-3.58	Non RNA-binding protein
+sp|P56746|CLD15_HUM	-4.99	Non RNA-binding protein
+sp|P14174|MIF_HUMAN	0.87	RNA-binding protein
+sp|Q99435|NELL2_HUM	-1.08	Non RNA-binding protein
+sp|Q8TDX6|CGAT1_HUM	0.91	RNA-binding protein
+sp|Q8IX21|SLF2_HUMA	1.85	RNA-binding protein
+sp|P16109|LYAM3_HUM	0.29	RNA-binding protein
+sp|P56202|CATW_HUMA	0.17	RNA-binding protein
+sp|P32245|MC4R_HUMA	-3.87	Non RNA-binding protein
+sp|Q9BZW4|TM6S2_HUM	-5.73	Non RNA-binding protein
+sp|Q9H903|MTD2L_HUM	0.36	RNA-binding protein
+sp|Q9NQR7|CC177_HUM	-0.30	Non RNA-binding protein
+sp|Q6IE38|ISK14_HUM	-3.75	Non RNA-binding protein
+sp|O14908|GIPC1_HUM	1.01	RNA-binding protein
+sp|P0DJH9|RD3L_HUMA	-0.25	Non RNA-binding protein
+sp|Q9Y342|PLLP_HUMA	-5.04	Non RNA-binding protein
+sp|Q07011|TNR9_HUMA	0.95	RNA-binding protein
+sp|Q9BYW3|DB126_HUM	-0.51	Non RNA-binding protein
+sp|Q8IV08|PLD3_HUMA	-0.62	Non RNA-binding protein
+sp|Q8WU58|F222B_HUM	0.58	RNA-binding protein
+sp|Q7Z699|SPRE1_HUM	1.61	RNA-binding protein
+sp|Q9Y6I4|UBP3_HUMA	0.53	RNA-binding protein
+sp|Q9BWX1|PHF7_HUMA	1.83	RNA-binding protein
+sp|Q9Y5Z7|HCFC2_HUM	0.55	RNA-binding protein
+sp|Q6ZS62|COLC1_HUM	-1.70	Non RNA-binding protein
+sp|Q71RS6|NCKX5_HUM	-4.34	Non RNA-binding protein
+sp|Q08380|LG3BP_HUM	-1.65	Non RNA-binding protein
+sp|Q9HCI6|K1586_HUM	0.59	RNA-binding protein
+sp|Q8N9X3|YA026_HUM	0.35	RNA-binding protein
+sp|P05154|IPSP_HUMA	0.25	RNA-binding protein
+sp|O43281|EFS_HUMAN	-0.50	Non RNA-binding protein
+sp|Q63HM1|KFA_HUMAN	-0.55	Non RNA-binding protein
+sp|Q9Y6N9|USH1C_HUM	1.97	RNA-binding protein
+sp|Q9Y661|HS3S4_HUM	0.29	RNA-binding protein
+sp|O95139|NDUB6_HUM	-0.27	Non RNA-binding protein
+sp|Q9BXF3|CECR2_HUM	1.70	RNA-binding protein
+sp|Q99527|GPER1_HUM	-3.68	Non RNA-binding protein
+sp|Q5TG30|RHG40_HUM	0.98	RNA-binding protein
+sp|Q8NH80|O10D3_HUM	-6.89	Non RNA-binding protein
+sp|P12829|MYL4_HUMA	1.59	RNA-binding protein
+sp|P78417|GSTO1_HUM	-0.09	RNA-binding protein
+sp|Q9H3N8|HRH4_HUMA	-3.58	Non RNA-binding protein
+sp|Q16352|AINX_HUMA	0.21	RNA-binding protein
+sp|Q9UBD9|CLCF1_HUM	-2.18	Non RNA-binding protein
+sp|P32780|TF2H1_HUM	1.70	RNA-binding protein
+sp|P98088|MUC5A_HUM	-0.94	Non RNA-binding protein
+sp|P19099|C11B2_HUM	-1.48	Non RNA-binding protein
+sp|Q16890|TPD53_HUM	0.29	RNA-binding protein
+sp|O95935|TBX18_HUM	1.00	RNA-binding protein
+sp|P0C0P6|NPS_HUMAN	-0.66	Non RNA-binding protein
+sp|Q9UNH6|SNX7_HUMA	-0.12	RNA-binding protein
+sp|Q8WVD3|RN138_HUM	0.02	RNA-binding protein
+sp|Q96RU2|UBP28_HUM	0.94	RNA-binding protein
+sp|P03923|NU6M_HUMA	-5.05	Non RNA-binding protein
+sp|Q9H2G9|GO45_HUMA	1.79	RNA-binding protein
+sp|Q9Y6R0|NUMBL_HUM	0.96	RNA-binding protein
+sp|Q8NFP0|PXT1_HUMA	1.99	RNA-binding protein
+sp|Q969I6|S38A4_HUM	-2.69	Non RNA-binding protein
+sp|Q9UGK3|STAP2_HUM	1.14	RNA-binding protein
+sp|A8MZ36|EVPLL_HUM	0.10	RNA-binding protein
+sp|Q5VT06|CE350_HUM	1.09	RNA-binding protein
+sp|Q9GZY1|PBOV1_HUM	-1.11	Non RNA-binding protein
+sp|Q8TEV9|SMCR8_HUM	0.52	RNA-binding protein
+sp|O60551|NMT2_HUMA	1.13	RNA-binding protein
+sp|Q5EG05|CAR16_HUM	0.26	RNA-binding protein
+sp|Q53SF7|COBL1_HUM	1.97	RNA-binding protein
+sp|Q9HA64|KT3K_HUMA	-0.01	RNA-binding protein
+sp|P06276|CHLE_HUMA	-1.42	Non RNA-binding protein
+sp|K7EJ46|SIM22_HUM	-1.34	Non RNA-binding protein
+sp|Q13542|4EBP2_HUM	-0.72	Non RNA-binding protein
+sp|O43261|LEU1_HUMA	-0.68	Non RNA-binding protein
+sp|Q6UWF3|SCIMP_HUM	-0.29	Non RNA-binding protein
+sp|Q9BZ67|FRMD8_HUM	-0.22	RNA-binding protein
+sp|P49069|CAMLG_HUM	0.86	RNA-binding protein
+sp|Q8WV19|SFT2A_HUM	-7.21	Non RNA-binding protein
+sp|Q9HAT8|PELI2_HUM	0.22	RNA-binding protein
+sp|Q9H0U9|TSYL1_HUM	0.96	RNA-binding protein
+sp|Q15758|AAAT_HUMA	-3.27	Non RNA-binding protein
+sp|Q9Y5H8|PCDA3_HUM	1.45	RNA-binding protein
+sp|A8MTZ0|BBIP1_HUM	2.20	RNA-binding protein
+sp|A8MPX8|PP2D1_HUM	0.43	RNA-binding protein
+sp|Q6ZQT7|YJ013_HUM	-2.31	Non RNA-binding protein
+sp|Q8WW59|SPRY4_HUM	-0.94	Non RNA-binding protein
+sp|A4D263|CG072_HUM	0.42	RNA-binding protein
+sp|O43257|ZNHI1_HUM	2.73	RNA-binding protein
+sp|Q7Z3J2|CP062_HUM	0.16	RNA-binding protein
+sp|A6NGJ6|TRI64_HUM	0.45	RNA-binding protein
+sp|P34741|SDC2_HUMA	0.41	RNA-binding protein
+sp|P08729|K2C7_HUMA	1.40	RNA-binding protein
+sp|Q96A09|FA46B_HUM	-1.01	Non RNA-binding protein
+sp|Q9NSE7|ABCCD_HUM	0.55	RNA-binding protein
+sp|E9PI22|P23D1_HUM	0.42	RNA-binding protein
+sp|Q9BR77|CCD77_HUM	0.50	RNA-binding protein
+sp|Q5HYC2|K2026_HUM	1.84	RNA-binding protein
+sp|Q92628|K0232_HUM	1.80	RNA-binding protein
+sp|Q16661|GUC2B_HUM	0.34	RNA-binding protein
+sp|Q5VZQ5|TEX36_HUM	1.47	RNA-binding protein
+sp|P31213|S5A2_HUMA	-6.55	Non RNA-binding protein
+sp|Q14112|NID2_HUMA	-0.03	RNA-binding protein
+sp|Q9NWV4|CA123_HUM	0.49	RNA-binding protein
+sp|P50749|RASF2_HUM	1.17	RNA-binding protein
+sp|P59796|GPX6_HUMA	-1.19	Non RNA-binding protein
+sp|P0C7V0|CF217_HUM	-0.29	Non RNA-binding protein
+sp|Q9H3P2|NELFA_HUM	1.96	RNA-binding protein
+sp|Q96DB9|FXYD5_HUM	-1.79	Non RNA-binding protein
+sp|Q96RE7|NACC1_HUM	1.92	RNA-binding protein
+sp|A1A519|F170A_HUM	0.55	RNA-binding protein
+sp|P21912|SDHB_HUMA	0.84	RNA-binding protein
+sp|Q5VVC0|CA146_HUM	-0.34	Non RNA-binding protein
+sp|P32745|SSR3_HUMA	-0.76	Non RNA-binding protein
+sp|Q96N87|S6A18_HUM	-4.74	Non RNA-binding protein
+sp|O76064|RNF8_HUMA	1.06	RNA-binding protein
+sp|Q9C0H9|SRCN1_HUM	1.40	RNA-binding protein
+sp|Q9BXU9|CABP8_HUM	0.59	RNA-binding protein
+sp|P19438|TNR1A_HUM	0.28	RNA-binding protein
+sp|Q8J025|APCD1_HUM	-1.13	Non RNA-binding protein
+sp|P16083|NQO2_HUMA	-0.97	Non RNA-binding protein
+sp|P05112|IL4_HUMAN	-1.43	Non RNA-binding protein
+sp|Q96MI6|PPM1M_HUM	-0.04	RNA-binding protein
+sp|Q96NY7|CLIC6_HUM	2.27	RNA-binding protein
+sp|Q9HD34|LYRM4_HUM	2.18	RNA-binding protein
+sp|P21917|DRD4_HUMA	-2.96	Non RNA-binding protein
+sp|A6NED2|RCCD1_HUM	-1.72	Non RNA-binding protein
+sp|P21246|PTN_HUMAN	1.40	RNA-binding protein
+sp|Q00994|BEX3_HUMA	-0.03	RNA-binding protein
+sp|P13671|CO6_HUMAN	1.25	RNA-binding protein
+sp|Q86U17|SPA11_HUM	-0.89	Non RNA-binding protein
+sp|Q13621|S12A1_HUM	-0.58	Non RNA-binding protein
+sp|O75074|LRP3_HUMA	0.16	RNA-binding protein
+sp|P10600|TGFB3_HUM	0.89	RNA-binding protein
+sp|Q969U7|PSMG2_HUM	-0.01	RNA-binding protein
+sp|Q92187|SIA8D_HUM	0.08	RNA-binding protein
+sp|Q9NQ92|COPRS_HUM	1.19	RNA-binding protein
+sp|Q9H819|DJC18_HUM	0.60	RNA-binding protein
+sp|Q8N1H7|S6OS1_HUM	-0.12	RNA-binding protein
+sp|Q92685|ALG3_HUMA	-7.02	Non RNA-binding protein
+sp|Q02383|SEMG2_HUM	0.05	RNA-binding protein
+sp|Q8NGJ4|O52E2_HUM	-6.11	Non RNA-binding protein
+sp|Q9NZK5|CECR1_HUM	-0.90	Non RNA-binding protein
+sp|Q6GQQ9|OTU7B_HUM	1.69	RNA-binding protein
+sp|Q9Y4F5|C170B_HUM	1.01	RNA-binding protein
+sp|Q08493|PDE4C_HUM	0.81	RNA-binding protein
+sp|Q96C03|MID49_HUM	-2.82	Non RNA-binding protein
+sp|Q5JR12|PPM1J_HUM	0.30	RNA-binding protein
+sp|Q4G112|HSF5_HUMA	1.70	RNA-binding protein
+sp|Q6B0K9|HBM_HUMAN	-0.92	Non RNA-binding protein
+sp|Q9UKN1|MUC12_HUM	-1.09	Non RNA-binding protein
+sp|P52789|HXK2_HUMA	0.57	RNA-binding protein
+sp|Q96T76|MMS19_HUM	-0.86	Non RNA-binding protein
+sp|Q93050|VPP1_HUMA	-2.08	Non RNA-binding protein
+sp|O14617|AP3D1_HUM	1.83	RNA-binding protein
+sp|Q9UHI7|S23A1_HUM	-4.10	Non RNA-binding protein
+sp|Q6ZW61|BBS12_HUM	-0.10	RNA-binding protein
+sp|Q3LI77|KR134_HUM	1.53	RNA-binding protein
+sp|Q5T6L9|EMARD_HUM	-2.13	Non RNA-binding protein
+sp|Q9BR09|NEUL2_HUM	-1.76	Non RNA-binding protein
+sp|Q9NQC7|CYLD_HUMA	1.01	RNA-binding protein
+sp|Q96P67|GPR82_HUM	-3.82	Non RNA-binding protein
+sp|Q96B97|SH3K1_HUM	2.36	RNA-binding protein
+sp|P01579|IFNG_HUMA	1.51	RNA-binding protein
+sp|P04156|PRIO_HUMA	-0.51	Non RNA-binding protein
+sp|Q8IVF2|AHNK2_HUM	1.39	RNA-binding protein
+sp|Q9NP31|SH22A_HUM	0.07	RNA-binding protein
+sp|Q9UBG3|CRNN_HUMA	-3.40	Non RNA-binding protein
+sp|O95073|FSBP_HUMA	1.13	RNA-binding protein
+sp|Q8N196|SIX5_HUMA	-0.20	RNA-binding protein
+sp|Q9NQ33|ASCL3_HUM	0.98	RNA-binding protein
+sp|Q9Y244|POMP_HUMA	0.27	RNA-binding protein
+sp|Q75WM6|H1FNT_HUM	1.45	RNA-binding protein
+sp|Q6X784|ZPBP2_HUM	-0.70	Non RNA-binding protein
+sp|Q9P215|POGK_HUMA	1.03	RNA-binding protein
+sp|P05091|ALDH2_HUM	0.33	RNA-binding protein
+sp|O75787|RENR_HUMA	-0.46	Non RNA-binding protein
+sp|P84550|SKOR1_HUM	1.05	RNA-binding protein
+sp|Q13609|DNSL3_HUM	0.37	RNA-binding protein
+sp|Q9BZP3|CR002_HUM	0.16	RNA-binding protein
+sp|P06396|GELS_HUMA	0.74	RNA-binding protein
+sp|P41219|PERI_HUMA	-0.53	Non RNA-binding protein
+sp|P20963|CD3Z_HUMA	1.92	RNA-binding protein
+sp|Q86WR0|CCD25_HUM	0.19	RNA-binding protein
+sp|H3BS89|T178B_HUM	-2.84	Non RNA-binding protein
+sp|Q01344|IL5RA_HUM	-1.48	Non RNA-binding protein
+sp|P35414|APJ_HUMAN	-3.71	Non RNA-binding protein
+sp|Q8N5B7|CERS5_HUM	-4.51	Non RNA-binding protein
+sp|Q76M96|CCD80_HUM	1.88	RNA-binding protein
+sp|O95838|GLP2R_HUM	-3.44	Non RNA-binding protein
+sp|Q9H008|LHPP_HUMA	1.28	RNA-binding protein
+sp|O75173|ATS4_HUMA	-0.71	Non RNA-binding protein
+sp|P31277|HXD11_HUM	1.76	RNA-binding protein
+sp|P0CV99|TSPY4_HUM	0.14	RNA-binding protein
+sp|Q99750|MDFI_HUMA	0.90	RNA-binding protein
+sp|Q6UXF1|TM108_HUM	0.70	RNA-binding protein
+sp|P55283|CADH4_HUM	0.52	RNA-binding protein
+sp|Q9Y2F5|ICE1_HUMA	2.01	RNA-binding protein
+sp|P78352|DLG4_HUMA	1.09	RNA-binding protein
+sp|Q9BS40|LXN_HUMAN	0.19	RNA-binding protein
+sp|P26436|ASPX_HUMA	1.39	RNA-binding protein
+sp|Q9BTD1|SHAS3_HUM	-1.65	Non RNA-binding protein
+sp|Q9Y548|YIPF1_HUM	-3.32	Non RNA-binding protein
+sp|Q9Y219|JAG2_HUMA	-0.71	Non RNA-binding protein
+sp|Q6P050|FXL22_HUM	-1.46	Non RNA-binding protein
+sp|Q14565|DMC1_HUMA	0.72	RNA-binding protein
+sp|Q7Z3T1|OR2W3_HUM	-4.88	Non RNA-binding protein
+sp|Q9Y6H8|CXA3_HUMA	-0.48	Non RNA-binding protein
+sp|Q9UNN4|TF2AY_HUM	1.36	RNA-binding protein
+sp|P55160|NCKPL_HUM	-0.48	Non RNA-binding protein
+sp|Q5T036|F120S_HUM	-0.90	Non RNA-binding protein
+sp|P07602|SAP_HUMAN	0.05	RNA-binding protein
+sp|Q6UXV4|MIC27_HUM	1.09	RNA-binding protein
+sp|Q8N5J2|FA63A_HUM	1.14	RNA-binding protein
+sp|P46020|KPB1_HUMA	0.27	RNA-binding protein
+sp|Q9BQE6|LBHD1_HUM	0.84	RNA-binding protein
+sp|A6ND36|FA83G_HUM	0.92	RNA-binding protein
+sp|Q96PH1|NOX5_HUMA	-1.72	Non RNA-binding protein
+sp|Q8IX05|CD302_HUM	-2.43	Non RNA-binding protein
+sp|Q6ZN03|CU136_HUM	0.01	RNA-binding protein
+sp|Q8IZP9|AGRG2_HUM	-0.22	RNA-binding protein
+sp|Q9NVZ3|NECP2_HUM	0.89	RNA-binding protein
+sp|Q6AZY7|SCAR3_HUM	1.40	RNA-binding protein
+sp|Q9UHI8|ATS1_HUMA	1.12	RNA-binding protein
+sp|O14829|PPE1_HUMA	0.03	RNA-binding protein
+sp|Q6ZNB5|TRC2L_HUM	1.80	RNA-binding protein
+sp|Q9UNE2|RPH3L_HUM	1.19	RNA-binding protein
+sp|Q8WW14|CJ082_HUM	1.36	RNA-binding protein
+sp|Q14574|DSC3_HUMA	0.71	RNA-binding protein
+sp|Q9UP52|TFR2_HUMA	-1.18	Non RNA-binding protein
+sp|Q12962|TAF10_HUM	-0.00	RNA-binding protein
+sp|Q9UJY1|HSPB8_HUM	1.46	RNA-binding protein
+sp|Q6HA08|ASTL_HUMA	-0.50	Non RNA-binding protein
+sp|Q6ZV29|PLPL7_HUM	0.34	RNA-binding protein
+sp|Q9BZL1|UBL5_HUMA	-2.07	Non RNA-binding protein
+sp|P51582|P2RY4_HUM	-5.16	Non RNA-binding protein
+sp|Q9H4I0|RD21L_HUM	0.99	RNA-binding protein
+sp|Q96I76|GPTC3_HUM	0.97	RNA-binding protein
+sp|Q9H343|O51I1_HUM	-5.83	Non RNA-binding protein
+sp|Q9NPU4|CN132_HUM	-1.32	Non RNA-binding protein
+sp|Q6N021|TET2_HUMA	2.43	RNA-binding protein
+sp|P54315|LIPR1_HUM	-1.00	Non RNA-binding protein
+sp|Q15369|ELOC_HUMA	-0.03	RNA-binding protein
+sp|Q9BUZ4|TRAF4_HUM	0.82	RNA-binding protein
+sp|P57060|RWD2B_HUM	0.23	RNA-binding protein
+sp|Q9BZG2|PPAT_HUMA	-4.26	Non RNA-binding protein
+sp|P19429|TNNI3_HUM	2.08	RNA-binding protein
+sp|Q8IWV7|UBR1_HUMA	0.03	RNA-binding protein
+sp|Q92502|STAR8_HUM	0.59	RNA-binding protein
+sp|Q8N1I8|CAAS1_HUM	-0.59	Non RNA-binding protein
+sp|Q99932|SPAG8_HUM	1.66	RNA-binding protein
+sp|Q8NGV5|O13D1_HUM	-4.47	Non RNA-binding protein
+sp|P10916|MLRV_HUMA	0.62	RNA-binding protein
+sp|Q6UWU4|CF089_HUM	-1.21	Non RNA-binding protein
+sp|Q14116|IL18_HUMA	0.44	RNA-binding protein
+sp|P14649|MYL6B_HUM	2.21	RNA-binding protein
+sp|O14994|SYN3_HUMA	1.16	RNA-binding protein
+sp|P21854|CD72_HUMA	0.42	RNA-binding protein
+sp|Q96AP0|ACD_HUMAN	-0.11	RNA-binding protein
+sp|Q8NFJ8|BHE22_HUM	-0.80	Non RNA-binding protein
+sp|Q96E09|F122A_HUM	1.89	RNA-binding protein
+sp|Q96K78|AGRG7_HUM	-1.08	Non RNA-binding protein
+sp|P36222|CH3L1_HUM	-2.07	Non RNA-binding protein
+sp|O15375|MOT6_HUMA	-4.87	Non RNA-binding protein
+sp|Q8NA03|FSIP1_HUM	0.84	RNA-binding protein
+sp|Q6UX01|LMBRL_HUM	-5.85	Non RNA-binding protein
+sp|Q5TYM5|FA72A_HUM	-2.03	Non RNA-binding protein
+sp|Q96F25|ALG14_HUM	-2.05	Non RNA-binding protein
+sp|P41229|KDM5C_HUM	0.74	RNA-binding protein
+sp|Q9NSB4|KRT82_HUM	1.49	RNA-binding protein
+sp|Q6BCY4|NB5R2_HUM	-0.15	RNA-binding protein
+sp|P42357|HUTH_HUMA	0.38	RNA-binding protein
+sp|Q9UBT7|CTNL1_HUM	0.76	RNA-binding protein
+sp|P41597|CCR2_HUMA	-4.46	Non RNA-binding protein
+sp|P00441|SODC_HUMA	1.15	RNA-binding protein
+sp|Q8NEP7|KLDC9_HUM	-2.66	Non RNA-binding protein
+sp|Q96BH3|ESPB1_HUM	-2.40	Non RNA-binding protein
+sp|Q68DU8|KCD16_HUM	1.00	RNA-binding protein
+sp|Q9NVX0|HAUS2_HUM	1.03	RNA-binding protein
+sp|Q9HAY6|BCDO1_HUM	-0.61	Non RNA-binding protein
+sp|Q8NGI7|O10V1_HUM	-5.03	Non RNA-binding protein
+sp|Q96RI9|TAAR9_HUM	-3.73	Non RNA-binding protein
+sp|P14867|GBRA1_HUM	-1.08	Non RNA-binding protein
+sp|Q12836|ZP4_HUMAN	0.14	RNA-binding protein
+sp|Q92564|DCNL4_HUM	-0.26	Non RNA-binding protein
+sp|Q9UBV4|WNT16_HUM	0.17	RNA-binding protein
+sp|Q8TCG2|P4K2B_HUM	1.07	RNA-binding protein
+sp|Q8IVU9|CJ107_HUM	-1.03	Non RNA-binding protein
+sp|O94864|ST65G_HUM	1.34	RNA-binding protein
+sp|P18283|GPX2_HUMA	-0.01	RNA-binding protein
+sp|Q13576|IQGA2_HUM	1.20	RNA-binding protein
+sp|Q9Y2I9|TBC30_HUM	1.67	RNA-binding protein
+sp|A6NJI1|CK086_HUM	-2.80	Non RNA-binding protein
+sp|P31275|HXC12_HUM	0.62	RNA-binding protein
+sp|Q14416|GRM2_HUMA	-1.62	Non RNA-binding protein
+sp|P51825|AFF1_HUMA	1.26	RNA-binding protein
+sp|O95721|SNP29_HUM	1.44	RNA-binding protein
+sp|Q9UHP7|CLC2D_HUM	-0.41	Non RNA-binding protein
+sp|Q5VWZ2|LYPL1_HUM	0.17	RNA-binding protein
+sp|Q14643|ITPR1_HUM	1.04	RNA-binding protein
+sp|Q0P651|ABD18_HUM	0.30	RNA-binding protein
+sp|P52732|KIF11_HUM	0.87	RNA-binding protein
+sp|Q8IVP5|FUND1_HUM	0.63	RNA-binding protein
+sp|Q6DN90|IQEC1_HUM	1.63	RNA-binding protein
+sp|Q96A61|TRI52_HUM	-0.21	RNA-binding protein
+sp|Q9Y3Q3|TMED3_HUM	-1.04	Non RNA-binding protein
+sp|Q6UX65|DRAM2_HUM	-4.70	Non RNA-binding protein
+sp|Q9NQR9|G6PC2_HUM	-6.56	Non RNA-binding protein
+sp|Q9UGF7|O12D3_HUM	-6.05	Non RNA-binding protein
+sp|Q9NWU1|OXSM_HUMA	-0.21	RNA-binding protein
+sp|Q9H8X9|ZDH11_HUM	-0.36	Non RNA-binding protein
+sp|Q93063|EXT2_HUMA	-0.09	RNA-binding protein
+sp|Q8NCL8|TM116_HUM	-2.66	Non RNA-binding protein
+sp|P47872|SCTR_HUMA	-3.17	Non RNA-binding protein
+sp|Q9NWF4|S52A1_HUM	-5.79	Non RNA-binding protein
+sp|Q5VZ52|MORN5_HUM	-1.46	Non RNA-binding protein
+sp|O15255|CXX1_HUMA	-4.88	Non RNA-binding protein
+sp|A6ND01|JUNO_HUMA	-1.21	Non RNA-binding protein
+sp|P59551|T2R60_HUM	-7.18	Non RNA-binding protein
+sp|Q9UNH7|SNX6_HUMA	0.87	RNA-binding protein
+sp|Q14695|K0087_HUM	0.38	RNA-binding protein
+sp|Q96P71|NECA3_HUM	-0.35	Non RNA-binding protein
+sp|Q08431|MFGM_HUMA	-0.67	Non RNA-binding protein
+sp|P11215|ITAM_HUMA	0.49	RNA-binding protein
+sp|O95243|MBD4_HUMA	1.45	RNA-binding protein
+sp|Q9ULW2|FZD10_HUM	-1.18	Non RNA-binding protein
+sp|Q5T0J3|CA220_HUM	0.38	RNA-binding protein
+sp|Q8TEY5|CR3L4_HUM	1.21	RNA-binding protein
+sp|Q96DG6|CMBL_HUMA	-0.24	RNA-binding protein
+sp|Q6PIV7|S2534_HUM	-1.85	Non RNA-binding protein
+sp|O14841|OPLA_HUMA	-0.44	Non RNA-binding protein
+sp|P46939|UTRO_HUMA	1.00	RNA-binding protein
+sp|O43396|TXNL1_HUM	1.46	RNA-binding protein
+sp|Q9BZQ8|NIBAN_HUM	1.25	RNA-binding protein
+sp|Q6P444|MTFR2_HUM	1.92	RNA-binding protein
+sp|Q8N104|D106A_HUM	-3.71	Non RNA-binding protein
+sp|P55808|XG_HUMAN	1.17	RNA-binding protein
+sp|Q8WWF3|SSMM1_HUM	0.56	RNA-binding protein
+sp|P28062|PSB8_HUMA	-0.04	RNA-binding protein
+sp|O43741|AAKB2_HUM	0.73	RNA-binding protein
+sp|A1L4Q6|YK033_HUM	-1.23	Non RNA-binding protein
+sp|Q9H410|DSN1_HUMA	0.72	RNA-binding protein
+sp|A6NNE9|MARHB_HUM	-0.32	Non RNA-binding protein
+sp|Q9UPM6|LHX6_HUMA	1.87	RNA-binding protein
+sp|Q5XG92|EST4A_HUM	-0.44	Non RNA-binding protein
+sp|Q5TAB7|RIPP2_HUM	0.07	RNA-binding protein
+sp|Q30KQ5|DB115_HUM	-0.39	Non RNA-binding protein
+sp|Q15582|BGH3_HUMA	0.32	RNA-binding protein
+sp|Q53RY4|KCP3_HUMA	-3.52	Non RNA-binding protein
+sp|P0C2W1|FBSP1_HUM	-1.42	Non RNA-binding protein
+sp|Q6UWT2|ENHO_HUMA	-2.03	Non RNA-binding protein
+sp|Q69YL0|NCAS2_HUM	-1.36	Non RNA-binding protein
+sp|P49418|AMPH_HUMA	1.73	RNA-binding protein
+sp|Q05315|LEG10_HUM	-0.24	RNA-binding protein
+sp|Q8WTS1|ABHD5_HUM	-0.73	Non RNA-binding protein
+sp|O14494|PLPP1_HUM	-3.14	Non RNA-binding protein
+sp|Q5HYI7|MTX3_HUMA	-0.08	RNA-binding protein
+sp|Q17RM4|CC142_HUM	-2.60	Non RNA-binding protein
+sp|P23510|TNFL4_HUM	0.55	RNA-binding protein
+sp|Q07092|COGA1_HUM	3.00	RNA-binding protein
+sp|Q15059|BRD3_HUMA	1.49	RNA-binding protein
+sp|Q9UK55|ZPI_HUMAN	0.07	RNA-binding protein
+sp|Q96KR4|LMLN_HUMA	0.00	RNA-binding protein
+sp|Q92478|CLC2B_HUM	-2.81	Non RNA-binding protein
+sp|Q9H477|RBSK_HUMA	-0.12	RNA-binding protein
+sp|Q7L0L9|YA043_HUM	-4.14	Non RNA-binding protein
+sp|Q96GL9|F163A_HUM	0.03	RNA-binding protein
+sp|P05089|ARGI1_HUM	0.11	RNA-binding protein
+sp|A6NFY4|NEMP2_HUM	-3.61	Non RNA-binding protein
+sp|Q86VZ4|LRP11_HUM	0.54	RNA-binding protein
+sp|Q9NRY6|PLS3_HUMA	-0.88	Non RNA-binding protein
+sp|P51688|SPHM_HUMA	-1.35	Non RNA-binding protein
+sp|Q66K80|RUAS1_HUM	-2.36	Non RNA-binding protein
+sp|Q96MX0|CKLF3_HUM	-4.14	Non RNA-binding protein
+sp|Q8TCQ1|MARH1_HUM	-0.18	RNA-binding protein
+sp|O15244|S22A2_HUM	-3.46	Non RNA-binding protein
+sp|Q01459|DIAC_HUMA	-0.35	Non RNA-binding protein
+sp|P49763|PLGF_HUMA	0.22	RNA-binding protein
+sp|I3L1E1|CS084_HUM	-0.46	Non RNA-binding protein
+sp|Q5T870|PRR9_HUMA	-5.34	Non RNA-binding protein
+sp|O15273|TELT_HUMA	-1.10	Non RNA-binding protein
+sp|P34949|MPI_HUMAN	0.66	RNA-binding protein
+sp|P30408|T4S1_HUMA	-6.48	Non RNA-binding protein
+sp|Q9NV64|TM39A_HUM	-4.40	Non RNA-binding protein
+sp|Q9Y345|SC6A5_HUM	-2.43	Non RNA-binding protein
+sp|Q76L83|ASXL2_HUM	2.33	RNA-binding protein
+sp|A4D174|CG071_HUM	-0.43	Non RNA-binding protein
+sp|Q9P032|NDUF4_HUM	1.16	RNA-binding protein
+sp|Q6PEY1|TMM88_HUM	-4.14	Non RNA-binding protein
+sp|Q8WVF1|OSCP1_HUM	0.91	RNA-binding protein
+sp|Q68G75|LEMD1_HUM	0.32	RNA-binding protein
+sp|A6NCI5|SIM16_HUM	-7.06	Non RNA-binding protein
+sp|Q86XD8|ZFAN4_HUM	2.07	RNA-binding protein
+sp|A6NGH7|CC160_HUM	-1.72	Non RNA-binding protein
+sp|Q9NYB0|TE2IP_HUM	1.52	RNA-binding protein
+sp|Q9NVA1|UQCC1_HUM	-0.03	RNA-binding protein
+sp|Q86WB7|UN93A_HUM	-4.37	Non RNA-binding protein
+sp|Q9Y5B6|PAXB1_HUM	1.88	RNA-binding protein
+sp|P34059|GALNS_HUM	-1.52	Non RNA-binding protein
+sp|Q9BR46|CT078_HUM	-0.44	Non RNA-binding protein
+sp|Q92736|RYR2_HUMA	0.47	RNA-binding protein
+sp|Q01650|LAT1_HUMA	-4.88	Non RNA-binding protein
+sp|Q8TEW0|PARD3_HUM	1.76	RNA-binding protein
+sp|P86434|AAS1_HUMA	-0.13	RNA-binding protein
+sp|Q3SY05|CA157_HUM	-0.35	Non RNA-binding protein
+sp|P48594|SPB4_HUMA	-0.71	Non RNA-binding protein
+sp|P07093|GDN_HUMAN	0.26	RNA-binding protein
+sp|Q86XP0|PA24D_HUM	-0.30	Non RNA-binding protein
+sp|Q15562|TEAD2_HUM	0.65	RNA-binding protein
+sp|Q13166|CATR1_HUM	0.11	RNA-binding protein
+sp|P36383|CXG1_HUMA	0.60	RNA-binding protein
+sp|A0A087WUL8|NBPFJ	0.51	RNA-binding protein
+sp|Q8IUR0|TPPC5_HUM	-0.06	RNA-binding protein
+sp|Q6PRD7|CEMP1_HUM	0.05	RNA-binding protein
+sp|A2IDD5|CCD78_HUM	0.00	RNA-binding protein
+sp|Q04844|ACHE_HUMA	-1.45	Non RNA-binding protein
+sp|Q86YQ2|LATH_HUMA	-0.37	Non RNA-binding protein
+sp|P29279|CTGF_HUMA	-0.13	RNA-binding protein
+sp|O95998|I18BP_HUM	-0.58	Non RNA-binding protein
+sp|Q9UJW9|SRTD3_HUM	-0.92	Non RNA-binding protein
+sp|P41440|S19A1_HUM	-2.62	Non RNA-binding protein
+sp|Q9Y5K8|VATD_HUMA	0.80	RNA-binding protein
+sp|Q9NUQ3|TXLNG_HUM	0.22	RNA-binding protein
+sp|Q8NBN3|TM87A_HUM	-2.49	Non RNA-binding protein
+sp|O75330|HMMR_HUMA	-1.42	Non RNA-binding protein
+sp|P20908|CO5A1_HUM	3.41	RNA-binding protein
+sp|Q9UQF2|JIP1_HUMA	1.53	RNA-binding protein
+sp|Q9Y3T6|R3HC1_HUM	1.32	RNA-binding protein
+sp|Q15276|RABE1_HUM	-0.71	Non RNA-binding protein
+sp|Q9NQG7|HPS4_HUMA	0.64	RNA-binding protein
+sp|Q8N1Y9|YI025_HUM	-1.67	Non RNA-binding protein
+sp|Q8NDY6|BHE23_HUM	-0.17	RNA-binding protein
+sp|Q9BY07|S4A5_HUMA	-0.93	Non RNA-binding protein
+sp|Q8IZD2|KMT2E_HUM	1.80	RNA-binding protein
+sp|Q8NG68|TTL_HUMAN	0.38	RNA-binding protein
+sp|Q9NPC6|MYOZ2_HUM	2.00	RNA-binding protein
+sp|Q6UWP7|LCLT1_HUM	-3.33	Non RNA-binding protein
+sp|Q9NS75|CLTR2_HUM	-4.56	Non RNA-binding protein
+sp|Q9H427|KCNKF_HUM	-3.99	Non RNA-binding protein
+sp|Q6UE05|WBS28_HUM	-4.38	Non RNA-binding protein
+sp|P20020|AT2B1_HUM	1.03	RNA-binding protein
+sp|Q13616|CUL1_HUMA	0.97	RNA-binding protein
+sp|Q8NHB8|OR5K2_HUM	-5.43	Non RNA-binding protein
+sp|Q9H773|DCTP1_HUM	-0.35	Non RNA-binding protein
+sp|A6NM03|O2AG2_HUM	-5.80	Non RNA-binding protein
+sp|Q9HC07|TM165_HUM	-1.45	Non RNA-binding protein
+sp|Q68EM7|RHG17_HUM	1.77	RNA-binding protein
+sp|Q9H741|CL049_HUM	0.67	RNA-binding protein
+sp|Q9Y2G8|DJC16_HUM	-0.73	Non RNA-binding protein
+sp|P43155|CACP_HUMA	0.57	RNA-binding protein
+sp|Q9NUD9|PIGV_HUMA	-7.14	Non RNA-binding protein
+sp|P29466|CASP1_HUM	1.03	RNA-binding protein
+sp|O94868|FCSD2_HUM	1.34	RNA-binding protein
+sp|Q86X83|COMD2_HUM	0.55	RNA-binding protein
+sp|O75843|AP1G2_HUM	0.17	RNA-binding protein
+sp|Q6PJ69|TRI65_HUM	-0.53	Non RNA-binding protein
+sp|P54802|ANAG_HUMA	-2.63	Non RNA-binding protein
+sp|Q9H9S5|FKRP_HUMA	-1.73	Non RNA-binding protein
+sp|O75381|PEX14_HUM	1.23	RNA-binding protein
+sp|O95402|MED26_HUM	0.96	RNA-binding protein
+sp|Q8N7B6|PACRL_HUM	1.23	RNA-binding protein
+sp|Q9UBD0|HSFX1_HUM	0.38	RNA-binding protein
+sp|Q01850|CDR2_HUMA	-0.36	Non RNA-binding protein
+sp|Q5T953|IER5L_HUM	-0.86	Non RNA-binding protein
+sp|Q70EL3|UBP50_HUM	-2.01	Non RNA-binding protein
+sp|Q6PIJ6|FBX38_HUM	1.57	RNA-binding protein
+sp|Q15080|NCF4_HUMA	0.45	RNA-binding protein
+sp|Q96PS6|GAFA1_HUM	-1.40	Non RNA-binding protein
+sp|P13631|RARG_HUMA	1.82	RNA-binding protein
+sp|Q8N8P6|YX004_HUM	-1.00	Non RNA-binding protein
+sp|Q9H6U6|BCAS3_HUM	0.70	RNA-binding protein
+sp|Q6ZQY7|YO026_HUM	-1.47	Non RNA-binding protein
+sp|P56747|CLD6_HUMA	-3.33	Non RNA-binding protein
+sp|Q96NL8|CH037_HUM	0.82	RNA-binding protein
+sp|Q13257|MD2L1_HUM	-1.09	Non RNA-binding protein
+sp|P06454|PTMA_HUMA	-1.80	Non RNA-binding protein
+sp|Q96F63|CCD97_HUM	0.93	RNA-binding protein
+sp|O14657|TOR1B_HUM	-0.54	Non RNA-binding protein
+sp|H3BRN8|CO065_HUM	0.71	RNA-binding protein
+sp|Q96B67|ARRD3_HUM	0.79	RNA-binding protein
+sp|Q5VXT5|SYPL2_HUM	-2.03	Non RNA-binding protein
+sp|Q5HYW2|NHSL2_HUM	1.90	RNA-binding protein
+sp|P49257|LMAN1_HUM	1.67	RNA-binding protein
+sp|Q2TAA2|IAH1_HUMA	-1.09	Non RNA-binding protein
+sp|Q6ZU65|UBN2_HUMA	2.21	RNA-binding protein
+sp|Q9BT67|NFIP1_HUM	-4.11	Non RNA-binding protein
+sp|P08397|HEM3_HUMA	1.24	RNA-binding protein
+sp|Q96MW5|COG8_HUMA	-0.39	Non RNA-binding protein
+sp|Q96T54|KCNKH_HUM	-3.62	Non RNA-binding protein
+sp|Q9BPX7|CG025_HUM	1.33	RNA-binding protein
+sp|Q15906|VPS72_HUM	2.33	RNA-binding protein
+sp|P38435|VKGC_HUMA	-2.40	Non RNA-binding protein
+sp|Q6ZUF6|NC336_HUM	-0.86	Non RNA-binding protein
+sp|A6NMZ5|O4C45_HUM	-6.71	Non RNA-binding protein
+sp|Q92831|KAT2B_HUM	1.73	RNA-binding protein
+sp|O75323|NIPS2_HUM	-0.69	Non RNA-binding protein
+sp|Q8NHC5|O14AG_HUM	-5.25	Non RNA-binding protein
+sp|P55061|BI1_HUMAN	-5.22	Non RNA-binding protein
+sp|Q08334|I10R2_HUM	-0.81	Non RNA-binding protein
+sp|Q14442|PIGH_HUMA	-1.92	Non RNA-binding protein
+sp|Q8NGX6|O10R2_HUM	-6.99	Non RNA-binding protein
+sp|P28358|HXD10_HUM	2.15	RNA-binding protein
+sp|Q5BJE1|CC178_HUM	-0.40	Non RNA-binding protein
+sp|Q658Y4|F91A1_HUM	0.15	RNA-binding protein
+sp|P10643|CO7_HUMAN	1.31	RNA-binding protein
+sp|Q1AE95|T183B_HUM	0.67	RNA-binding protein
+sp|Q96LR1|CRIT1_HUM	0.32	RNA-binding protein
+sp|Q6P9B6|TLDC1_HUM	0.71	RNA-binding protein
+sp|A0PJE2|DHR12_HUM	0.76	RNA-binding protein
+sp|O75419|CDC45_HUM	-0.29	Non RNA-binding protein
+sp|O15327|INP4B_HUM	1.17	RNA-binding protein
+sp|Q13367|AP3B2_HUM	1.54	RNA-binding protein
+sp|E2RYF6|MUC22_HUM	-6.00	Non RNA-binding protein
+sp|Q96T75|DSCR8_HUM	-0.11	RNA-binding protein
+sp|Q7Z5V6|PPR32_HUM	1.72	RNA-binding protein
+sp|Q9Y4G6|TLN2_HUMA	1.41	RNA-binding protein
+sp|Q8IZU3|SYCP3_HUM	-0.97	Non RNA-binding protein
+sp|Q6PK18|OGFD3_HUM	-0.57	Non RNA-binding protein
+sp|P39877|PA2G5_HUM	-3.20	Non RNA-binding protein
+sp|Q14542|S29A2_HUM	-5.72	Non RNA-binding protein
+sp|P69891|HBG1_HUMA	-1.21	Non RNA-binding protein
+sp|O75165|DJC13_HUM	0.36	RNA-binding protein
+sp|O94929|ABLM3_HUM	0.65	RNA-binding protein
+sp|O75444|MAF_HUMAN	0.18	RNA-binding protein
+sp|Q13093|PAFA_HUMA	-0.47	Non RNA-binding protein
+sp|Q8NCU7|C2C4A_HUM	-1.39	Non RNA-binding protein
+sp|Q8N511|TM199_HUM	-0.27	Non RNA-binding protein
+sp|Q3SXM5|HSDL1_HUM	-1.40	Non RNA-binding protein
+sp|Q8WUW1|BRK1_HUMA	-1.19	Non RNA-binding protein
+sp|Q9NYP8|CU062_HUM	-2.15	Non RNA-binding protein
+sp|O00400|ACATN_HUM	-3.91	Non RNA-binding protein
+sp|Q6NZY7|BORG3_HUM	-3.06	Non RNA-binding protein
+sp|Q6PIS1|S23A3_HUM	-4.36	Non RNA-binding protein
+sp|Q9BXA5|SUCR1_HUM	-5.55	Non RNA-binding protein
+sp|Q8NEG0|FA71C_HUM	0.37	RNA-binding protein
+sp|Q9H7C9|AAMDC_HUM	0.71	RNA-binding protein
+sp|Q8NGA1|OR1M1_HUM	-4.17	Non RNA-binding protein
+sp|Q8TEZ7|MPRB_HUMA	-4.89	Non RNA-binding protein
+sp|B1AJZ9|FHAD1_HUM	0.52	RNA-binding protein
+sp|P29965|CD40L_HUM	0.17	RNA-binding protein
+sp|O76082|S22A5_HUM	-4.36	Non RNA-binding protein
+sp|Q96I23|PREY_HUMA	0.97	RNA-binding protein
+sp|A6NK44|GLOD5_HUM	0.05	RNA-binding protein
+sp|P46721|SO1A2_HUM	-2.75	Non RNA-binding protein
+sp|Q6P988|NOTUM_HUM	-0.27	Non RNA-binding protein
+sp|Q9BT43|RPC7L_HUM	1.88	RNA-binding protein
+sp|Q14914|PTGR1_HUM	-0.30	Non RNA-binding protein
+sp|Q96LR9|APLD1_HUM	-0.21	RNA-binding protein
+sp|P52849|NDST2_HUM	-2.15	Non RNA-binding protein
+sp|Q9NXD2|MTMRA_HUM	0.08	RNA-binding protein
+sp|Q5TFE4|NT5D1_HUM	-0.67	Non RNA-binding protein
+sp|Q9HBU6|EKI1_HUMA	0.01	RNA-binding protein
+sp|Q6ZSK4|NTAS1_HUM	-0.75	Non RNA-binding protein
+sp|Q5U5R9|HECD2_HUM	0.32	RNA-binding protein
+sp|B4DS77|SHSA9_HUM	1.53	RNA-binding protein
+sp|Q71SY5|MED25_HUM	0.47	RNA-binding protein
+sp|P18858|DNLI1_HUM	1.72	RNA-binding protein
+sp|O60271|JIP4_HUMA	1.56	RNA-binding protein
+sp|Q96DE5|APC16_HUM	0.27	RNA-binding protein
+sp|Q9Y5P1|O51B2_HUM	-6.85	Non RNA-binding protein
+sp|Q14CS0|UBX2B_HUM	1.75	RNA-binding protein
+sp|Q9Y5U2|TSSC4_HUM	1.73	RNA-binding protein
+sp|Q8WVM8|SCFD1_HUM	1.08	RNA-binding protein
+sp|Q9UNK0|STX8_HUMA	1.49	RNA-binding protein
+sp|Q7Z6J2|GRASP_HUM	0.47	RNA-binding protein
+sp|Q9BTK6|PAGR1_HUM	2.14	RNA-binding protein
+sp|P49619|DGKG_HUMA	1.08	RNA-binding protein
+sp|Q5VUM1|SDHF4_HUM	0.94	RNA-binding protein
+sp|Q07837|SLC31_HUM	-1.01	Non RNA-binding protein
+sp|Q96Q05|TPPC9_HUM	0.34	RNA-binding protein
+sp|Q86TP1|PRUNE_HUM	0.63	RNA-binding protein
+sp|P0DMS8|AA3R_HUMA	-5.90	Non RNA-binding protein
+sp|Q9UJW3|DNM3L_HUM	-0.40	Non RNA-binding protein
+sp|O95214|LERL1_HUM	-9.26	Non RNA-binding protein
+sp|Q13394|MB211_HUM	1.02	RNA-binding protein
+sp|Q14566|MCM6_HUMA	1.21	RNA-binding protein
+sp|O75071|EFC14_HUM	2.02	RNA-binding protein
+sp|P0C646|O52Z1_HUM	-6.77	Non RNA-binding protein
+sp|O75368|SH3L1_HUM	1.86	RNA-binding protein
+sp|P01008|ANT3_HUMA	0.57	RNA-binding protein
+sp|Q9HCT0|FGF22_HUM	-2.47	Non RNA-binding protein
+sp|Q8N112|LSME2_HUM	-2.95	Non RNA-binding protein
+sp|Q15858|SCN9A_HUM	-0.49	Non RNA-binding protein
+sp|Q3KNW5|SOAT_HUMA	-3.21	Non RNA-binding protein
+sp|Q13753|LAMC2_HUM	2.14	RNA-binding protein
+sp|Q15493|RGN_HUMAN	0.19	RNA-binding protein
+sp|Q96S42|NODAL_HUM	-0.92	Non RNA-binding protein
+sp|Q8IYM9|TRI22_HUM	0.93	RNA-binding protein
+sp|Q96M98|PACRG_HUM	1.27	RNA-binding protein
+sp|O00300|TR11B_HUM	0.30	RNA-binding protein
+sp|Q7Z6K5|ARPIN_HUM	0.56	RNA-binding protein
+sp|Q9HCP6|HHATL_HUM	-5.03	Non RNA-binding protein
+sp|Q15147|PLCB4_HUM	1.54	RNA-binding protein
+sp|Q9P2N7|KLH13_HUM	-0.27	Non RNA-binding protein
+sp|O14683|P5I11_HUM	-2.13	Non RNA-binding protein
+sp|P55001|MFAP2_HUM	0.51	RNA-binding protein
+sp|Q6ZTR7|FA92B_HUM	1.74	RNA-binding protein
+sp|Q16763|UBE2S_HUM	0.02	RNA-binding protein
+sp|P61568|ENK11_HUM	-2.84	Non RNA-binding protein
+sp|Q9BXN2|CLC7A_HUM	0.05	RNA-binding protein
+sp|Q13467|FZD5_HUMA	-2.60	Non RNA-binding protein
+sp|Q9NTG1|PKDRE_HUM	-1.10	Non RNA-binding protein
+sp|P21817|RYR1_HUMA	0.39	RNA-binding protein
+sp|Q9UI30|TR112_HUM	-1.72	Non RNA-binding protein
+sp|Q8WXF7|ATLA1_HUM	-0.12	RNA-binding protein
+sp|Q9Y547|IFT25_HUM	-1.15	Non RNA-binding protein
+sp|Q96N23|CFA54_HUM	0.26	RNA-binding protein
+sp|Q53SZ7|PRR30_HUM	-1.25	Non RNA-binding protein
+sp|A2RUU4|COLL1_HUM	-1.46	Non RNA-binding protein
+sp|Q9NQZ5|STAR7_HUM	-0.03	RNA-binding protein
+sp|Q86VQ0|LCA5_HUMA	1.41	RNA-binding protein
+sp|O75638|CTAG2_HUM	0.75	RNA-binding protein
+sp|Q14241|ELOA1_HUM	2.09	RNA-binding protein
+sp|P84101|SERF2_HUM	-1.36	Non RNA-binding protein
+sp|Q8N535|CB052_HUM	2.73	RNA-binding protein
+sp|Q16563|SYPL1_HUM	-3.09	Non RNA-binding protein
+sp|O76027|ANXA9_HUM	0.74	RNA-binding protein
+sp|P43362|MAGA9_HUM	-0.01	RNA-binding protein
+sp|Q9BQE9|BCL7B_HUM	0.93	RNA-binding protein
+sp|P41159|LEP_HUMAN	-2.38	Non RNA-binding protein
+sp|Q8IWY9|CDAN1_HUM	-0.79	Non RNA-binding protein
+sp|Q9UJQ7|SCP2D_HUM	0.35	RNA-binding protein
+sp|P60606|CTXN1_HUM	-2.81	Non RNA-binding protein
+sp|Q96MK2|FA65C_HUM	0.41	RNA-binding protein
+sp|P25940|CO5A3_HUM	3.15	RNA-binding protein
+sp|P54707|AT12A_HUM	-0.19	RNA-binding protein
+sp|Q6ZNA5|FRRS1_HUM	-1.92	Non RNA-binding protein
+sp|Q7L266|ASGL1_HUM	0.07	RNA-binding protein
+sp|Q96M53|TBATA_HUM	0.75	RNA-binding protein
+sp|H3BQJ8|LY6L_HUMA	-1.70	Non RNA-binding protein
+sp|Q9UHG3|PCYOX_HUM	-1.07	Non RNA-binding protein
+sp|O95995|GAS8_HUMA	0.28	RNA-binding protein
+sp|Q6ZVK1|T179A_HUM	-6.95	Non RNA-binding protein
+sp|P08236|BGLR_HUMA	-1.09	Non RNA-binding protein
+sp|Q9BRY0|S39A3_HUM	-5.04	Non RNA-binding protein
+sp|P01034|CYTC_HUMA	1.03	RNA-binding protein
+sp|Q14146|URB2_HUMA	-0.99	Non RNA-binding protein
+sp|Q96K37|S35E1_HUM	-2.87	Non RNA-binding protein
+sp|Q93008|USP9X_HUM	1.01	RNA-binding protein
+sp|O15342|VA0E1_HUM	-9.95	Non RNA-binding protein
+sp|Q8N6V9|TEX9_HUMA	1.26	RNA-binding protein
+sp|Q8NCS4|TM35B_HUM	-6.03	Non RNA-binding protein
+sp|Q9NTG7|SIR3_HUMA	-1.07	Non RNA-binding protein
+sp|P31371|FGF9_HUMA	0.63	RNA-binding protein
+sp|O43897|TLL1_HUMA	0.22	RNA-binding protein
+sp|A4D250|BLACE_HUM	-0.64	Non RNA-binding protein
+sp|Q86XQ3|CTSR3_HUM	-2.91	Non RNA-binding protein
+sp|Q8N865|CG031_HUM	0.96	RNA-binding protein
+sp|Q9P2W6|CK021_HUM	-4.47	Non RNA-binding protein
+sp|P48051|KCNJ6_HUM	-0.75	Non RNA-binding protein
+sp|Q68D86|C102B_HUM	-0.06	RNA-binding protein
+sp|O00339|MATN2_HUM	0.81	RNA-binding protein
+sp|Q86Y46|K2C73_HUM	1.51	RNA-binding protein
+sp|Q15849|UT2_HUMAN	-3.87	Non RNA-binding protein
+sp|P55083|MFAP4_HUM	-2.62	Non RNA-binding protein
+sp|Q6ZRP5|YD019_HUM	-9.28	Non RNA-binding protein
+sp|Q8NHB1|OR2V1_HUM	-4.62	Non RNA-binding protein
+sp|Q58HT5|AWAT1_HUM	-4.74	Non RNA-binding protein
+sp|P00846|ATP6_HUMA	-7.20	Non RNA-binding protein
+sp|P01589|IL2RA_HUM	-0.36	Non RNA-binding protein
+sp|Q6XPR3|RPTN_HUMA	-4.76	Non RNA-binding protein
+sp|Q96GI7|FA89A_HUM	-1.35	Non RNA-binding protein
+sp|Q9BUA3|CK084_HUM	1.77	RNA-binding protein
+sp|Q96C74|ROP1L_HUM	0.31	RNA-binding protein
+sp|Q70YC4|TALAN_HUM	-0.80	Non RNA-binding protein
+sp|Q9H7X0|NAA60_HUM	-2.99	Non RNA-binding protein
+sp|Q8IVH2|FOXP4_HUM	1.43	RNA-binding protein
+sp|Q9BR39|JPH2_HUMA	1.17	RNA-binding protein
+sp|Q3ZCW2|LEGL_HUMA	-0.02	RNA-binding protein
+sp|Q96JQ5|M4A4A_HUM	-1.76	Non RNA-binding protein
+sp|Q96M43|NBPF4_HUM	1.19	RNA-binding protein
+sp|Q8IXL7|MSRB3_HUM	0.59	RNA-binding protein
+sp|Q9NS40|KCNH7_HUM	0.52	RNA-binding protein
+sp|Q9H8M1|CQ10B_HUM	-0.75	Non RNA-binding protein
+sp|Q9H6D7|HAUS4_HUM	-0.31	Non RNA-binding protein
+sp|Q9UHV5|RPGFL_HUM	0.06	RNA-binding protein
+sp|O76054|S14L2_HUM	1.00	RNA-binding protein
+sp|Q9UF83|YM012_HUM	-1.13	Non RNA-binding protein
+sp|Q9NQC1|JADE2_HUM	1.55	RNA-binding protein
+sp|Q96ST8|CEP89_HUM	1.36	RNA-binding protein
+sp|Q9BXM0|PRAX_HUMA	0.64	RNA-binding protein
+sp|Q16572|VACHT_HUM	-3.42	Non RNA-binding protein
+sp|Q5VWQ0|RSBN1_HUM	1.74	RNA-binding protein
+sp|Q96EW2|HBAP1_HUM	0.17	RNA-binding protein
+sp|Q9H0I9|TKTL2_HUM	-0.07	RNA-binding protein
+sp|O95807|TM50A_HUM	-5.57	Non RNA-binding protein
+sp|Q9P2X7|DEC1_HUMA	-0.80	Non RNA-binding protein
+sp|P55197|AF10_HUMA	2.05	RNA-binding protein
+sp|Q29RF7|PDS5A_HUM	1.87	RNA-binding protein
+sp|Q06190|P2R3A_HUM	1.14	RNA-binding protein
+sp|Q13797|ITA9_HUMA	0.45	RNA-binding protein
+sp|Q495X7|TRI60_HUM	0.66	RNA-binding protein
+sp|P28676|GRAN_HUMA	-1.36	Non RNA-binding protein
+sp|Q7RTW8|OTOAN_HUM	-0.67	Non RNA-binding protein
+sp|Q9NVM9|ASUN_HUMA	1.45	RNA-binding protein
+sp|P55809|SCOT1_HUM	0.81	RNA-binding protein
+sp|Q96MW1|CCD43_HUM	0.83	RNA-binding protein
+sp|Q8WV99|ZFN2B_HUM	1.51	RNA-binding protein
+sp|Q2T9K0|TMM44_HUM	-1.02	Non RNA-binding protein
+sp|Q5SY85|F201A_HUM	-3.36	Non RNA-binding protein
+sp|P13584|CP4B1_HUM	-1.98	Non RNA-binding protein
+sp|Q9UBF8|PI4KB_HUM	1.14	RNA-binding protein
+sp|O75486|SUPT3_HUM	1.01	RNA-binding protein
+sp|Q6B8I1|DS13A_HUM	-1.88	Non RNA-binding protein
+sp|P48509|CD151_HUM	-3.86	Non RNA-binding protein
+sp|Q9BTV4|TMM43_HUM	-1.94	Non RNA-binding protein
+sp|P00558|PGK1_HUMA	0.87	RNA-binding protein
+sp|P0CG08|GPHRB_HUM	-5.32	Non RNA-binding protein
+sp|Q5SZI1|LRAD2_HUM	-1.61	Non RNA-binding protein
+sp|O75438|NDUB1_HUM	-0.33	Non RNA-binding protein
+sp|P12755|SKI_HUMAN	1.11	RNA-binding protein
+sp|Q9H9V9|JMJD4_HUM	-1.77	Non RNA-binding protein
+sp|Q6IFG1|O52E8_HUM	-7.21	Non RNA-binding protein
+sp|Q9Y6X1|SERP1_HUM	2.96	RNA-binding protein
+sp|O15205|UBD_HUMAN	1.39	RNA-binding protein
+sp|P21452|NK2R_HUMA	-4.44	Non RNA-binding protein
+sp|O43291|SPIT2_HUM	0.39	RNA-binding protein
+sp|Q8N146|OR8H3_HUM	-4.62	Non RNA-binding protein
+sp|Q9Y2W3|S45A1_HUM	-2.67	Non RNA-binding protein
+sp|Q8IV03|LUR1L_HUM	0.48	RNA-binding protein
+sp|A8K7I4|CLCA1_HUM	0.21	RNA-binding protein
+sp|Q9BUM1|G6PC3_HUM	-7.32	Non RNA-binding protein
+sp|O15519|CFLAR_HUM	1.07	RNA-binding protein
+sp|P63172|DYLT1_HUM	-1.99	Non RNA-binding protein
+sp|B1ANH7|IBAS1_HUM	-1.83	Non RNA-binding protein
+sp|O00458|IFRD1_HUM	0.53	RNA-binding protein
+sp|Q8ND82|Z280C_HUM	1.76	RNA-binding protein
+sp|Q8NEN9|PDZD8_HUM	1.18	RNA-binding protein
+sp|Q9UKY4|POMT2_HUM	-5.20	Non RNA-binding protein
+sp|P0C854|CECR9_HUM	0.47	RNA-binding protein
+sp|Q13201|MMRN1_HUM	0.98	RNA-binding protein
+sp|Q58FF7|H90B3_HUM	0.34	RNA-binding protein
+sp|Q8NGJ9|O51T1_HUM	-6.81	Non RNA-binding protein
+sp|Q9H1X1|RSPH9_HUM	-0.66	Non RNA-binding protein
+sp|Q9H0B3|K1683_HUM	0.20	RNA-binding protein
+sp|P15374|UCHL3_HUM	0.49	RNA-binding protein
+sp|P19971|TYPH_HUMA	-1.10	Non RNA-binding protein
+sp|Q15005|SPCS2_HUM	-1.30	Non RNA-binding protein
+sp|Q9UD71|PPR1B_HUM	0.44	RNA-binding protein
+sp|Q9UMZ2|SYNRG_HUM	2.04	RNA-binding protein

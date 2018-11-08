@@ -30,16 +30,16 @@ export PATH=$PATH:/home/Programms/hmmer-3.1b2-linux-intel-x86_64/binaries
 ```
 ./TriPepSVM.sh [OPTION] ... -i INPUT.[fasta|fa]
 
--i,\t--input [INPUT.fasta|fa]: AA sequence in fasta format, NO DEFAULT 
--o,\t--output : path to output folder, DEFAULT: current directory 
--id,\t--taxon-id [9606|590|...] : Uniprot taxon id, DEFAULT: 9606 (human) 
--c,\t--cost : change COST parameter, DEFAULT: 1 
--k,\t--oligo-length : change k parameter, DEFAULT: 3 
--pos,\t--pos-class : change positive class weight, DEFAULT: inverse proportional to class size 
--neg,\t--neg-class : change negative class weight, DEFAULT: inverse proportional to class size 
--thr,\t--threshold : change prediction threshold, DEFAULT: 0 
--r,\t--recursive [TRUE|FALSE]: apply recursive mode, DEFAULT: FALSE 
--h,\t--help : help text
+-i, --input [INPUT.fasta|fa]: AA sequence in fasta format, NO DEFAULT 
+-o, --output : path to output folder, DEFAULT: current directory 
+-id, --taxon-id [9606|590|...] : Uniprot taxon id, DEFAULT: 9606 (human) 
+-c, --cost : change COST parameter, DEFAULT: 1 
+-k, --oligo-length : change k parameter, DEFAULT: 3 
+-pos, --pos-class : change positive class weight, DEFAULT: inverse proportional to class size 
+-neg, --neg-class : change negative class weight, DEFAULT: inverse proportional to class size 
+-thr, --threshold : change prediction threshold, DEFAULT: 0 
+-r, --recursive [TRUE|FALSE]: apply recursive mode, DEFAULT: FALSE 
+-h, --help : help text
 ```
 
 Example 1: Salmonella

@@ -1,181 +1,179 @@
-Q9BZI7|UPF3B|Regula	0.20	RNA-binding protein
-B9A023|EIF4E2|Eukar	0.28	RNA-binding protein
-A0A024R320|PCBP4|Po	0.55	RNA-binding protein
-Q2NKY6|-|Uncharacte	2.07	RNA-binding protein
-P13667|PDIA4|Protei	0.64	RNA-binding protein
-Q6ZV39|-|cDNA FLJ43	1.39	RNA-binding protein
-Q7Z3W9|DKFZp686G182	0.83	RNA-binding protein
-Q9Y4Y9|LSM5|U6 snRN	0.89	RNA-binding protein
-P46109|CRKL|Crk-lik	1.27	RNA-binding protein
-Q8WUQ7|CACTIN|Cacti	0.90	RNA-binding protein
-A3KFL5|EXOSC2|Exoso	0.88	RNA-binding protein
-Q9NW64|RBM22|Pre-mR	1.42	RNA-binding protein
-Q9BYK8|HELZ2|Helica	-0.18	RNA-binding protein
-Q08J23|NSUN2|tRNA (	1.57	RNA-binding protein
-Q8WWH5|TRUB1|Probab	1.10	RNA-binding protein
-P46776|RPL27A|60S r	2.46	RNA-binding protein
-A0AV96|RBM47|RNA-bi	0.87	RNA-binding protein
-Q9GZR2|REXO4|RNA ex	1.77	RNA-binding protein
-H7C257|SON|Protein 	0.16	RNA-binding protein
-Q15046|KARS|Lysine-	0.84	RNA-binding protein
-Q96H35|RBM18|Probab	1.64	RNA-binding protein
-O14776|TCERG1|Trans	0.51	RNA-binding protein
-Q9UQ35|SRRM2|Serine	-0.82	Non RNA-binding protein
-B4DDX2|-|cDNA FLJ54	2.05	RNA-binding protein
-Q9BX40|LSM14B|Prote	1.98	RNA-binding protein
-A0A140VK44|-|Protea	-0.64	Non RNA-binding protein
-Q06413|MEF2C|Myocyt	1.82	RNA-binding protein
-P11387|TOP1|DNA top	0.65	RNA-binding protein
-O94818|NOL4|Nucleol	1.47	RNA-binding protein
-Q9UIS4|SNRPB|Small 	0.38	RNA-binding protein
-B4DNE0|-|cDNA FLJ52	0.67	RNA-binding protein
-Q9H7B2|RPF2|Ribosom	1.49	RNA-binding protein
-Q9H0S4|DDX47|Probab	1.22	RNA-binding protein
-Q86XP3|DDX42|ATP-de	2.03	RNA-binding protein
-Q9NZM5|GLTSCR2|Glio	2.20	RNA-binding protein
-B3KSH1|EIF3F|Eukary	0.66	RNA-binding protein
-Q96B26|EXOSC8|Exoso	0.16	RNA-binding protein
-C9J250|RBM6|RNA-bin	1.46	RNA-binding protein
-Q5T3I0|GPATCH4|G pa	2.05	RNA-binding protein
-Q66PJ3|ARL6IP4|ADP-	1.86	RNA-binding protein
-P82921|MRPS21|28S r	1.11	RNA-binding protein
-P03950|ANG|Angiogen	0.38	RNA-binding protein
-Q14004|CDK13|Cyclin	1.47	RNA-binding protein
-P83881|RPL36A|60S r	4.21	RNA-binding protein
-Q9NR30|DDX21|Nucleo	2.38	RNA-binding protein
-Q8TCX0|-|Delta 2-is	1.91	RNA-binding protein
-F8VP89|EIF4B|Eukary	-1.47	Non RNA-binding protein
-A6PVI3|NCBP2L|Nucle	0.41	RNA-binding protein
-A0A024R813|EYA1|Eye	-0.13	RNA-binding protein
-Q6P161|MRPL54|39S r	0.51	RNA-binding protein
-P07305|H1F0|Histone	0.70	RNA-binding protein
-P46779|RPL28|60S ri	1.51	RNA-binding protein
-Q9P127|LUZP4|Leucin	-1.09	Non RNA-binding protein
-Q9BYC8|MRPL32|39S r	1.25	RNA-binding protein
-Q3ZCQ8|TIMM50|Mitoc	0.35	RNA-binding protein
-Q6PI48|DARS2|Aspart	0.46	RNA-binding protein
-Q9H8H0|NOL11|Nucleo	0.36	RNA-binding protein
-B4DEP6|-|cDNA FLJ59	0.86	RNA-binding protein
-P58107|EPPK1|Epipla	0.31	RNA-binding protein
-A0A024RBS0|DDX55|RN	1.78	RNA-binding protein
-P21333|FLNA|Filamin	1.46	RNA-binding protein
-A0A024QZD5|SNRP70|S	2.50	RNA-binding protein
-Q8NAV1|PRPF38A|Pre-	0.59	RNA-binding protein
-Q9Y4W2|LAS1L|Riboso	0.53	RNA-binding protein
-Q6AI08|HEATR6|HEAT 	0.94	RNA-binding protein
-Q13595|TRA2A|Transf	0.21	RNA-binding protein
-Q9BZE1|MRPL37|39S r	-0.44	Non RNA-binding protein
-Q9P258|RCC2|Protein	1.13	RNA-binding protein
-P48431|SOX2|Transcr	1.62	RNA-binding protein
-A0A024R6W2|NUDT21|N	0.24	RNA-binding protein
-Q7Z7A3|CTU1|Cytopla	-1.90	Non RNA-binding protein
-O43670|ZNF207|BUB3-	0.30	RNA-binding protein
-Q92769|HDAC2|Histon	1.17	RNA-binding protein
-Q68CQ4|DIEXF|Digest	0.71	RNA-binding protein
-Q14149|MORC3|MORC f	1.30	RNA-binding protein
-Q9NX07|TRNAU1AP|tRN	0.42	RNA-binding protein
-Q92900|UPF1|Regulat	1.31	RNA-binding protein
-Q9BZJ0|CRNKL1|Crook	0.04	RNA-binding protein
-Q02790|FKBP4|Peptid	0.84	RNA-binding protein
-O75347|TBCA|Tubulin	-3.22	Non RNA-binding protein
-Q13895|BYSL|Bystin	0.82	RNA-binding protein
-P46087|NOP2|Probabl	2.61	RNA-binding protein
-Q92901|RPL3L|60S ri	2.01	RNA-binding protein
-O60841|EIF5B|Eukary	0.24	RNA-binding protein
-Q14137|BOP1|Ribosom	0.26	RNA-binding protein
-O75569|PRKRA|Interf	1.27	RNA-binding protein
-Q14240|EIF4A2|Eukar	0.51	RNA-binding protein
-B5BU01|EIF2S2|Eukar	0.72	RNA-binding protein
-A0A024R4M0|RPS9|40S	3.23	RNA-binding protein
-B3KM64|-|cDNA FLJ10	0.20	RNA-binding protein
-F8VPW7|OAS1|2'-5'-o	-0.89	Non RNA-binding protein
-H0YIH0|METTL1|tRNA 	-1.51	Non RNA-binding protein
-Q3ZM02|OAS1|2'-5' o	0.29	RNA-binding protein
-P55072|VCP|Transiti	1.93	RNA-binding protein
-Q9BZD1|-|Ewings sar	-0.53	Non RNA-binding protein
-Q9BZB8|CPEB1|Cytopl	0.00	RNA-binding protein
-Q15024|EXOSC7|Exoso	0.98	RNA-binding protein
-F6TB26|TDRKH|Tudor 	0.60	RNA-binding protein
-Q01860|POU5F1|POU d	1.92	RNA-binding protein
-P08195|SLC3A2|4F2 c	-0.63	Non RNA-binding protein
-Q9BZE4|GTPBP4|Nucle	2.01	RNA-binding protein
-A0A0R4J2E6|ELAVL4|E	1.04	RNA-binding protein
-Q6IMN6|CAPRIN2|Capr	1.69	RNA-binding protein
-Q9H307|PNN|Pinin	-1.20	Non RNA-binding protein
-P63220|RPS21|40S ri	1.82	RNA-binding protein
-K7ELC2|RPS15|40S ri	2.61	RNA-binding protein
-Q8N5C6|SRBD1|S1 RNA	1.84	RNA-binding protein
-Q13442|PDAP1|28 kDa	0.13	RNA-binding protein
-O75792|RNASEH2A|Rib	0.56	RNA-binding protein
-Q5VWX1|KHDRBS2|KH d	1.96	RNA-binding protein
-Q4VXU2|PABPC1L|Poly	1.68	RNA-binding protein
-Q15427|SF3B4|Splici	-1.13	Non RNA-binding protein
-Q9NPD3|EXOSC4|Exoso	-0.07	RNA-binding protein
-Q9HC52|CBX8|Chromob	2.21	RNA-binding protein
-B7Z1G0|-|cDNA FLJ51	-0.70	Non RNA-binding protein
-Q4G0J3|LARP7|La-rel	0.87	RNA-binding protein
-A0A024R5S5|EIF3S1|E	-0.65	Non RNA-binding protein
-P79522|PRR3|Proline	-0.24	RNA-binding protein
-O95391|SLU7|Pre-mRN	0.82	RNA-binding protein
-Q9H2Y7|ZNF106|Zinc 	1.85	RNA-binding protein
-Q00688|FKBP3|Peptid	1.03	RNA-binding protein
-O60583|CCNT2|Cyclin	0.56	RNA-binding protein
-Q9HC36|MRM3|rRNA me	0.75	RNA-binding protein
-Q06830|PRDX1|Peroxi	-0.19	RNA-binding protein
-Q6PK04|CCDC137|Coil	1.05	RNA-binding protein
-P61254|RPL26|60S ri	2.62	RNA-binding protein
-Q7Z5Q1|CPEB2|Cytopl	0.55	RNA-binding protein
-O00541|PES1|Pescadi	0.97	RNA-binding protein
-Q96PU8|QKI|Protein 	1.37	RNA-binding protein
-Q7Z7L1|SLFN11|Schla	0.67	RNA-binding protein
-P26447|S100A4|Prote	0.21	RNA-binding protein
-Q9NNW5|WDR6|WD repe	-2.37	Non RNA-binding protein
-H0YCK3|ADAR|Double-	1.96	RNA-binding protein
-O43159|RRP8|Ribosom	2.22	RNA-binding protein
-B4DEH4|-|cDNA FLJ53	-1.41	Non RNA-binding protein
-P26368|U2AF2|Splici	2.15	RNA-binding protein
-K7EQU7|TRMT1|tRNA (	-0.96	Non RNA-binding protein
-A0A0B4J1V8|PPAN-P2R	0.78	RNA-binding protein
-Q9NPI7|KRCC1|Lysine	0.19	RNA-binding protein
-A0A024R9K4|FYTTD1|F	2.44	RNA-binding protein
-Q14331|FRG1|Protein	1.00	RNA-binding protein
-A0A024RAQ1|CSDA|Col	1.88	RNA-binding protein
-Q93073|SECISBP2L|Se	1.97	RNA-binding protein
-Q6ZP53|-|cDNA FLJ26	3.00	RNA-binding protein
-Q03701|CEBPZ|CCAAT/	1.19	RNA-binding protein
-O15504|NUPL2|Nucleo	1.47	RNA-binding protein
-Q8IU60|DCP2|m7GpppN	1.75	RNA-binding protein
-M0R2T0|HNRNPM|Heter	2.83	RNA-binding protein
-P16403|HIST1H1C|His	0.09	RNA-binding protein
-Q07954|LRP1|Prolow-	-0.10	RNA-binding protein
-Q99575|POP1|Ribonuc	1.39	RNA-binding protein
-Q08170|SRSF4|Serine	-0.05	RNA-binding protein
-Q5SY38|EIF2D|Eukary	1.36	RNA-binding protein
-P21128|ENDOU|Poly(U	-0.09	RNA-binding protein
-B4DSS8|-|cDNA FLJ55	1.31	RNA-binding protein
-P63162|SNRPN|Small 	-0.43	Non RNA-binding protein
-Q9NV31|IMP3|U3 smal	0.82	RNA-binding protein
-M0R2N4|-|Uncharacte	2.23	RNA-binding protein
-O95429|BAG4|BAG fam	2.01	RNA-binding protein
-Q02040|AKAP17A|A-ki	1.50	RNA-binding protein
-Q96T37|RBM15|Putati	0.48	RNA-binding protein
-Q969X6|UTP4|U3 smal	-0.54	Non RNA-binding protein
-Q16540|MRPL23|39S r	1.53	RNA-binding protein
-Q1KMD3|HNRNPUL2|Het	1.95	RNA-binding protein
-A0A024R2F4|THUMPD3|	0.67	RNA-binding protein
-V5YQU3|FGFR2-BICC1|	1.56	RNA-binding protein
-F2Z2Z0|PABPC1L|Poly	-0.21	RNA-binding protein
-Q96A33|CCDC47|Coile	0.75	RNA-binding protein
-Q8WU43|C2orf15|Unch	0.66	RNA-binding protein
-Q9NP64|ZCCHC17|Nucl	1.72	RNA-binding protein
-A0A024RCH0|TCEAL6|T	2.30	RNA-binding protein
-P39023|RPL3|60S rib	2.57	RNA-binding protein
-Q9Y5G4|PCDHGA9|Prot	0.73	RNA-binding protein
-Q70T17|-|FUS/BBF2H7	-1.53	Non RNA-binding protein
-Q08211|DHX9|ATP-dep	1.18	RNA-binding protein
-H9KVD5|FYTTD1|UAP56	2.19	RNA-binding protein
-P14625|HSP90B1|Endo	-0.02	RNA-binding protein
-P61764|STXBP1|Synta	0.33	RNA-binding protein
-Q7L576|CYFIP1|Cytop	0.30	RNA-binding protein
-Q9Y4Z0|LSM4|U6 snRN	2.74	RNA-binding protein
-O14647|CHD2|Chromod	1.65	RNA-binding protein
+Sequence name	SVM score	RNA-binding protein
+UniProtKB|Q9BZI7|UP	0.20	RNA-binding protein
+UniProtKB|B9A023|EI	0.28	RNA-binding protein
+UniProtKB|A0A024R32	0.55	RNA-binding protein
+UniProtKB|Q2NKY6|-|	2.07	RNA-binding protein
+UniProtKB|P13667|PD	0.64	RNA-binding protein
+UniProtKB|Q6ZV39|-|	1.39	RNA-binding protein
+UniProtKB|Q7Z3W9|DK	0.83	RNA-binding protein
+UniProtKB|Q9Y4Y9|LS	0.89	RNA-binding protein
+UniProtKB|P46109|CR	1.27	RNA-binding protein
+UniProtKB|Q8WUQ7|CA	0.90	RNA-binding protein
+UniProtKB|A3KFL5|EX	0.88	RNA-binding protein
+UniProtKB|Q9NW64|RB	1.42	RNA-binding protein
+UniProtKB|Q9BYK8|HE	-0.18	RNA-binding protein
+UniProtKB|Q08J23|NS	1.57	RNA-binding protein
+UniProtKB|Q8WWH5|TR	1.10	RNA-binding protein
+UniProtKB|P46776|RP	2.46	RNA-binding protein
+UniProtKB|A0AV96|RB	0.87	RNA-binding protein
+UniProtKB|Q9GZR2|RE	1.77	RNA-binding protein
+UniProtKB|H7C257|SO	0.16	RNA-binding protein
+UniProtKB|Q15046|KA	0.84	RNA-binding protein
+UniProtKB|Q96H35|RB	1.64	RNA-binding protein
+UniProtKB|O14776|TC	0.51	RNA-binding protein
+UniProtKB|Q9UQ35|SR	-0.82	Non RNA-binding protein
+UniProtKB|B4DDX2|-|	2.05	RNA-binding protein
+UniProtKB|Q9BX40|LS	1.98	RNA-binding protein
+UniProtKB|A0A140VK4	-0.64	Non RNA-binding protein
+UniProtKB|Q06413|ME	1.82	RNA-binding protein
+UniProtKB|P11387|TO	0.65	RNA-binding protein
+UniProtKB|O94818|NO	1.47	RNA-binding protein
+UniProtKB|Q9UIS4|SN	0.38	RNA-binding protein
+UniProtKB|B4DNE0|-|	0.67	RNA-binding protein
+UniProtKB|Q9H7B2|RP	1.49	RNA-binding protein
+UniProtKB|Q9H0S4|DD	1.22	RNA-binding protein
+UniProtKB|Q86XP3|DD	2.03	RNA-binding protein
+UniProtKB|Q9NZM5|GL	2.20	RNA-binding protein
+UniProtKB|B3KSH1|EI	0.66	RNA-binding protein
+UniProtKB|Q96B26|EX	0.16	RNA-binding protein
+UniProtKB|C9J250|RB	1.46	RNA-binding protein
+UniProtKB|Q5T3I0|GP	2.05	RNA-binding protein
+UniProtKB|Q66PJ3|AR	1.86	RNA-binding protein
+UniProtKB|P82921|MR	1.11	RNA-binding protein
+UniProtKB|P03950|AN	0.38	RNA-binding protein
+UniProtKB|Q14004|CD	1.47	RNA-binding protein
+UniProtKB|P83881|RP	4.21	RNA-binding protein
+UniProtKB|Q9NR30|DD	2.38	RNA-binding protein
+UniProtKB|F8VP89|EI	-1.47	Non RNA-binding protein
+UniProtKB|A6PVI3|NC	0.41	RNA-binding protein
+UniProtKB|A0A024R81	-0.13	RNA-binding protein
+UniProtKB|Q6P161|MR	0.51	RNA-binding protein
+UniProtKB|P07305|H1	0.70	RNA-binding protein
+UniProtKB|P46779|RP	1.51	RNA-binding protein
+UniProtKB|Q9P127|LU	-1.09	Non RNA-binding protein
+UniProtKB|Q9BYC8|MR	1.25	RNA-binding protein
+UniProtKB|Q3ZCQ8|TI	0.35	RNA-binding protein
+UniProtKB|Q6PI48|DA	0.46	RNA-binding protein
+UniProtKB|Q9H8H0|NO	0.36	RNA-binding protein
+UniProtKB|B4DEP6|-|	0.86	RNA-binding protein
+UniProtKB|P58107|EP	0.31	RNA-binding protein
+UniProtKB|A0A024RBS	1.78	RNA-binding protein
+UniProtKB|P21333|FL	1.46	RNA-binding protein
+UniProtKB|A0A024QZD	2.50	RNA-binding protein
+UniProtKB|Q8NAV1|PR	0.59	RNA-binding protein
+UniProtKB|Q9Y4W2|LA	0.53	RNA-binding protein
+UniProtKB|Q6AI08|HE	0.94	RNA-binding protein
+UniProtKB|Q13595|TR	0.21	RNA-binding protein
+UniProtKB|Q9BZE1|MR	-0.44	Non RNA-binding protein
+UniProtKB|Q9P258|RC	1.13	RNA-binding protein
+UniProtKB|P48431|SO	1.62	RNA-binding protein
+UniProtKB|A0A024R6W	0.24	RNA-binding protein
+UniProtKB|Q7Z7A3|CT	-1.90	Non RNA-binding protein
+UniProtKB|O43670|ZN	0.30	RNA-binding protein
+UniProtKB|Q92769|HD	1.17	RNA-binding protein
+UniProtKB|Q68CQ4|DI	0.71	RNA-binding protein
+UniProtKB|Q14149|MO	1.30	RNA-binding protein
+UniProtKB|Q9NX07|TR	0.42	RNA-binding protein
+UniProtKB|Q92900|UP	1.31	RNA-binding protein
+UniProtKB|Q9BZJ0|CR	0.04	RNA-binding protein
+UniProtKB|Q02790|FK	0.84	RNA-binding protein
+UniProtKB|O75347|TB	-3.22	Non RNA-binding protein
+UniProtKB|Q13895|BY	0.82	RNA-binding protein
+UniProtKB|P46087|NO	2.61	RNA-binding protein
+UniProtKB|Q92901|RP	2.01	RNA-binding protein
+UniProtKB|O60841|EI	0.24	RNA-binding protein
+UniProtKB|Q14137|BO	0.26	RNA-binding protein
+UniProtKB|O75569|PR	1.27	RNA-binding protein
+UniProtKB|Q14240|EI	0.51	RNA-binding protein
+UniProtKB|B5BU01|EI	0.72	RNA-binding protein
+UniProtKB|A0A024R4M	3.23	RNA-binding protein
+UniProtKB|B3KM64|-|	0.20	RNA-binding protein
+UniProtKB|F8VPW7|OA	-0.89	Non RNA-binding protein
+UniProtKB|H0YIH0|ME	-1.51	Non RNA-binding protein
+UniProtKB|Q3ZM02|OA	0.29	RNA-binding protein
+UniProtKB|P55072|VC	1.93	RNA-binding protein
+UniProtKB|Q9BZD1|-|	-0.53	Non RNA-binding protein
+UniProtKB|Q9BZB8|CP	0.00	RNA-binding protein
+UniProtKB|Q15024|EX	0.98	RNA-binding protein
+UniProtKB|F6TB26|TD	0.60	RNA-binding protein
+UniProtKB|Q01860|PO	1.92	RNA-binding protein
+UniProtKB|P08195|SL	-0.63	Non RNA-binding protein
+UniProtKB|Q9BZE4|GT	2.01	RNA-binding protein
+UniProtKB|A0A0R4J2E	1.04	RNA-binding protein
+UniProtKB|Q6IMN6|CA	1.69	RNA-binding protein
+UniProtKB|Q9H307|PN	-1.20	Non RNA-binding protein
+UniProtKB|P63220|RP	1.82	RNA-binding protein
+UniProtKB|K7ELC2|RP	2.61	RNA-binding protein
+UniProtKB|Q8N5C6|SR	1.84	RNA-binding protein
+UniProtKB|Q13442|PD	0.13	RNA-binding protein
+UniProtKB|O75792|RN	0.56	RNA-binding protein
+UniProtKB|Q5VWX1|KH	1.96	RNA-binding protein
+UniProtKB|Q4VXU2|PA	1.68	RNA-binding protein
+UniProtKB|Q15427|SF	-1.13	Non RNA-binding protein
+UniProtKB|Q9NPD3|EX	-0.07	RNA-binding protein
+UniProtKB|Q9HC52|CB	2.21	RNA-binding protein
+UniProtKB|B7Z1G0|-|	-0.70	Non RNA-binding protein
+UniProtKB|Q4G0J3|LA	0.87	RNA-binding protein
+UniProtKB|A0A024R5S	-0.65	Non RNA-binding protein
+UniProtKB|P79522|PR	-0.24	RNA-binding protein
+UniProtKB|O95391|SL	0.82	RNA-binding protein
+UniProtKB|Q9H2Y7|ZN	1.85	RNA-binding protein
+UniProtKB|Q00688|FK	1.03	RNA-binding protein
+UniProtKB|O60583|CC	0.56	RNA-binding protein
+UniProtKB|Q9HC36|MR	0.75	RNA-binding protein
+UniProtKB|Q06830|PR	-0.19	RNA-binding protein
+UniProtKB|Q6PK04|CC	1.05	RNA-binding protein
+UniProtKB|P61254|RP	2.62	RNA-binding protein
+UniProtKB|Q7Z5Q1|CP	0.55	RNA-binding protein
+UniProtKB|O00541|PE	0.97	RNA-binding protein
+UniProtKB|Q96PU8|QK	1.37	RNA-binding protein
+UniProtKB|Q7Z7L1|SL	0.67	RNA-binding protein
+UniProtKB|P26447|S1	0.21	RNA-binding protein
+UniProtKB|Q9NNW5|WD	-2.37	Non RNA-binding protein
+UniProtKB|H0YCK3|AD	1.96	RNA-binding protein
+UniProtKB|O43159|RR	2.22	RNA-binding protein
+UniProtKB|B4DEH4|-|	-1.41	Non RNA-binding protein
+UniProtKB|P26368|U2	2.15	RNA-binding protein
+UniProtKB|K7EQU7|TR	-0.96	Non RNA-binding protein
+UniProtKB|A0A0B4J1V	0.78	RNA-binding protein
+UniProtKB|Q9NPI7|KR	0.19	RNA-binding protein
+UniProtKB|A0A024R9K	2.44	RNA-binding protein
+UniProtKB|Q14331|FR	1.00	RNA-binding protein
+UniProtKB|A0A024RAQ	1.88	RNA-binding protein
+UniProtKB|Q93073|SE	1.97	RNA-binding protein
+UniProtKB|Q6ZP53|-|	3.00	RNA-binding protein
+UniProtKB|Q03701|CE	1.19	RNA-binding protein
+UniProtKB|O15504|NU	1.47	RNA-binding protein
+UniProtKB|Q8IU60|DC	1.75	RNA-binding protein
+UniProtKB|M0R2T0|HN	2.83	RNA-binding protein
+UniProtKB|P16403|HI	0.09	RNA-binding protein
+UniProtKB|Q07954|LR	-0.10	RNA-binding protein
+UniProtKB|Q99575|PO	1.39	RNA-binding protein
+UniProtKB|Q08170|SR	-0.05	RNA-binding protein
+UniProtKB|Q5SY38|EI	1.36	RNA-binding protein
+UniProtKB|P21128|EN	-0.09	RNA-binding protein
+UniProtKB|B4DSS8|-|	1.31	RNA-binding protein
+UniProtKB|P63162|SN	-0.43	Non RNA-binding protein
+UniProtKB|Q9NV31|IM	0.82	RNA-binding protein
+UniProtKB|M0R2N4|-|	2.23	RNA-binding protein
+UniProtKB|O95429|BA	2.01	RNA-binding protein
+UniProtKB|Q02040|AK	1.50	RNA-binding protein
+UniProtKB|Q969X6|UT	-0.54	Non RNA-binding protein
+UniProtKB|Q16540|MR	1.53	RNA-binding protein
+UniProtKB|Q1KMD3|HN	1.95	RNA-binding protein
+UniProtKB|A0A024R2F	0.67	RNA-binding protein
+UniProtKB|V5YQU3|FG	1.56	RNA-binding protein
+UniProtKB|F2Z2Z0|PA	-0.21	RNA-binding protein
+UniProtKB|Q96A33|CC	0.75	RNA-binding protein
+UniProtKB|Q8WU43|C2	0.66	RNA-binding protein
+UniProtKB|Q9NP64|ZC	1.72	RNA-binding protein
+UniProtKB|A0A024RCH	2.30	RNA-binding protein
+UniProtKB|P39023|RP	2.57	RNA-binding protein
+UniProtKB|Q9Y5G4|PC	0.73	RNA-binding protein
+UniProtKB|Q70T17|-|	-1.53	Non RNA-binding protein
+UniProtKB|H9KVD5|FY	2.19	RNA-binding protein
+UniProtKB|P14625|HS	-0.02	RNA-binding protein
+UniProtKB|P61764|ST	0.33	RNA-binding protein
+UniProtKB|Q7L576|CY	0.30	RNA-binding protein
+UniProtKB|Q9Y4Z0|LS	2.74	RNA-binding protein
+UniProtKB|O14647|CH	1.65	RNA-binding protein
