@@ -1,0 +1,1395 @@
+UNIQUE	ID	Name	Description	HEK293-RIC	HuH7-IC	HeLa-RNPxl	HeLa-IC	HeLa-RBDmap	K562-serIC-chr	K562-serIC	Enzyme	Metabolism	"""Metabolic.Enzyme"""
+				Hs_Baltz2012	Hs_Beckmann2015	Hs_Kramer2014	Hs_Castello2012	Hs_Castello2016	Hs_Conrad2016_chr	Hs_Conrad2016			
+A1CF	ENSG00000148584	A1CF	APOBEC1 complementation factor	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+AARS	ENSG00000090861	AARS	alanyl-tRNA synthetase	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+AATF	ENSG00000276072;ENSG00000275700	AATF	apoptosis antagonizing transcription factor	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ABCE1	ENSG00000164163	ABCE1	ATP binding cassette subfamily E member 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+ABCF1	ENSG00000225989;ENSG00000232169;ENSG00000204574;ENSG00000206490;ENSG00000236149;ENSG00000236342;ENSG00000231129	ABCF1	ATP binding cassette subfamily F member 1	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+ABT1	ENSG00000146109	ABT1	activator of basal transcription 1	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+AC013461.1	ENSG00000091436	AC013461.1	Mitogen-activated protein kinase kinase kinase MLT 	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+ACAA2	ENSG00000167315	ACAA2	acetyl-CoA acyltransferase 2	no	no	no	YES	YES	no	no	TRUE	TRUE	TRUE
+ACAT1	ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+ACIN1	ENSG00000100813	ACIN1	apoptotic chromatin condensation inducer 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ACO1	ENSG00000122729	ACO1	aconitase 1	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+ACO2	ENSG00000100412	ACO2	aconitase 2	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+ACTN4	ENSG00000130402	ACTN4	actinin alpha 4	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ADAR	ENSG00000160710	ADAR	adenosine deaminase, RNA specific	YES	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+ADARB1	ENSG00000197381	ADARB1	adenosine deaminase, RNA specific B1	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+ADARB2	ENSG00000185736	ADARB2	adenosine deaminase, RNA specific B2 (inactive)	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ADD1	ENSG00000087274	ADD1	adducin 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ADD3	ENSG00000148700	ADD3	adducin 3	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+ADK	ENSG00000156110	ADK	adenosine kinase	no	no	no	YES	YES	no	no	TRUE	TRUE	TRUE
+AFDN	ENSG00000130396	AFDN	afadin, adherens junction formation factor	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+AFF4	ENSG00000072364	AFF4	AF4/FMR2 family member 4	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+AFP	ENSG00000081051	AFP	alpha fetoprotein	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+AGO1	ENSG00000092847	AGO1	argonaute 1, RISC catalytic component	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+AGO2	ENSG00000123908	AGO2	argonaute 2, RISC catalytic component	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+AGO3	ENSG00000126070	AGO3	argonaute 3, RISC catalytic component	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+AHCYL2	ENSG00000158467	AHCYL2	adenosylhomocysteinase like 2	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+AHNAK	ENSG00000124942	AHNAK	AHNAK nucleoprotein	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+AIMP1	ENSG00000164022	AIMP1	aminoacyl tRNA synthetase complex interacting multifunctional protein 1	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+AKAP1	ENSG00000121057	AKAP1	A-kinase anchoring protein 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+AKAP17A	ENSG00000197976	AKAP17A	A-kinase anchoring protein 17A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+AKAP8	ENSG00000105127	AKAP8	A-kinase anchoring protein 8	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+AKAP8L	ENSG00000011243	AKAP8L	A-kinase anchoring protein 8 like	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ALDH18A1	ENSG00000059573	ALDH18A1	aldehyde dehydrogenase 18 family member A1	no	no	no	YES	YES	no	no	TRUE	TRUE	TRUE
+ALDH6A1	ENSG00000119711	ALDH6A1	aldehyde dehydrogenase 6 family member A1	no	no	no	YES	YES	no	no	TRUE	TRUE	TRUE
+ALDH7A1	ENSG00000164904	ALDH7A1	aldehyde dehydrogenase 7 family member A1	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+ALDOA	ENSG00000149925	ALDOA	aldolase, fructose-bisphosphate A	YES	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+ALDOC	ENSG00000109107	ALDOC	aldolase, fructose-bisphosphate C	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+ALG13	ENSG00000101901	ALG13	ALG13, UDP-N-acetylglucosaminyltransferase subunit	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+ALKBH5	ENSG00000091542	ALKBH5	alkB homolog 5, RNA demethylase	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+ALYREF	ENSG00000183684	ALYREF	Aly/REF export factor	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+ANK3	ENSG00000151150	ANK3	ankyrin 3	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+ANKHD1	ENSG00000131503	ANKHD1	ankyrin repeat and KH domain containing 1	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ANKRD17	ENSG00000132466	ANKRD17	ankyrin repeat domain 17	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ANP32A	ENSG00000140350	ANP32A	acidic nuclear phosphoprotein 32 family member A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ANP32B	ENSG00000136938	ANP32B	acidic nuclear phosphoprotein 32 family member B	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+ANXA11	ENSG00000122359	ANXA11	annexin A11	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ANXA2	ENSG00000182718	ANXA2	annexin A2	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ANXA7	ENSG00000138279	ANXA7	annexin A7	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+APEH	ENSG00000164062	APEH	acylaminoacyl-peptide hydrolase	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+APEX1	ENSG00000100823	APEX1	apurinic/apyrimidinic endodeoxyribonuclease 1	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+API5	ENSG00000166181	API5	apoptosis inhibitor 5	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+APOB	ENSG00000084674	APOB	apolipoprotein B	no	YES	no	no	no	no	no	FALSE	TRUE	FALSE
+APOBEC3B	ENSG00000179750	APOBEC3B	apolipoprotein B mRNA editing enzyme catalytic subunit 3B	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+APOBEC3C	ENSG00000244509	APOBEC3C	apolipoprotein B mRNA editing enzyme catalytic subunit 3C	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+APOBEC3F	ENSG00000128394	APOBEC3F	apolipoprotein B mRNA editing enzyme catalytic subunit 3F	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+AQR	ENSG00000021776	AQR	aquarius intron-binding spliceosomal factor	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+ARCN1	ENSG00000095139	ARCN1	archain 1	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+ARF1	ENSG00000143761	ARF1	ADP ribosylation factor 1	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+ARHGEF1	ENSG00000076928	ARHGEF1	Rho guanine nucleotide exchange factor 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ARHGEF2	ENSG00000116584	ARHGEF2	Rho/Rac guanine nucleotide exchange factor 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+ARL6IP4	ENSG00000182196	ARL6IP4	ADP ribosylation factor like GTPase 6 interacting protein 4	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ARPC1B	ENSG00000130429	ARPC1B	actin related protein 2/3 complex subunit 1B	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+ASCC3	ENSG00000112249	ASCC3	activating signal cointegrator 1 complex subunit 3	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+ASS1	ENSG00000130707	ASS1	argininosuccinate synthase 1	no	no	no	YES	no	no	no	TRUE	TRUE	TRUE
+ATP1A1	ENSG00000163399	ATP1A1	ATPase Na+/K+ transporting subunit alpha 1	no	YES	no	no	YES	no	no	TRUE	FALSE	FALSE
+ATP2A2	ENSG00000174437	ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+ATP5A1	ENSG00000152234	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	no	no	no	YES	YES	no	no	FALSE	TRUE	TRUE
+ATP5B	ENSG00000110955	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+ATP5C1	ENSG00000165629	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	no	no	no	YES	YES	no	no	FALSE	TRUE	TRUE
+ATXN2	ENSG00000204842	ATXN2	ataxin 2	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ATXN2L	ENSG00000168488	ATXN2L	ataxin 2 like	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+BAG4	ENSG00000156735	BAG4	BCL2 associated athanogene 4	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+BASP1	ENSG00000176788	BASP1	brain abundant membrane attached signal protein 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+BAZ1B	ENSG00000009954	BAZ1B	bromodomain adjacent to zinc finger domain 1B	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+BCCIP	ENSG00000107949	BCCIP	BRCA2 and CDKN1A interacting protein	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+BCLAF1	ENSG00000029363	BCLAF1	BCL2 associated transcription factor 1	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+BICC1	ENSG00000122870	BICC1	BicC family RNA binding protein 1	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+BMS1	ENSG00000165733	BMS1	BMS1, ribosome biogenesis factor	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+BOP1	ENSG00000261236	BOP1	block of proliferation 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+BRD2	ENSG00000204256	BRD2	bromodomain containing 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+BRIX1	ENSG00000113460	BRIX1	BRX1, biogenesis of ribosomes	YES	YES	no	YES	no	YES	no	FALSE	FALSE	FALSE
+BST2	ENSG00000130303	BST2	bone marrow stromal cell antigen 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+BTF3	ENSG00000145741	BTF3	basic transcription factor 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+BUD13	ENSG00000137656	BUD13	BUD13 homolog	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+BYSL	ENSG00000112578	BYSL	bystin like	no	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+BZW1	ENSG00000082153	BZW1	basic leucine zipper and W2 domains 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+BZW2	ENSG00000136261	BZW2	basic leucine zipper and W2 domains 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+C11orf68	ENSG00000175573	C11orf68	chromosome 11 open reading frame 68	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+C12orf43	ENSG00000157895	C12orf43	chromosome 12 open reading frame 43	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+C14orf166	ENSG00000087302	C14orf166	chromosome 14 open reading frame 166	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+C14orf93	ENSG00000100802	C14orf93	chromosome 14 open reading frame 93	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+C15orf52	ENSG00000188549	C15orf52	chromosome 15 open reading frame 52	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+C19orf47	ENSG00000160392	C19orf47	chromosome 19 open reading frame 47	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+C19orf66	ENSG00000130813	C19orf66	chromosome 19 open reading frame 66	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+C1orf131	ENSG00000143633	C1orf131	chromosome 1 open reading frame 131	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+C1orf204	ENSG00000188004	C1orf204	chromosome 1 open reading frame 204	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+C1orf35	ENSG00000143793	C1orf35	chromosome 1 open reading frame 35	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+C1orf52	ENSG00000162642	C1orf52	chromosome 1 open reading frame 52	no	no	no	YES	no	no	YES	FALSE	FALSE	FALSE
+C2orf15	ENSG00000273045	C2orf15	chromosome 2 open reading frame 15	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+C4BPA	ENSG00000123838	C4BPA	complement component 4 binding protein alpha	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+C7orf50	ENSG00000146540	C7orf50	chromosome 7 open reading frame 50	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CACTIN	ENSG00000105298	CACTIN	cactin, spliceosome C complex subunit	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+CACYBP	ENSG00000116161	CACYBP	calcyclin binding protein	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+CADM1	ENSG00000182985	CADM1	cell adhesion molecule 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CALD1	ENSG00000122786	CALD1	caldesmon 1	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+CALR	ENSG00000179218	CALR	calreticulin	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CAND1	ENSG00000111530	CAND1	cullin associated and neddylation dissociated 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+CANX	ENSG00000127022	CANX	calnexin	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+CAPRIN1	ENSG00000135387	CAPRIN1	cell cycle associated protein 1	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+CARHSP1	ENSG00000153048	CARHSP1	calcium regulated heat stable protein 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CASC3	ENSG00000108349	CASC3	cancer susceptibility candidate 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CAST	ENSG00000153113	CAST	calpastatin	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CAT	ENSG00000121691	CAT	catalase	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+CC2D1B	ENSG00000154222	CC2D1B	coiled-coil and C2 domain containing 1B	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CCAR1	ENSG00000060339	CCAR1	cell division cycle and apoptosis regulator 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CCAR2	ENSG00000158941	CCAR2	cell cycle and apoptosis regulator 2	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+CCDC124	ENSG00000007080	CCDC124	coiled-coil domain containing 124	no	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+CCDC137	ENSG00000185298	CCDC137	coiled-coil domain containing 137	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+CCDC43	ENSG00000180329	CCDC43	coiled-coil domain containing 43	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CCDC47	ENSG00000108588	CCDC47	coiled-coil domain containing 47	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CCDC59	ENSG00000133773	CCDC59	coiled-coil domain containing 59	no	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+CCDC86	ENSG00000110104	CCDC86	coiled-coil domain containing 86	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CCDC9	ENSG00000105321	CCDC9	coiled-coil domain containing 9	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+CCT2	ENSG00000166226	CCT2	chaperonin containing TCP1 subunit 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CCT3	ENSG00000163468	CCT3	chaperonin containing TCP1 subunit 3	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+CCT4	ENSG00000115484	CCT4	chaperonin containing TCP1 subunit 4	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CCT6A	ENSG00000146731	CCT6A	chaperonin containing TCP1 subunit 6A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CD3EAP	ENSG00000117877	CD3EAP	CD3e molecule associated protein	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CD44	ENSG00000026508	CD44	CD44 molecule (Indian blood group)	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+CDC40	ENSG00000168438	CDC40	cell division cycle 40	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CDC42EP4	ENSG00000179604	CDC42EP4	CDC42 effector protein 4	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CDC5L	ENSG00000096401	CDC5L	cell division cycle 5 like	YES	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+CDK11B	ENSG00000248333	CDK11B	cyclin dependent kinase 11B	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+CDK13	ENSG00000065883	CDK13	cyclin dependent kinase 13	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+CDKN2A	ENSG00000147889	CDKN2A	cyclin dependent kinase inhibitor 2A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+CDV3	ENSG00000091527	CDV3	CDV3 homolog	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+CEBPZ	ENSG00000115816	CEBPZ	CCAAT/enhancer binding protein zeta	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+CELF1	ENSG00000149187	CELF1	CUGBP, Elav-like family member 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+CELF2	ENSG00000048740	CELF2	CUGBP, Elav-like family member 2	YES	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+CFAP20	ENSG00000070761	CFAP20	cilia and flagella associated protein 20	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+CFAP65	ENSG00000181378	CFAP65	cilia and flagella associated protein 65	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CFL1	ENSG00000172757	CFL1	cofilin 1	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+CGN	ENSG00000143375	CGN	cingulin	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CHCHD1	ENSG00000172586	CHCHD1	coiled-coil-helix-coiled-coil-helix domain containing 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+CHCHD3	ENSG00000106554	CHCHD3	coiled-coil-helix-coiled-coil-helix domain containing 3	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CHD2	ENSG00000173575	CHD2	chromodomain helicase DNA binding protein 2	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+CHD3	ENSG00000170004	CHD3	chromodomain helicase DNA binding protein 3	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+CHERP	ENSG00000085872	CHERP	calcium homeostasis endoplasmic reticulum protein	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+CHGA	ENSG00000100604	CHGA	chromogranin A	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CHMP4B	ENSG00000101421	CHMP4B	charged multivesicular body protein 4B	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CHTOP	ENSG00000160679	CHTOP	chromatin target of PRMT1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+CIRBP	ENSG00000099622	CIRBP	cold inducible RNA binding protein	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+CISD1	ENSG00000122873	CISD1	CDGSH iron sulfur domain 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CISD2	ENSG00000145354	CISD2	CDGSH iron sulfur domain 2	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+CKAP4	ENSG00000136026	CKAP4	cytoskeleton associated protein 4	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CLASP2	ENSG00000163539	CLASP2	cytoplasmic linker associated protein 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CLK3	ENSG00000179335	CLK3	CDC like kinase 3	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+CLNS1A	ENSG00000074201	CLNS1A	chloride nucleotide-sensitive channel 1A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CLTC	ENSG00000141367	CLTC	clathrin heavy chain	YES	YES	no	no	no	no	no	FALSE	TRUE	FALSE
+CMSS1	ENSG00000184220	CMSS1	cms1 ribosomal small subunit homolog (yeast)	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CNBP	ENSG00000169714	CNBP	CCHC-type zinc finger nucleic acid binding protein	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+CNDP2	ENSG00000133313	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family)	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+CNN1	ENSG00000130176	CNN1	calponin 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CNN2	ENSG00000064666	CNN2	calponin 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+CNN3	ENSG00000117519	CNN3	calponin 3	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+CNOT1	ENSG00000125107	CNOT1	CCR4-NOT transcription complex subunit 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CNOT4	ENSG00000080802	CNOT4	CCR4-NOT transcription complex subunit 4	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+CNOT9	ENSG00000144580	CNOT9	CCR4-NOT transcription complex subunit 9	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+COA6	ENSG00000168275	COA6	cytochrome c oxidase assembly factor 6	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+COL14A1	ENSG00000187955	COL14A1	collagen type XIV alpha 1 chain	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+COPB1	ENSG00000129083	COPB1	coatomer protein complex subunit beta 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+COPG1	ENSG00000181789	COPG1	coatomer protein complex subunit gamma 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CORO1A	ENSG00000102879	CORO1A	coronin 1A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CPEB2	ENSG00000137449	CPEB2	cytoplasmic polyadenylation element binding protein 2	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CPEB3	ENSG00000107864	CPEB3	cytoplasmic polyadenylation element binding protein 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CPEB4	ENSG00000113742	CPEB4	cytoplasmic polyadenylation element binding protein 4	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+CPLX2	ENSG00000145920	CPLX2	complexin 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CPNE3	ENSG00000085719	CPNE3	copine 3	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+CPSF4	ENSG00000160917	CPSF4	cleavage and polyadenylation specific factor 4	YES	YES	no	no	YES	YES	YES	FALSE	FALSE	FALSE
+CPSF6	ENSG00000111605	CPSF6	cleavage and polyadenylation specific factor 6	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CPSF7	ENSG00000149532	CPSF7	cleavage and polyadenylation specific factor 7	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+CRKL	ENSG00000099942	CRKL	CRK like proto-oncogene, adaptor protein	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+CRNKL1	ENSG00000101343	CRNKL1	crooked neck pre-mRNA splicing factor 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+CRYAB	ENSG00000109846	CRYAB	crystallin alpha B	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CS	ENSG00000062485	CS	citrate synthase	YES	no	no	no	no	no	no	TRUE	TRUE	TRUE
+CSDE1	ENSG00000009307	CSDE1	cold shock domain containing E1	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+CSE1L	ENSG00000124207	CSE1L	chromosome segregation 1 like	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+CSNK1E	ENSG00000213923	CSNK1E	casein kinase 1 epsilon	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+CSRP1	ENSG00000159176	CSRP1	cysteine and glycine rich protein 1	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+CSTB	ENSG00000160213	CSTB	cystatin B	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CSTF1	ENSG00000101138	CSTF1	cleavage stimulation factor subunit 1	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CSTF2	ENSG00000101811	CSTF2	cleavage stimulation factor subunit 2	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+CSTF2T	ENSG00000177613	CSTF2T	cleavage stimulation factor subunit 2 tau variant	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+CSTF3	ENSG00000176102	CSTF3	cleavage stimulation factor subunit 3	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CTNNA1	ENSG00000044115	CTNNA1	catenin alpha 1	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+CTNND1	ENSG00000198561	CTNND1	catenin delta 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CTTN	ENSG00000085733	CTTN	cortactin	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+CWC15	ENSG00000150316	CWC15	CWC15 spliceosome associated protein homolog	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+CXorf57	ENSG00000147231	CXorf57	chromosome X open reading frame 57	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+CXXC5	ENSG00000171604	CXXC5	CXXC finger protein 5	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+CYCS	ENSG00000172115	CYCS	cytochrome c, somatic	no	YES	no	no	no	no	no	FALSE	TRUE	TRUE
+DAP3	ENSG00000132676	DAP3	death associated protein 3	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+DARS	ENSG00000115866	DARS	aspartyl-tRNA synthetase	no	no	no	YES	no	no	no	TRUE	TRUE	TRUE
+DARS2	ENSG00000117593	DARS2	aspartyl-tRNA synthetase 2, mitochondrial	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+DAZAP1	ENSG00000071626	DAZAP1	DAZ associated protein 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+DBI	ENSG00000155368	DBI	diazepam binding inhibitor, acyl-CoA binding protein	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+DBNL	ENSG00000136279	DBNL	drebrin like	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+DBR1	ENSG00000138231	DBR1	debranching RNA lariats 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+DBT	ENSG00000137992	DBT	dihydrolipoamide branched chain transacylase E2	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+DCAF13	ENSG00000164934	DCAF13	DDB1 and CUL4 associated factor 13	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+DCD	ENSG00000161634	DCD	dermcidin	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+DCLRE1C	ENSG00000152457	DCLRE1C	DNA cross-link repair 1C	no	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+DCN	ENSG00000011465	DCN	decorin	no	no	no	YES	YES	no	no	FALSE	TRUE	FALSE
+DCTN2	ENSG00000175203	DCTN2	dynactin subunit 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+DDX1	ENSG00000079785	DDX1	DEAD-box helicase 1	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX10	ENSG00000178105	DDX10	DEAD-box helicase 10	YES	YES	no	YES	no	no	YES	TRUE	FALSE	FALSE
+DDX17	ENSG00000100201	DDX17	DEAD-box helicase 17	YES	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DDX18	ENSG00000088205	DDX18	DEAD-box helicase 18	YES	YES	no	YES	no	YES	YES	TRUE	FALSE	FALSE
+DDX19A	ENSG00000168872	DDX19A	DEAD-box helicase 19A	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+DDX21	ENSG00000165732	DDX21	DExD-box helicase 21	YES	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DDX23	ENSG00000174243	DDX23	DEAD-box helicase 23	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+DDX24	ENSG00000273761;ENSG00000089737	DDX24	DEAD-box helicase 24	YES	YES	no	YES	no	YES	YES	TRUE	FALSE	FALSE
+DDX27	ENSG00000124228	DDX27	DEAD-box helicase 27	YES	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DDX28	ENSG00000182810	DDX28	DEAD-box helicase 28	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX31	ENSG00000125485	DDX31	DEAD-box helicase 31	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX39A	ENSG00000123136	DDX39A	DExD-box helicase 39A	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX39B	ENSG00000225859;ENSG00000215425;ENSG00000198563;ENSG00000235439;ENSG00000230624;ENSG00000225073;ENSG00000229496;ENSG00000237889	DDX39B	DExD-box helicase 39B	YES	no	no	YES	no	YES	YES	TRUE	FALSE	FALSE
+DDX3X	ENSG00000215301	DDX3X	DEAD-box helicase 3, X-linked	YES	no	no	YES	no	no	YES	TRUE	FALSE	FALSE
+DDX41	ENSG00000183258	DDX41	DEAD-box helicase 41	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX42	ENSG00000198231	DDX42	DEAD-box helicase 42	YES	YES	no	no	no	no	YES	TRUE	FALSE	FALSE
+DDX43	ENSG00000080007	DDX43	DEAD-box helicase 43	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+DDX46	ENSG00000145833	DDX46	DEAD-box helicase 46	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+DDX47	ENSG00000213782	DDX47	DEAD-box helicase 47	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX49	ENSG00000105671	DDX49	DEAD-box helicase 49	no	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX5	ENSG00000108654	DDX5	DEAD-box helicase 5	YES	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+DDX50	ENSG00000107625	DDX50	DExD-box helicase 50	YES	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DDX51	ENSG00000185163	DDX51	DEAD-box helicase 51	YES	YES	no	YES	no	no	YES	TRUE	FALSE	FALSE
+DDX52	ENSG00000278053;ENSG00000277594	DDX52	DExD-box helicase 52	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+DDX54	ENSG00000123064	DDX54	DEAD-box helicase 54	YES	no	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DDX55	ENSG00000111364	DDX55	DEAD-box helicase 55	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX56	ENSG00000136271	DDX56	DEAD-box helicase 56	no	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DDX6	ENSG00000110367	DDX6	DEAD-box helicase 6	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+DDX60L	ENSG00000181381	DDX60L	DEAD-box helicase 60-like	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+DEK	ENSG00000124795	DEK	DEK proto-oncogene	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+DHCR7	ENSG00000172893	DHCR7	7-dehydrocholesterol reductase	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+DHX15	ENSG00000109606	DHX15	DEAH-box helicase 15	YES	YES	YES	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DHX16	ENSG00000233561;ENSG00000206486;ENSG00000227222;ENSG00000226171;ENSG00000233049;ENSG00000204560;ENSG00000233418;ENSG00000231377	DHX16	DEAH-box helicase 16	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+DHX29	ENSG00000067248	DHX29	DExH-box helicase 29	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+DHX30	ENSG00000132153	DHX30	DExH-box helicase 30	YES	no	no	YES	YES	YES	no	TRUE	FALSE	FALSE
+DHX33	ENSG00000005100	DHX33	DEAH-box helicase 33	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+DHX34	ENSG00000134815	DHX34	DExH-box helicase 34	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+DHX36	ENSG00000281763;ENSG00000174953	DHX36	DEAH-box helicase 36	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+DHX38	ENSG00000140829	DHX38	DEAH-box helicase 38	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+DHX57	ENSG00000163214	DHX57	DExH-box helicase 57	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+DHX8	ENSG00000067596	DHX8	DEAH-box helicase 8	YES	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DHX9	ENSG00000135829	DHX9	DExH-box helicase 9	YES	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+DIAPH1	ENSG00000131504	DIAPH1	diaphanous related formin 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+DIDO1	ENSG00000101191	DIDO1	death inducer-obliterator 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+DIEXF	ENSG00000117597	DIEXF	digestive organ expansion factor homolog (zebrafish)	no	no	no	YES	no	no	YES	FALSE	FALSE	FALSE
+DIMT1	ENSG00000086189	DIMT1	DIM1 dimethyladenosine transferase 1 homolog	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+DKC1	ENSG00000130826	DKC1	dyskerin pseudouridine synthase 1	no	no	YES	YES	no	YES	no	FALSE	FALSE	FALSE
+DLAT	ENSG00000150768	DLAT	dihydrolipoamide S-acetyltransferase	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+DLD	ENSG00000091140	DLD	dihydrolipoamide dehydrogenase	no	YES	no	no	YES	no	no	TRUE	TRUE	TRUE
+DMGDH	ENSG00000132837	DMGDH	dimethylglycine dehydrogenase	no	no	no	YES	no	no	no	TRUE	TRUE	TRUE
+DNAJA1	ENSG00000086061	DNAJA1	DnaJ heat shock protein family (Hsp40) member A1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+DNAJB12	ENSG00000148719	DNAJB12	DnaJ heat shock protein family (Hsp40) member B12	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+DNAJC1	ENSG00000136770	DNAJC1	DnaJ heat shock protein family (Hsp40) member C1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+DNAJC2	ENSG00000105821	DNAJC2	DnaJ heat shock protein family (Hsp40) member C2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+DNAJC21	ENSG00000168724	DNAJC21	DnaJ heat shock protein family (Hsp40) member C21	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+DNM1	ENSG00000106976	DNM1	dynamin 1	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+DNTTIP2	ENSG00000067334	DNTTIP2	deoxynucleotidyltransferase terminal interacting protein 2	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+DROSHA	ENSG00000113360	DROSHA	drosha ribonuclease III	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+DSP	ENSG00000096696	DSP	desmoplakin	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+DST	ENSG00000151914	DST	dystonin	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+DUS3L	ENSG00000141994	DUS3L	dihydrouridine synthase 3 like	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+DUSP11	ENSG00000144048	DUSP11	dual specificity phosphatase 11	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+DUSP14	ENSG00000275932;ENSG00000276023	DUSP14	dual specificity phosphatase 14	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+DUSP9	ENSG00000130829	DUSP9	dual specificity phosphatase 9	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+DUT	ENSG00000128951	DUT	deoxyuridine triphosphatase	no	no	no	YES	no	no	no	TRUE	TRUE	TRUE
+DYNC1H1	ENSG00000197102	DYNC1H1	dynein cytoplasmic 1 heavy chain 1	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+DYNC1I2	ENSG00000077380	DYNC1I2	dynein cytoplasmic 1 intermediate chain 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+DYNC1LI1	ENSG00000144635	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+DYNC2H1	ENSG00000187240	DYNC2H1	dynein cytoplasmic 2 heavy chain 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+DZIP3	ENSG00000198919	DZIP3	DAZ interacting zinc finger protein 3	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+EBNA1BP2	ENSG00000117395	EBNA1BP2	EBNA1 binding protein 2	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+EBP	ENSG00000147155	EBP	emopamil binding protein (sterol isomerase)	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+EDC4	ENSG00000038358	EDC4	enhancer of mRNA decapping 4	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EDF1	ENSG00000107223	EDF1	endothelial differentiation related factor 1	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+EEF1A1	ENSG00000156508	EEF1A1	eukaryotic translation elongation factor 1 alpha 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EEF1G	ENSG00000254772	EEF1G	eukaryotic translation elongation factor 1 gamma	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+EEF2	ENSG00000167658	EEF2	eukaryotic translation elongation factor 2	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+EFTUD2	ENSG00000108883	EFTUD2	elongation factor Tu GTP binding domain containing 2	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF1	ENSG00000173812	EIF1	eukaryotic translation initiation factor 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF1AX	ENSG00000173674	EIF1AX	eukaryotic translation initiation factor 1A, X-linked	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF1B	ENSG00000114784	EIF1B	eukaryotic translation initiation factor 1B	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF2AK2	ENSG00000055332	EIF2AK2	eukaryotic translation initiation factor 2 alpha kinase 2	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+EIF2D	ENSG00000143486	EIF2D	eukaryotic translation initiation factor 2D	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF2S1	ENSG00000134001	EIF2S1	eukaryotic translation initiation factor 2 subunit alpha	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF2S2	ENSG00000125977	EIF2S2	eukaryotic translation initiation factor 2 subunit beta	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+EIF3A	ENSG00000107581	EIF3A	eukaryotic translation initiation factor 3 subunit A	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF3B	ENSG00000106263	EIF3B	eukaryotic translation initiation factor 3 subunit B	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF3C	ENSG00000184110	EIF3C	eukaryotic translation initiation factor 3 subunit C	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF3D	ENSG00000100353	EIF3D	eukaryotic translation initiation factor 3 subunit D	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF3E	ENSG00000104408	EIF3E	eukaryotic translation initiation factor 3 subunit E	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF3G	ENSG00000130811	EIF3G	eukaryotic translation initiation factor 3 subunit G	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+EIF3H	ENSG00000147677	EIF3H	eukaryotic translation initiation factor 3 subunit H	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF3I	ENSG00000084623	EIF3I	eukaryotic translation initiation factor 3 subunit I	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+EIF3J	ENSG00000104131	EIF3J	eukaryotic translation initiation factor 3 subunit J	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF3L	ENSG00000100129	EIF3L	eukaryotic translation initiation factor 3 subunit L	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF4A1	ENSG00000161960	EIF4A1	eukaryotic translation initiation factor 4A1	YES	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+EIF4A2	ENSG00000156976	EIF4A2	eukaryotic translation initiation factor 4A2	YES	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+EIF4A3	ENSG00000141543	EIF4A3	eukaryotic translation initiation factor 4A3	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+EIF4B	ENSG00000063046	EIF4B	eukaryotic translation initiation factor 4B	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+EIF4E	ENSG00000151247	EIF4E	eukaryotic translation initiation factor 4E	YES	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+EIF4E2	ENSG00000135930	EIF4E2	eukaryotic translation initiation factor 4E family member 2	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF4ENIF1	ENSG00000184708	EIF4ENIF1	eukaryotic translation initiation factor 4E nuclear import factor 1	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF4G1	ENSG00000114867	EIF4G1	eukaryotic translation initiation factor 4 gamma 1	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+EIF4G2	ENSG00000110321	EIF4G2	eukaryotic translation initiation factor 4 gamma 2	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+EIF4G3	ENSG00000075151	EIF4G3	eukaryotic translation initiation factor 4 gamma 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EIF4H	ENSG00000106682	EIF4H	eukaryotic translation initiation factor 4H	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+EIF5	ENSG00000100664	EIF5	eukaryotic translation initiation factor 5	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF5A	ENSG00000132507	EIF5A	eukaryotic translation initiation factor 5A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+EIF5B	ENSG00000158417	EIF5B	eukaryotic translation initiation factor 5B	YES	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+ELAC2	ENSG00000006744	ELAC2	elaC ribonuclease Z 2	YES	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+ELAVL1	ENSG00000066044	ELAVL1	ELAV like RNA binding protein 1	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+ELAVL2	ENSG00000107105	ELAVL2	ELAV like RNA binding protein 2	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+ELAVL3	ENSG00000196361	ELAVL3	ELAV like RNA binding protein 3	no	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+ELOF1	ENSG00000130165	ELOF1	elongation factor 1 homolog	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+EMG1	ENSG00000126749	EMG1	EMG1, N1-specific pseudouridine methyltransferase	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EML4	ENSG00000143924	EML4	echinoderm microtubule associated protein like 4	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+ENO1	ENSG00000074800	ENO1	enolase 1	no	YES	no	YES	YES	no	no	TRUE	TRUE	TRUE
+ENSA	ENSG00000143420	ENSA	endosulfine alpha	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+EPB41	ENSG00000159023	EPB41	erythrocyte membrane protein band 4.1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+EPB41L2	ENSG00000079819	EPB41L2	erythrocyte membrane protein band 4.1 like 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EPPK1	ENSG00000261150	EPPK1	epiplakin 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+EPRS	ENSG00000136628	EPRS	glutamyl-prolyl-tRNA synthetase	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+EPS8L3	ENSG00000198758	EPS8L3	EPS8 like 3	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+ERAL1	ENSG00000132591	ERAL1	Era like 12S mitochondrial rRNA chaperone 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ERH	ENSG00000100632	ERH	enhancer of rudimentary homolog (Drosophila)	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ERI3	ENSG00000117419	ERI3	ERI1 exoribonuclease family member 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ERP29	ENSG00000089248	ERP29	endoplasmic reticulum protein 29	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+ESF1	ENSG00000089048	ESF1	ESF1 nucleolar pre-rRNA processing protein homolog	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ESRP2	ENSG00000103067	ESRP2	epithelial splicing regulatory protein 2	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+ETF1	ENSG00000120705	ETF1	eukaryotic translation termination factor 1	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+EWSR1	ENSG00000182944	EWSR1	EWS RNA binding protein 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+EXOSC10	ENSG00000171824	EXOSC10	exosome component 10	YES	no	no	YES	no	no	YES	FALSE	FALSE	FALSE
+EXOSC2	ENSG00000130713	EXOSC2	exosome component 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+EXOSC6	ENSG00000223496	EXOSC6	exosome component 6	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+EXOSC9	ENSG00000123737	EXOSC9	exosome component 9	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+EZR	ENSG00000092820	EZR	ezrin	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+F11R	ENSG00000158769	F11R	F11 receptor	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+FADS2	ENSG00000134824	FADS2	fatty acid desaturase 2	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+FAM103A1	ENSG00000169612	FAM103A1	family with sequence similarity 103 member A1	YES	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+FAM120A	ENSG00000048828	FAM120A	family with sequence similarity 120A	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+FAM120C	ENSG00000184083	FAM120C	family with sequence similarity 120C	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+FAM133B	ENSG00000234545	FAM133B	family with sequence similarity 133 member B	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+FAM208A	ENSG00000163946	FAM208A	family with sequence similarity 208 member A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FAM32A	ENSG00000105058	FAM32A	family with sequence similarity 32 member A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FAM46A	ENSG00000112773	FAM46A	family with sequence similarity 46 member A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FAM50A	ENSG00000071859	FAM50A	family with sequence similarity 50 member A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+FAM98A	ENSG00000119812	FAM98A	family with sequence similarity 98 member A	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+FAM98B	ENSG00000171262	FAM98B	family with sequence similarity 98 member B	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+FARSA	ENSG00000179115	FARSA	phenylalanyl-tRNA synthetase alpha subunit	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+FARSB	ENSG00000116120	FARSB	phenylalanyl-tRNA synthetase beta subunit	no	YES	no	no	YES	no	no	TRUE	FALSE	FALSE
+FASN	ENSG00000169710	FASN	fatty acid synthase	YES	YES	no	YES	no	no	no	TRUE	TRUE	TRUE
+FASTKD1	ENSG00000138399	FASTKD1	FAST kinase domains 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+FASTKD2	ENSG00000118246	FASTKD2	FAST kinase domains 2	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+FASTKD3	ENSG00000124279	FASTKD3	FAST kinase domains 3	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FASTKD5	ENSG00000215251	FASTKD5	FAST kinase domains 5	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+FAU	ENSG00000149806	FAU	FAU, ubiquitin like and ribosomal protein S30 fusion	YES	YES	no	no	no	no	no	FALSE	TRUE	FALSE
+FBL	ENSG00000280548;ENSG00000105202	FBL	fibrillarin	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+FBN1	ENSG00000166147	FBN1	fibrillin 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+FBRSL1	ENSG00000112787	FBRSL1	fibrosin like 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+FCF1	ENSG00000119616	FCF1	FCF1 rRNA-processing protein	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FDPS	ENSG00000160752	FDPS	farnesyl diphosphate synthase	no	no	no	YES	no	no	no	TRUE	TRUE	TRUE
+FEN1	ENSG00000168496	FEN1	flap structure-specific endonuclease 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+FGFR1OP	ENSG00000213066	FGFR1OP	FGFR1 oncogene partner	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+FIP1L1	ENSG00000145216	FIP1L1	factor interacting with PAPOLA and CPSF1	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+FKBP1A	ENSG00000088832	FKBP1A	FK506 binding protein 1A	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+FKBP2	ENSG00000173486	FKBP2	FK506 binding protein 2	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+FKBP3	ENSG00000100442	FKBP3	FK506 binding protein 3	no	no	no	YES	YES	no	no	TRUE	FALSE	FALSE
+FKBP4	ENSG00000004478	FKBP4	FK506 binding protein 4	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+FLNA	ENSG00000196924	FLNA	filamin A	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+FLNB	ENSG00000136068	FLNB	filamin B	YES	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+FLYWCH2	ENSG00000162076	FLYWCH2	FLYWCH family member 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FMR1	ENSG00000102081	FMR1	fragile X mental retardation 1	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FN1	ENSG00000115414	FN1	fibronectin 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+FNDC3A	ENSG00000102531	FNDC3A	fibronectin type III domain containing 3A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FNDC3B	ENSG00000075420	FNDC3B	fibronectin type III domain containing 3B	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+FRG1	ENSG00000109536	FRG1	FSHD region gene 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FSCN1	ENSG00000075618	FSCN1	fascin actin-bundling protein 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+FTSJ3	ENSG00000108592	FTSJ3	FtsJ homolog 3	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+FUBP1	ENSG00000162613	FUBP1	far upstream element binding protein 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+FUBP3	ENSG00000107164	FUBP3	far upstream element binding protein 3	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+FUS	ENSG00000089280	FUS	FUS RNA binding protein	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+FXR1	ENSG00000114416	FXR1	FMR1 autosomal homolog 1	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+FXR2	ENSG00000129245	FXR2	FMR1 autosomal homolog 2	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+FYTTD1	ENSG00000122068	FYTTD1	forty-two-three domain containing 1	YES	YES	no	no	no	YES	YES	FALSE	FALSE	FALSE
+G3BP1	ENSG00000145907	G3BP1	G3BP stress granule assembly factor 1	YES	YES	no	YES	YES	no	YES	TRUE	FALSE	FALSE
+G3BP2	ENSG00000138757	G3BP2	G3BP stress granule assembly factor 2	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+GANAB	ENSG00000089597	GANAB	glucosidase II alpha subunit	no	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+GAR1	ENSG00000109534	GAR1	GAR1 ribonucleoprotein	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+GAS2	ENSG00000148935	GAS2	growth arrest specific 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+GCN1	ENSG00000089154	GCN1	GCN1, eIF2 alpha kinase activator homolog	YES	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+GDI2	ENSG00000057608	GDI2	GDP dissociation inhibitor 2	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+GEMIN5	ENSG00000082516	GEMIN5	gem nuclear organelle associated protein 5	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+GFM1	ENSG00000168827	GFM1	G elongation factor mitochondrial 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GGCT	ENSG00000006625	GGCT	gamma-glutamylcyclotransferase	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+GIGYF2	ENSG00000204120	GIGYF2	GRB10 interacting GYF protein 2	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+GLRX3	ENSG00000108010	GLRX3	glutaredoxin 3	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GLTSCR2	ENSG00000105373	GLTSCR2	glioma tumor suppressor candidate region gene 2	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+GMPR2	ENSG00000100938	GMPR2	guanosine monophosphate reductase 2	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+GNE	ENSG00000159921	GNE	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+GNL2	ENSG00000134697	GNL2	G protein nucleolar 2	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+GNL3	ENSG00000163938	GNL3	G protein nucleolar 3	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+GNL3L	ENSG00000130119	GNL3L	G protein nucleolar 3 like	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+GOLGA4	ENSG00000144674	GOLGA4	golgin A4	no	YES	no	no	no	no	YES	FALSE	FALSE	FALSE
+GOLGB1	ENSG00000173230	GOLGB1	golgin B1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GOT2	ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2	YES	no	no	no	no	no	no	TRUE	TRUE	TRUE
+GP2	ENSG00000169347	GP2	glycoprotein 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+GPATCH4	ENSG00000160818	GPATCH4	G-patch domain containing 4	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+GPATCH8	ENSG00000186566	GPATCH8	G-patch domain containing 8	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+GPR161	ENSG00000143147	GPR161	G protein-coupled receptor 161	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+GRB2	ENSG00000177885	GRB2	growth factor receptor bound protein 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GRN	ENSG00000030582	GRN	granulin precursor	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+GRSF1	ENSG00000132463	GRSF1	G-rich RNA sequence binding factor 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+GRWD1	ENSG00000105447	GRWD1	glutamate rich WD repeat containing 1	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+GSPT1	ENSG00000103342	GSPT1	G1 to S phase transition 1	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+GSPT2	ENSG00000189369	GSPT2	G1 to S phase transition 2	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GSTP1	ENSG00000084207	GSTP1	glutathione S-transferase pi 1	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+GTF2E2	ENSG00000197265	GTF2E2	general transcription factor IIE subunit 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GTF2F1	ENSG00000125651	GTF2F1	general transcription factor IIF subunit 1	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GTPBP1	ENSG00000100226	GTPBP1	GTP binding protein 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GTPBP10	ENSG00000105793	GTPBP10	GTP binding protein 10	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+GTPBP4	ENSG00000107937	GTPBP4	GTP binding protein 4	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+H1F0	ENSG00000189060	H1F0	H1 histone family member 0	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+H1FX	ENSG00000184897	H1FX	H1 histone family member X	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+H2AFY	ENSG00000113648	H2AFY	H2A histone family member Y	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HABP4	ENSG00000130956	HABP4	hyaluronan binding protein 4	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+HADH	ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+HADHB	ENSG00000138029	HADHB	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit	no	no	no	YES	no	no	no	TRUE	TRUE	TRUE
+HARS2	ENSG00000112855	HARS2	histidyl-tRNA synthetase 2, mitochondrial	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+HDAC2	ENSG00000196591	HDAC2	histone deacetylase 2	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+HDGF	ENSG00000143321	HDGF	hepatoma-derived growth factor	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+HDLBP	ENSG00000115677	HDLBP	high density lipoprotein binding protein	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+HEATR1	ENSG00000119285	HEATR1	HEAT repeat containing 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+HEATR6	ENSG00000068097	HEATR6	HEAT repeat containing 6	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+HELZ	ENSG00000198265	HELZ	helicase with zinc finger	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+HELZ2	ENSG00000130589	HELZ2	helicase with zinc finger 2	YES	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+HERC5	ENSG00000138646	HERC5	HECT and RLD domain containing E3 ubiquitin protein ligase 5	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+HIBADH	ENSG00000106049	HIBADH	3-hydroxyisobutyrate dehydrogenase	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+HIST1H1B	ENSG00000184357	HIST1H1B	histone cluster 1 H1 family member b	no	no	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HIST1H1C	ENSG00000187837	HIST1H1C	histone cluster 1 H1 family member c	YES	no	no	YES	YES	YES	no	FALSE	FALSE	FALSE
+HIST1H1D	ENSG00000124575	HIST1H1D	histone cluster 1 H1 family member d	YES	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+HIST1H1E	ENSG00000168298	HIST1H1E	histone cluster 1 H1 family member e	YES	no	no	no	YES	YES	YES	FALSE	FALSE	FALSE
+HIST1H4A	ENSG00000278637	HIST1H4A	histone cluster 1 H4 family member a	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HIST1H4B	ENSG00000278705	HIST1H4B	histone cluster 1 H4 family member b	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HIST1H4D	ENSG00000277157	HIST1H4D	histone cluster 1 H4 family member d	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HIST1H4E	ENSG00000276966	HIST1H4E	histone cluster 1 H4 family member e	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HIST1H4F	ENSG00000274618	HIST1H4F	histone cluster 1 H4 family member f	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HIST1H4H	ENSG00000158406	HIST1H4H	histone cluster 1 H4 family member h	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+HIST1H4K	ENSG00000273542	HIST1H4K	histone cluster 1 H4 family member k	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HIST1H4L	ENSG00000275126	HIST1H4L	histone cluster 1 H4 family member l	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HIST2H4B	ENSG00000270276	HIST2H4B	histone cluster 2 H4 family member b	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+HLA-A	ENSG00000235657	HLA-A	major histocompatibility complex, class I, A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+HLTF	ENSG00000071794	HLTF	helicase like transcription factor	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+HMGA1	ENSG00000137309	HMGA1	high mobility group AT-hook 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+HMGB1	ENSG00000189403	HMGB1	high mobility group box 1	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+HMGB2	ENSG00000164104	HMGB2	high mobility group box 2	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+HMGB3	ENSG00000029993	HMGB3	high mobility group box 3	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+HMGN2	ENSG00000198830	HMGN2	high mobility group nucleosomal binding domain 2	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+HMGN5	ENSG00000198157	HMGN5	high mobility group nucleosome binding domain 5	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+HNRNPA0	ENSG00000177733	HNRNPA0	heterogeneous nuclear ribonucleoprotein A0	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPA1	ENSG00000135486	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1	YES	no	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPA1L2	ENSG00000139675	HNRNPA1L2	heterogeneous nuclear ribonucleoprotein A1-like 2	no	no	YES	no	no	no	no	FALSE	FALSE	FALSE
+HNRNPA2B1	ENSG00000122566	HNRNPA2B1	heterogeneous nuclear ribonucleoprotein A2/B1	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPA3	ENSG00000170144	HNRNPA3	heterogeneous nuclear ribonucleoprotein A3	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPAB	ENSG00000197451	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPC	ENSG00000092199	HNRNPC	heterogeneous nuclear ribonucleoprotein C (C1/C2)	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPCL1	ENSG00000282175;ENSG00000179172	HNRNPCL1	heterogeneous nuclear ribonucleoprotein C-like 1	YES	YES	YES	no	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPD	ENSG00000138668	HNRNPD	heterogeneous nuclear ribonucleoprotein D	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPDL	ENSG00000152795	HNRNPDL	heterogeneous nuclear ribonucleoprotein D like	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPF	ENSG00000169813	HNRNPF	heterogeneous nuclear ribonucleoprotein F	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPH1	ENSG00000169045	HNRNPH1	heterogeneous nuclear ribonucleoprotein H1 (H)	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPH2	ENSG00000126945	HNRNPH2	heterogeneous nuclear ribonucleoprotein H2 (H')	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPH3	ENSG00000096746	HNRNPH3	heterogeneous nuclear ribonucleoprotein H3	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPK	ENSG00000165119	HNRNPK	heterogeneous nuclear ribonucleoprotein K	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPL	ENSG00000282947;ENSG00000104824	HNRNPL	heterogeneous nuclear ribonucleoprotein L	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPLL	ENSG00000143889	HNRNPLL	heterogeneous nuclear ribonucleoprotein L like	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPM	ENSG00000099783	HNRNPM	heterogeneous nuclear ribonucleoprotein M	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPR	ENSG00000282958;ENSG00000125944	HNRNPR	heterogeneous nuclear ribonucleoprotein R	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPU	ENSG00000153187	HNRNPU	heterogeneous nuclear ribonucleoprotein U	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+HNRNPUL1	ENSG00000105323	HNRNPUL1	heterogeneous nuclear ribonucleoprotein U like 1	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+HNRNPUL2	ENSG00000214753	HNRNPUL2	heterogeneous nuclear ribonucleoprotein U like 2	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+HOOK1	ENSG00000134709	HOOK1	hook microtubule tethering protein 1	no	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+HOXB6	ENSG00000108511	HOXB6	homeobox B6	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+HSD17B10	ENSG00000072506	HSD17B10	hydroxysteroid 17-beta dehydrogenase 10	YES	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+HSP90AA1	ENSG00000080824	HSP90AA1	heat shock protein 90 alpha family class A member 1	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+HSP90AB1	ENSG00000096384	HSP90AB1	heat shock protein 90 alpha family class B member 1	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+HSP90B1	ENSG00000166598	HSP90B1	heat shock protein 90 beta family member 1	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+HSPA1A	ENSG00000234475;ENSG00000235941;ENSG00000204389;ENSG00000215328;ENSG00000237724	HSPA1A	heat shock protein family A (Hsp70) member 1A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+HSPA1B	ENSG00000232804;ENSG00000231555;ENSG00000204388;ENSG00000212866;ENSG00000224501	HSPA1B	heat shock protein family A (Hsp70) member 1B	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+HSPA5	ENSG00000044574	HSPA5	heat shock protein family A (Hsp70) member 5	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+HSPA8	ENSG00000109971	HSPA8	heat shock protein family A (Hsp70) member 8	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+HSPA9	ENSG00000113013	HSPA9	heat shock protein family A (Hsp70) member 9	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+HSPB1	ENSG00000106211	HSPB1	heat shock protein family B (small) member 1	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+HSPD1	ENSG00000144381	HSPD1	heat shock protein family D (Hsp60) member 1	no	no	no	YES	YES	no	no	TRUE	FALSE	FALSE
+HSPE1	ENSG00000115541	HSPE1	heat shock protein family E (Hsp10) member 1	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+HTATSF1	ENSG00000102241	HTATSF1	HIV-1 Tat specific factor 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+HUWE1	ENSG00000086758	HUWE1	HECT, UBA and WWE domain containing 1, E3 ubiquitin protein ligase	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+IBA57	ENSG00000181873	IBA57	IBA57 homolog, iron-sulfur cluster assembly	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+IDH1	ENSG00000138413	IDH1	isocitrate dehydrogenase (NADP(+)) 1, cytosolic	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+IDH2	ENSG00000182054	IDH2	isocitrate dehydrogenase (NADP(+)) 2, mitochondrial	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+IFI16	ENSG00000163565	IFI16	interferon gamma inducible protein 16	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+IFIT2	ENSG00000119922	IFIT2	interferon induced protein with tetratricopeptide repeats 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+IFIT5	ENSG00000152778	IFIT5	interferon induced protein with tetratricopeptide repeats 5	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+IGF2BP1	ENSG00000159217	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+IGF2BP2	ENSG00000073792	IGF2BP2	insulin like growth factor 2 mRNA binding protein 2	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+IGF2BP3	ENSG00000136231	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+ILF2	ENSG00000143621	ILF2	interleukin enhancer binding factor 2	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+ILF3	ENSG00000129351	ILF3	interleukin enhancer binding factor 3	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+IMMT	ENSG00000132305	IMMT	inner membrane mitochondrial protein	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+IMP3	ENSG00000177971	IMP3	IMP3, U3 small nucleolar ribonucleoprotein	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+IPO4	ENSG00000196497	IPO4	importin 4	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+IPO5	ENSG00000065150	IPO5	importin 5	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+IQCG	ENSG00000114473	IQCG	IQ motif containing G	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+IREB2	ENSG00000136381	IREB2	iron responsive element binding protein 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+ISG20L2	ENSG00000143319	ISG20L2	interferon stimulated exonuclease gene 20 like 2	no	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ISY1	ENSG00000240682	ISY1	ISY1 splicing factor homolog	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+JUN	ENSG00000177606	JUN	Jun proto-oncogene, AP-1 transcription factor subunit	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+KCTD12	ENSG00000178695	KCTD12	potassium channel tetramerization domain containing 12	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+KDM5A	ENSG00000073614	KDM5A	lysine demethylase 5A	no	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+KHDRBS1	ENSG00000121774	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+KHDRBS3	ENSG00000131773	KHDRBS3	KH RNA binding domain containing, signal transduction associated 3	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+KHSRP	ENSG00000088247	KHSRP	KH-type splicing regulatory protein	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+KIAA0100	ENSG00000007202	KIAA0100	KIAA0100	no	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+KIAA0430	ENSG00000166783	KIAA0430	KIAA0430	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+KIAA1324	ENSG00000116299	KIAA1324	KIAA1324	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+KIAA1429	ENSG00000164944	KIAA1429	KIAA1429	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+KIF1C	ENSG00000129250	KIF1C	kinesin family member 1C	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+KMT2C	ENSG00000055609	KMT2C	lysine methyltransferase 2C	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+KNOP1	ENSG00000103550	KNOP1	lysine rich nucleolar protein 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+KPNA2	ENSG00000182481	KPNA2	karyopherin subunit alpha 2	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+KPNB1	ENSG00000108424	KPNB1	karyopherin subunit beta 1	YES	YES	no	no	no	no	no	FALSE	TRUE	FALSE
+KRI1	ENSG00000129347	KRI1	KRI1 homolog	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+KRR1	ENSG00000111615	KRR1	KRR1, small subunit processome component homolog	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+KRT18	ENSG00000111057	KRT18	keratin 18	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+KTN1	ENSG00000126777	KTN1	kinectin 1	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+KYAT3	ENSG00000137944	KYAT3	kynurenine aminotransferase 3	YES	no	no	no	no	no	no	TRUE	TRUE	TRUE
+LAMA2	ENSG00000196569	LAMA2	laminin subunit alpha 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+LARP1	ENSG00000155506	LARP1	La ribonucleoprotein domain family member 1	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+LARP1B	ENSG00000138709	LARP1B	La ribonucleoprotein domain family member 1B	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+LARP4	ENSG00000161813	LARP4	La ribonucleoprotein domain family member 4	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+LARP4B	ENSG00000107929	LARP4B	La ribonucleoprotein domain family member 4B	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+LARP7	ENSG00000174720	LARP7	La ribonucleoprotein domain family member 7	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+LAS1L	ENSG00000001497	LAS1L	LAS1 like, ribosome biogenesis factor	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+LASP1	ENSG00000002834	LASP1	LIM and SH3 protein 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+LBR	ENSG00000143815	LBR	lamin B receptor	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+LDHA	ENSG00000134333	LDHA	lactate dehydrogenase A	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+LDHB	ENSG00000111716	LDHB	lactate dehydrogenase B	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+LEPR	ENSG00000116678	LEPR	leptin receptor	no	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+LGALS1	ENSG00000100097	LGALS1	galectin 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+LGALS3	ENSG00000131981	LGALS3	galectin 3	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+LIMA1	ENSG00000050405	LIMA1	LIM domain and actin binding 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+LIN28B	ENSG00000187772	LIN28B	lin-28 homolog B	YES	YES	no	no	YES	YES	YES	FALSE	FALSE	FALSE
+LIN7C	ENSG00000148943	LIN7C	lin-7 homolog C, crumbs cell polarity complex component	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+LLPH	ENSG00000139233	LLPH	LLP homolog, long-term synaptic facilitation	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+LMF2	ENSG00000100258	LMF2	lipase maturation factor 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+LMNA	ENSG00000160789	LMNA	lamin A/C	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+LRP1	ENSG00000123384	LRP1	LDL receptor related protein 1	no	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+LRPPRC	ENSG00000138095	LRPPRC	leucine rich pentatricopeptide repeat containing	YES	YES	no	YES	YES	no	YES	FALSE	TRUE	FALSE
+LRRC47	ENSG00000130764	LRRC47	leucine rich repeat containing 47	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+LRRC59	ENSG00000108829	LRRC59	leucine rich repeat containing 59	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+LSM1	ENSG00000175324	LSM1	LSM1 homolog, mRNA degradation associated	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+LSM14A	ENSG00000262860;ENSG00000257103	LSM14A	LSM14A, mRNA processing body assembly factor	YES	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+LSM14B	ENSG00000149657	LSM14B	LSM family member 14B	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+LSM2	ENSG00000204392;ENSG00000236826;ENSG00000231502;ENSG00000224979;ENSG00000172850;ENSG00000225998	LSM2	LSM2 homolog, U6 small nuclear RNA and mRNA degradation associated	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+LSM3	ENSG00000170860	LSM3	LSM3 homolog, U6 small nuclear RNA and mRNA degradation associated	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+LSM4	ENSG00000130520	LSM4	LSM4 homolog, U6 small nuclear RNA and mRNA degradation associated	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+LSM6	ENSG00000164167	LSM6	LSM6 homolog, U6 small nuclear RNA and mRNA degradation associated	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+LSM8	ENSG00000128534	LSM8	LSM8 homolog, U6 small nuclear RNA associated	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+LTA4H	ENSG00000111144	LTA4H	leukotriene A4 hydrolase	no	no	no	YES	no	no	no	TRUE	TRUE	TRUE
+LUC7L	ENSG00000007392	LUC7L	LUC7 like	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+LUC7L2	ENSG00000146963	LUC7L2	LUC7 like 2, pre-mRNA splicing factor	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+LUC7L3	ENSG00000108848	LUC7L3	LUC7 like 3 pre-mRNA splicing factor	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+LYAR	ENSG00000145220	LYAR	Ly1 antibody reactive	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MACF1	ENSG00000127603	MACF1	microtubule-actin crosslinking factor 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MAGOH	ENSG00000162385	MAGOH	mago homolog, exon junction complex core component	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MAGOHB	ENSG00000111196	MAGOHB	mago homolog B, exon junction complex core component	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MAK16	ENSG00000198042	MAK16	MAK16 homolog	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MANF	ENSG00000145050	MANF	mesencephalic astrocyte derived neurotrophic factor	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MAP1B	ENSG00000131711	MAP1B	microtubule associated protein 1B	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MAP2	ENSG00000078018	MAP2	microtubule associated protein 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MAP4	ENSG00000047849	MAP4	microtubule associated protein 4	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MAPRE1	ENSG00000101367	MAPRE1	microtubule associated protein RP/EB family member 1	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MAPT	ENSG00000186868	MAPT	microtubule associated protein tau	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MARK2	ENSG00000072518	MARK2	microtubule affinity regulating kinase 2	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+MAT1A	ENSG00000151224	MAT1A	methionine adenosyltransferase 1A	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+MAT2A	ENSG00000168906	MAT2A	methionine adenosyltransferase 2A	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+MATR3	ENSG00000015479;ENSG00000280987	MATR3	matrin 3	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+MAZ	ENSG00000103495	MAZ	MYC associated zinc finger protein	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MBNL1	ENSG00000152601	MBNL1	muscleblind like splicing regulator 1	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+MBNL2	ENSG00000139793	MBNL2	muscleblind like splicing regulator 2	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MBNL3	ENSG00000076770	MBNL3	muscleblind like splicing regulator 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MCAT	ENSG00000100294	MCAT	malonyl-CoA-acyl carrier protein transacylase	YES	no	no	no	no	no	no	TRUE	TRUE	TRUE
+MCRIP2	ENSG00000172366	MCRIP2	MAPK regulated corepressor interacting protein 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MDC1	ENSG00000231135	MDC1	mediator of DNA damage checkpoint 1	no	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+MDH1	ENSG00000014641	MDH1	malate dehydrogenase 1	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+MDH2	ENSG00000146701	MDH2	malate dehydrogenase 2	YES	YES	no	YES	YES	no	no	TRUE	TRUE	TRUE
+MECP2	ENSG00000169057	MECP2	methyl-CpG binding protein 2	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MEPCE	ENSG00000146834	MEPCE	methylphosphate capping enzyme	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+METAP2	ENSG00000111142	METAP2	methionyl aminopeptidase 2	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+METTL16	ENSG00000127804	METTL16	methyltransferase like 16	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+METTL8	ENSG00000123600	METTL8	methyltransferase like 8	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MEX3A	ENSG00000254726	MEX3A	mex-3 RNA binding family member A	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MEX3B	ENSG00000183496	MEX3B	mex-3 RNA binding family member B	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MEX3C	ENSG00000176624	MEX3C	mex-3 RNA binding family member C	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+MEX3D	ENSG00000181588	MEX3D	mex-3 RNA binding family member D	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MFAP1	ENSG00000140259	MFAP1	microfibrillar associated protein 1	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+MGST1	ENSG00000008394	MGST1	microsomal glutathione S-transferase 1	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+MKI67	ENSG00000148773	MKI67	marker of proliferation Ki-67	no	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+MKRN1	ENSG00000133606	MKRN1	makorin ring finger protein 1	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+MKRN2	ENSG00000075975	MKRN2	makorin ring finger protein 2	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+MKRN3	ENSG00000179455	MKRN3	makorin ring finger protein 3	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+MMAA	ENSG00000151611	MMAA	methylmalonic aciduria (cobalamin deficiency) cblA type	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+MOV10	ENSG00000155363	MOV10	Mov10 RISC complex RNA helicase	YES	YES	no	YES	no	no	YES	TRUE	FALSE	FALSE
+MPHOSPH10	ENSG00000124383	MPHOSPH10	M-phase phosphoprotein 10	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+MRM1	ENSG00000274853;ENSG00000278619	MRM1	mitochondrial rRNA methyltransferase 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRM3	ENSG00000171861	MRM3	mitochondrial rRNA methyltransferase 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL1	ENSG00000169288	MRPL1	mitochondrial ribosomal protein L1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL10	ENSG00000159111	MRPL10	mitochondrial ribosomal protein L10	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPL11	ENSG00000174547	MRPL11	mitochondrial ribosomal protein L11	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL13	ENSG00000172172	MRPL13	mitochondrial ribosomal protein L13	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+MRPL14	ENSG00000180992	MRPL14	mitochondrial ribosomal protein L14	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MRPL15	ENSG00000137547	MRPL15	mitochondrial ribosomal protein L15	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL16	ENSG00000166902	MRPL16	mitochondrial ribosomal protein L16	no	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+MRPL19	ENSG00000115364	MRPL19	mitochondrial ribosomal protein L19	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MRPL2	ENSG00000112651	MRPL2	mitochondrial ribosomal protein L2	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL20	ENSG00000242485	MRPL20	mitochondrial ribosomal protein L20	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPL21	ENSG00000197345	MRPL21	mitochondrial ribosomal protein L21	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPL22	ENSG00000082515	MRPL22	mitochondrial ribosomal protein L22	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MRPL24	ENSG00000143314	MRPL24	mitochondrial ribosomal protein L24	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MRPL27	ENSG00000108826	MRPL27	mitochondrial ribosomal protein L27	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MRPL28	ENSG00000086504	MRPL28	mitochondrial ribosomal protein L28	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MRPL3	ENSG00000114686	MRPL3	mitochondrial ribosomal protein L3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL32	ENSG00000106591	MRPL32	mitochondrial ribosomal protein L32	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL34	ENSG00000130312	MRPL34	mitochondrial ribosomal protein L34	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MRPL37	ENSG00000116221	MRPL37	mitochondrial ribosomal protein L37	no	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+MRPL39	ENSG00000154719	MRPL39	mitochondrial ribosomal protein L39	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL4	ENSG00000105364	MRPL4	mitochondrial ribosomal protein L4	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MRPL40	ENSG00000185608	MRPL40	mitochondrial ribosomal protein L40	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPL41	ENSG00000182154	MRPL41	mitochondrial ribosomal protein L41	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+MRPL42	ENSG00000198015	MRPL42	mitochondrial ribosomal protein L42	no	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+MRPL43	ENSG00000055950	MRPL43	mitochondrial ribosomal protein L43	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPL44	ENSG00000135900	MRPL44	mitochondrial ribosomal protein L44	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPL45	ENSG00000277936;ENSG00000278845	MRPL45	mitochondrial ribosomal protein L45	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPL51	ENSG00000111639	MRPL51	mitochondrial ribosomal protein L51	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MRPL54	ENSG00000183617	MRPL54	mitochondrial ribosomal protein L54	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPL57	ENSG00000173141	MRPL57	mitochondrial ribosomal protein L57	no	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+MRPL9	ENSG00000143436	MRPL9	mitochondrial ribosomal protein L9	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPS10	ENSG00000048544	MRPS10	mitochondrial ribosomal protein S10	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPS11	ENSG00000181991	MRPS11	mitochondrial ribosomal protein S11	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MRPS12	ENSG00000283018;ENSG00000128626	MRPS12	mitochondrial ribosomal protein S12	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPS14	ENSG00000120333	MRPS14	mitochondrial ribosomal protein S14	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPS15	ENSG00000116898	MRPS15	mitochondrial ribosomal protein S15	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPS18A	ENSG00000096080	MRPS18A	mitochondrial ribosomal protein S18A	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MRPS18C	ENSG00000163319	MRPS18C	mitochondrial ribosomal protein S18C	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+MRPS21	ENSG00000266472	MRPS21	mitochondrial ribosomal protein S21	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPS23	ENSG00000181610	MRPS23	mitochondrial ribosomal protein S23	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+MRPS24	ENSG00000062582	MRPS24	mitochondrial ribosomal protein S24	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPS26	ENSG00000125901	MRPS26	mitochondrial ribosomal protein S26	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPS28	ENSG00000147586	MRPS28	mitochondrial ribosomal protein S28	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPS30	ENSG00000112996	MRPS30	mitochondrial ribosomal protein S30	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MRPS31	ENSG00000102738	MRPS31	mitochondrial ribosomal protein S31	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MRPS35	ENSG00000061794	MRPS35	mitochondrial ribosomal protein S35	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MRPS5	ENSG00000144029	MRPS5	mitochondrial ribosomal protein S5	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+MRPS7	ENSG00000125445	MRPS7	mitochondrial ribosomal protein S7	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MRPS9	ENSG00000135972	MRPS9	mitochondrial ribosomal protein S9	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MRTO4	ENSG00000053372	MRTO4	MRT4 homolog, ribosome maturation factor	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MSI1	ENSG00000135097	MSI1	musashi RNA binding protein 1	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MSI2	ENSG00000153944	MSI2	musashi RNA binding protein 2	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+MSN	ENSG00000147065	MSN	moesin	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MTCL1	ENSG00000168502	MTCL1	microtubule crosslinking factor 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+MTDH	ENSG00000147649	MTDH	metadherin	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+MTERF1	ENSG00000127989	MTERF1	mitochondrial transcription termination factor 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MTHFD1	ENSG00000100714	MTHFD1	methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+MTHFSD	ENSG00000103248	MTHFSD	methenyltetrahydrofolate synthetase domain containing	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MTIF2	ENSG00000085760	MTIF2	mitochondrial translational initiation factor 2	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+MTO1	ENSG00000135297	MTO1	mitochondrial tRNA translation optimization 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MTPAP	ENSG00000107951	MTPAP	mitochondrial poly(A) polymerase	YES	YES	no	YES	no	no	YES	TRUE	FALSE	FALSE
+MTRF1	ENSG00000120662	MTRF1	mitochondrial translation release factor 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MYBBP1A	ENSG00000132382	MYBBP1A	MYB binding protein 1a	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+MYEF2	ENSG00000104177	MYEF2	myelin expression factor 2	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MYH14	ENSG00000105357	MYH14	myosin heavy chain 14	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+MYH9	ENSG00000100345	MYH9	myosin heavy chain 9	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+MYO18A	ENSG00000196535	MYO18A	myosin XVIIIA	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+MYO5A	ENSG00000197535	MYO5A	myosin VA	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NAA15	ENSG00000164134	NAA15	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NAA50	ENSG00000121579	NAA50	N(alpha)-acetyltransferase 50, NatE catalytic subunit	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+NAF1	ENSG00000145414	NAF1	nuclear assembly factor 1 ribonucleoprotein	YES	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+NAP1L1	ENSG00000187109	NAP1L1	nucleosome assembly protein 1 like 1	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+NAP1L4	ENSG00000205531	NAP1L4	nucleosome assembly protein 1 like 4	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+NARS	ENSG00000134440	NARS	asparaginyl-tRNA synthetase	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+NAT10	ENSG00000135372	NAT10	N-acetyltransferase 10	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+NBPF10	ENSG00000271425	NBPF10	neuroblastoma breakpoint family member 10	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NCBP1	ENSG00000136937	NCBP1	nuclear cap binding protein subunit 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NCBP2	ENSG00000114503	NCBP2	nuclear cap binding protein subunit 2	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+NCBP3	ENSG00000074356	NCBP3	nuclear cap binding subunit 3	YES	no	no	YES	no	no	YES	FALSE	FALSE	FALSE
+NCL	ENSG00000115053	NCL	nucleolin	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+NCOA5	ENSG00000124160	NCOA5	nuclear receptor coactivator 5	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NDRG1	ENSG00000104419	NDRG1	N-myc downstream regulated 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+NDRG2	ENSG00000165795	NDRG2	NDRG family member 2	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+NDRG4	ENSG00000103034	NDRG4	NDRG family member 4	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+NDUFS6	ENSG00000145494	NDUFS6	NADH:ubiquinone oxidoreductase subunit S6	no	no	no	no	YES	no	no	FALSE	TRUE	TRUE
+NDUFV3	ENSG00000160194	NDUFV3	NADH:ubiquinone oxidoreductase subunit V3	YES	no	no	YES	no	no	no	FALSE	TRUE	TRUE
+NELFE	ENSG00000204356	NELFE	negative elongation factor complex member E	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NFX1	ENSG00000086102	NFX1	nuclear transcription factor, X-box binding 1	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NGDN	ENSG00000129460	NGDN	neuroguidin	YES	no	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+NGRN	ENSG00000182768	NGRN	neugrin, neurite outgrowth associated	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NHP2	ENSG00000145912	NHP2	NHP2 ribonucleoprotein	no	YES	no	YES	YES	YES	no	FALSE	FALSE	FALSE
+NIFK	ENSG00000155438	NIFK	nucleolar protein interacting with the FHA domain of MKI67	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+NIP7	ENSG00000132603	NIP7	NIP7, nucleolar pre-rRNA processing protein	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+NKAP	ENSG00000101882	NKAP	NFKB activating protein	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NKRF	ENSG00000186416	NKRF	NFKB repressing factor	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+NKTR	ENSG00000114857	NKTR	natural killer cell triggering receptor	no	no	no	no	no	no	YES	TRUE	FALSE	FALSE
+NLRP11	ENSG00000179873	NLRP11	NLR family pyrin domain containing 11	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NMD3	ENSG00000169251	NMD3	NMD3 ribosome export adaptor	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+NME1	ENSG00000239672	NME1	NME/NM23 nucleoside diphosphate kinase 1	no	no	no	YES	YES	no	no	TRUE	TRUE	TRUE
+NMT1	ENSG00000136448	NMT1	N-myristoyltransferase 1	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+NOA1	ENSG00000084092	NOA1	nitric oxide associated 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NOC2L	ENSG00000188976	NOC2L	NOC2 like nucleolar associated transcriptional repressor	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+NOC3L	ENSG00000173145	NOC3L	NOC3 like DNA replication regulator	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+NOC4L	ENSG00000184967	NOC4L	nucleolar complex associated 4 homolog	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+NOL10	ENSG00000115761	NOL10	nucleolar protein 10	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+NOL11	ENSG00000130935	NOL11	nucleolar protein 11	YES	YES	no	YES	no	YES	no	FALSE	FALSE	FALSE
+NOL12	ENSG00000273899	NOL12	nucleolar protein 12	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NOL6	ENSG00000165271	NOL6	nucleolar protein 6	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+NOL7	ENSG00000225921	NOL7	nucleolar protein 7	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+NOL8	ENSG00000198000	NOL8	nucleolar protein 8	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+NOLC1	ENSG00000166197	NOLC1	nucleolar and coiled-body phosphoprotein 1	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+NOM1	ENSG00000146909	NOM1	nucleolar protein with MIF4G domain 1	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+NONO	ENSG00000147140	NONO	non-POU domain containing, octamer-binding	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+NOP14	ENSG00000087269	NOP14	NOP14 nucleolar protein	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+NOP16	ENSG00000048162	NOP16	NOP16 nucleolar protein	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+NOP2	ENSG00000111641	NOP2	NOP2 nucleolar protein	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+NOP56	ENSG00000101361	NOP56	NOP56 ribonucleoprotein	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+NOP58	ENSG00000055044	NOP58	NOP58 ribonucleoprotein	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+NOP9	ENSG00000196943	NOP9	NOP9 nucleolar protein	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+NOSIP	ENSG00000142546	NOSIP	nitric oxide synthase interacting protein	no	YES	no	YES	no	no	no	TRUE	TRUE	TRUE
+NOVA1	ENSG00000139910	NOVA1	NOVA alternative splicing regulator 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NOVA2	ENSG00000104967	NOVA2	NOVA alternative splicing regulator 2	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NPM1	ENSG00000181163	NPM1	nucleophosmin	YES	YES	no	YES	YES	YES	no	FALSE	FALSE	FALSE
+NPM3	ENSG00000107833	NPM3	nucleophosmin/nucleoplasmin 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+NQO1	ENSG00000181019	NQO1	NAD(P)H quinone dehydrogenase 1	no	YES	no	YES	YES	no	no	TRUE	TRUE	TRUE
+NSA2	ENSG00000164346	NSA2	NSA2, ribosome biogenesis homolog	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NSF	ENSG00000073969	NSF	N-ethylmaleimide sensitive factor, vesicle fusing ATPase	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+NSFL1C	ENSG00000088833	NSFL1C	NSFL1 cofactor	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+NSRP1	ENSG00000126653	NSRP1	nuclear speckle splicing regulatory protein 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NSUN2	ENSG00000037474	NSUN2	NOP2/Sun RNA methyltransferase family member 2	YES	YES	no	YES	YES	YES	no	TRUE	FALSE	FALSE
+NSUN5	ENSG00000130305	NSUN5	NOP2/Sun RNA methyltransferase family member 5	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+NTPCR	ENSG00000135778	NTPCR	nucleoside-triphosphatase, cancer-related	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+NUCKS1	ENSG00000069275	NUCKS1	nuclear casein kinase and cyclin dependent kinase substrate 1	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+NUDT16L1	ENSG00000168101	NUDT16L1	nudix hydrolase 16 like 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+NUDT21	ENSG00000167005	NUDT21	nudix hydrolase 21	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+NUFIP2	ENSG00000108256	NUFIP2	NUFIP2, FMR1 interacting protein 2	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+NUPL2	ENSG00000136243	NUPL2	nucleoporin like 2	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+NUSAP1	ENSG00000137804	NUSAP1	nucleolar and spindle associated protein 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NVL	ENSG00000143748	NVL	nuclear VCP-like	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+NXF1	ENSG00000162231	NXF1	nuclear RNA export factor 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+OASL	ENSG00000135114	OASL	2'-5'-oligoadenylate synthetase like	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+OGN	ENSG00000106809	OGN	osteoglycin	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+OLA1	ENSG00000138430	OLA1	Obg like ATPase 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+OTUD4	ENSG00000164164	OTUD4	OTU deubiquitinase 4	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+P2RX7	ENSG00000089041	P2RX7	purinergic receptor P2X 7	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+P4HB	ENSG00000185624	P4HB	prolyl 4-hydroxylase subunit beta	YES	YES	no	YES	YES	no	no	TRUE	TRUE	TRUE
+PA2G4	ENSG00000170515	PA2G4	proliferation-associated 2G4	no	YES	no	YES	no	YES	no	FALSE	FALSE	FALSE
+PABPC1	ENSG00000070756	PABPC1	poly(A) binding protein cytoplasmic 1	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+PABPC1L	ENSG00000101104	PABPC1L	poly(A) binding protein cytoplasmic 1 like	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PABPC4	ENSG00000090621	PABPC4	poly(A) binding protein cytoplasmic 4	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+PABPC4L	ENSG00000254535	PABPC4L	poly(A) binding protein cytoplasmic 4 like	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PABPN1	ENSG00000100836	PABPN1	poly(A) binding protein nuclear 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+PAFAH1B3	ENSG00000079462	PAFAH1B3	platelet activating factor acetylhydrolase 1b catalytic subunit 3	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+PAICS	ENSG00000128050	PAICS	phosphoribosylaminoimidazole carboxylase; phosphoribosylaminoimidazolesuccinocarboxamide synthase	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+PAIP1	ENSG00000172239	PAIP1	poly(A) binding protein interacting protein 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PAPD5	ENSG00000121274	PAPD5	poly(A) RNA polymerase D5, non-canonical	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+PARK7	ENSG00000116288	PARK7	Parkinsonism associated deglycase	no	no	no	no	YES	no	no	TRUE	FALSE	TRUE
+PARN	ENSG00000140694	PARN	poly(A)-specific ribonuclease	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+PARP1	ENSG00000143799	PARP1	poly(ADP-ribose) polymerase 1	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+PARP12	ENSG00000059378	PARP12	poly(ADP-ribose) polymerase family member 12	no	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+PATL1	ENSG00000166889	PATL1	PAT1 homolog 1, processing body mRNA decay factor	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+PATZ1	ENSG00000100105	PATZ1	POZ/BTB and AT hook containing zinc finger 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PAWR	ENSG00000177425	PAWR	pro-apoptotic WT1 regulator	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PC	ENSG00000173599	PC	pyruvate carboxylase	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+PCBP1	ENSG00000169564	PCBP1	poly(rC) binding protein 1	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+PCBP2	ENSG00000197111	PCBP2	poly(rC) binding protein 2	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+PCBP3	ENSG00000183570	PCBP3	poly(rC) binding protein 3	no	YES	YES	YES	no	no	no	FALSE	FALSE	FALSE
+PCBP4	ENSG00000090097	PCBP4	poly(rC) binding protein 4	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+PCDH20	ENSG00000280165	PCDH20	protocadherin 20	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+PCDHGA9	ENSG00000261934	PCDHGA9	protocadherin gamma subfamily A, 9	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+PCNP	ENSG00000081154	PCNP	PEST proteolytic signal containing nuclear protein	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+PCSK9	ENSG00000169174	PCSK9	proprotein convertase subtilisin/kexin type 9	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+PDAP1	ENSG00000106244	PDAP1	PDGFA associated protein 1	YES	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+PDCD11	ENSG00000148843	PDCD11	programmed cell death 11	YES	no	no	YES	YES	YES	no	FALSE	FALSE	FALSE
+PDCD6IP	ENSG00000170248	PDCD6IP	programmed cell death 6 interacting protein	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+PDIA2	ENSG00000185615	PDIA2	protein disulfide isomerase family A member 2	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+PDIA3	ENSG00000167004	PDIA3	protein disulfide isomerase family A member 3	no	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+PDIA4	ENSG00000155660	PDIA4	protein disulfide isomerase family A member 4	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+PDLIM5	ENSG00000163110	PDLIM5	PDZ and LIM domain 5	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+PDS5A	ENSG00000121892	PDS5A	PDS5 cohesin associated factor A	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+PEBP1	ENSG00000089220	PEBP1	phosphatidylethanolamine binding protein 1	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+PEF1	ENSG00000162517	PEF1	penta-EF-hand domain containing 1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+PEG10	ENSG00000242265	PEG10	paternally expressed 10	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+PELP1	ENSG00000141456	PELP1	proline, glutamate and leucine rich protein 1	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+PES1	ENSG00000100029	PES1	pescadillo ribosomal biogenesis factor 1	YES	YES	no	YES	no	YES	no	FALSE	FALSE	FALSE
+PFN1	ENSG00000108518	PFN1	profilin 1	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PGRMC1	ENSG00000101856	PGRMC1	progesterone receptor membrane component 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PHF10	ENSG00000130024	PHF10	PHD finger protein 10	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PHF3	ENSG00000118482	PHF3	PHD finger protein 3	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PHF5A	ENSG00000100410	PHF5A	PHD finger protein 5A	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+PHF6	ENSG00000156531	PHF6	PHD finger protein 6	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+PHGDH	ENSG00000092621	PHGDH	phosphoglycerate dehydrogenase	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+PIN4	ENSG00000102309	PIN4	peptidylprolyl cis/trans isomerase, NIMA-interacting 4	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+PKM	ENSG00000067225	PKM	pyruvate kinase, muscle	no	YES	no	YES	no	no	no	TRUE	TRUE	TRUE
+PKN2	ENSG00000065243	PKN2	protein kinase N2	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+PLA2G1B	ENSG00000170890	PLA2G1B	phospholipase A2 group IB	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+PLEC	ENSG00000178209	PLEC	plectin	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+PMS1	ENSG00000064933	PMS1	PMS1 homolog 1, mismatch repair system component	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+PNISR	ENSG00000132424	PNISR	PNN interacting serine and arginine rich protein	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+PNN	ENSG00000100941	PNN	pinin, desmosome associated protein	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+PNO1	ENSG00000115946	PNO1	partner of NOB1 homolog	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PNPT1	ENSG00000138035	PNPT1	polyribonucleotide nucleotidyltransferase 1	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+POLDIP3	ENSG00000100227	POLDIP3	DNA polymerase delta interacting protein 3	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+POLR2A	ENSG00000181222	POLR2A	RNA polymerase II subunit A	YES	YES	no	YES	no	YES	YES	TRUE	FALSE	FALSE
+POLR2B	ENSG00000047315	POLR2B	RNA polymerase II subunit B	YES	YES	no	YES	no	YES	YES	TRUE	FALSE	FALSE
+POLRMT	ENSG00000099821	POLRMT	RNA polymerase mitochondrial	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+POP1	ENSG00000104356	POP1	POP1 homolog, ribonuclease P/MRP subunit	no	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+POP7	ENSG00000172336	POP7	POP7 homolog, ribonuclease P/MRP subunit	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+POU5F1	ENSG00000204531	POU5F1	POU class 5 homeobox 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+PPAN	ENSG00000130810	PPAN	peter pan homolog (Drosophila)	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+PPHLN1	ENSG00000134283	PPHLN1	periphilin 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+PPIA	ENSG00000196262	PPIA	peptidylprolyl isomerase A	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+PPIB	ENSG00000166794	PPIB	peptidylprolyl isomerase B	YES	no	no	YES	YES	no	no	TRUE	FALSE	FALSE
+PPID	ENSG00000171497	PPID	peptidylprolyl isomerase D	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+PPIE	ENSG00000084072	PPIE	peptidylprolyl isomerase E	no	YES	no	YES	YES	YES	no	TRUE	FALSE	FALSE
+PPIF	ENSG00000108179	PPIF	peptidylprolyl isomerase F	no	YES	no	no	YES	no	no	TRUE	FALSE	FALSE
+PPIG	ENSG00000138398	PPIG	peptidylprolyl isomerase G	YES	YES	no	YES	no	YES	no	TRUE	FALSE	FALSE
+PPIL4	ENSG00000131013	PPIL4	peptidylprolyl isomerase like 4	YES	YES	no	YES	YES	YES	YES	TRUE	FALSE	FALSE
+PPP1CC	ENSG00000186298	PPP1CC	protein phosphatase 1 catalytic subunit gamma	YES	no	no	no	no	no	no	TRUE	TRUE	TRUE
+PPP1R10	ENSG00000238104;ENSG00000231737;ENSG00000206489;ENSG00000230995;ENSG00000204569;ENSG00000227804;ENSG00000235291	PPP1R10	protein phosphatase 1 regulatory subunit 10	YES	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+PPRC1	ENSG00000148840	PPRC1	peroxisome proliferator-activated receptor gamma, coactivator-related 1	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+PRDX1	ENSG00000117450	PRDX1	peroxiredoxin 1	YES	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+PRDX3	ENSG00000165672	PRDX3	peroxiredoxin 3	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+PRKAR2A	ENSG00000114302	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha	no	YES	no	no	no	no	no	FALSE	TRUE	FALSE
+PRKDC	ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	YES	YES	no	no	no	YES	YES	TRUE	FALSE	FALSE
+PRKRA	ENSG00000180228	PRKRA	protein activator of interferon induced protein kinase EIF2AK2	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PRMT1	ENSG00000126457	PRMT1	protein arginine methyltransferase 1	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+PRPF3	ENSG00000117360	PRPF3	pre-mRNA processing factor 3	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+PRPF31	ENSG00000275117;ENSG00000277953;ENSG00000105618;ENSG00000277154;ENSG00000274894;ENSG00000274651;ENSG00000277707;ENSG00000276421;ENSG00000274144;ENSG00000275885	PRPF31	pre-mRNA processing factor 31	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+PRPF38A	ENSG00000134748	PRPF38A	pre-mRNA processing factor 38A	YES	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+PRPF38B	ENSG00000134186	PRPF38B	pre-mRNA processing factor 38B	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+PRPF40A	ENSG00000196504	PRPF40A	pre-mRNA processing factor 40 homolog A	YES	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+PRPF4B	ENSG00000112739	PRPF4B	pre-mRNA processing factor 4B	YES	no	no	no	no	YES	YES	TRUE	FALSE	FALSE
+PRPF6	ENSG00000101161	PRPF6	pre-mRNA processing factor 6	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+PRPF8	ENSG00000174231;ENSG00000274442	PRPF8	pre-mRNA processing factor 8	YES	no	no	YES	no	YES	no	FALSE	FALSE	FALSE
+PRR3	ENSG00000228186;ENSG00000206491;ENSG00000233564;ENSG00000223887;ENSG00000204576;ENSG00000223766;ENSG00000229202	PRR3	proline rich 3	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+PRRC2A	ENSG00000225164;ENSG00000231370;ENSG00000226618;ENSG00000204469;ENSG00000231825;ENSG00000225748;ENSG00000206427	PRRC2A	proline rich coiled-coil 2A	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+PRRC2B	ENSG00000130723	PRRC2B	proline rich coiled-coil 2B	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+PRRC2C	ENSG00000117523	PRRC2C	proline rich coiled-coil 2C	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+PSIP1	ENSG00000164985	PSIP1	PC4 and SFRS1 interacting protein 1	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+PSMA4	ENSG00000041357	PSMA4	proteasome subunit alpha 4	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+PSMB1	ENSG00000008018	PSMB1	proteasome subunit beta 1	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+PSMC1	ENSG00000100764	PSMC1	proteasome 26S subunit, ATPase 1	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+PSMC2	ENSG00000161057	PSMC2	proteasome 26S subunit, ATPase 2	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+PSMD4	ENSG00000159352	PSMD4	proteasome 26S subunit, non-ATPase 4	no	no	no	YES	YES	no	no	FALSE	TRUE	FALSE
+PSPC1	ENSG00000121390	PSPC1	paraspeckle component 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+PTBP1	ENSG00000011304	PTBP1	polypyrimidine tract binding protein 1	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+PTBP2	ENSG00000117569	PTBP2	polypyrimidine tract binding protein 2	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+PTBP3	ENSG00000119314	PTBP3	polypyrimidine tract binding protein 3	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+PTCD1	ENSG00000106246	PTCD1	pentatricopeptide repeat domain 1	YES	no	no	YES	no	no	YES	FALSE	FALSE	FALSE
+PTCD2	ENSG00000049883	PTCD2	pentatricopeptide repeat domain 2	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+PTCD3	ENSG00000132300	PTCD3	pentatricopeptide repeat domain 3	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+PTDSS1	ENSG00000156471	PTDSS1	phosphatidylserine synthase 1	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+PTMA	ENSG00000187514	PTMA	prothymosin, alpha	no	no	no	no	no	YES	no	FALSE	FALSE	FALSE
+PTPN1	ENSG00000196396	PTPN1	protein tyrosine phosphatase, non-receptor type 1	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+PTPN12	ENSG00000127947	PTPN12	protein tyrosine phosphatase, non-receptor type 12	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+PTRF	ENSG00000177469	PTRF	polymerase I and transcript release factor	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+PTRH1	ENSG00000187024	PTRH1	peptidyl-tRNA hydrolase 1 homolog	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+PUF60	ENSG00000274081;ENSG00000179950	PUF60	poly(U) binding splicing factor 60	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+PUM1	ENSG00000134644	PUM1	pumilio RNA binding family member 1	YES	no	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+PUM2	ENSG00000055917	PUM2	pumilio RNA binding family member 2	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+PUM3	ENSG00000080608	PUM3	pumilio RNA binding family member 3	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+PURA	ENSG00000185129	PURA	purine rich element binding protein A	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+PURB	ENSG00000146676	PURB	purine rich element binding protein B	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+PURG	ENSG00000172733	PURG	purine rich element binding protein G	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+PUS1	ENSG00000177192	PUS1	pseudouridylate synthase 1	YES	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+PUS7	ENSG00000091127	PUS7	pseudouridylate synthase 7 (putative)	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+PWP2	ENSG00000241945	PWP2	PWP2 periodic tryptophan protein homolog (yeast)	YES	YES	no	YES	YES	YES	no	FALSE	FALSE	FALSE
+PYM1	ENSG00000170473	PYM1	PYM homolog 1, exon junction complex associated factor	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+QKI	ENSG00000112531	QKI	QKI, KH domain containing RNA binding	YES	YES	no	no	no	YES	YES	FALSE	FALSE	FALSE
+R3HDM1	ENSG00000048991	R3HDM1	R3H domain containing 1	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+R3HDM2	ENSG00000179912	R3HDM2	R3H domain containing 2	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+RACK1	ENSG00000204628	RACK1	receptor for activated C kinase 1	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+RALY	ENSG00000125970	RALY	RALY heterogeneous nuclear ribonucleoprotein	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RALYL	ENSG00000184672	RALYL	RALY RNA binding protein-like	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RAN	ENSG00000132341	RAN	RAN, member RAS oncogene family	YES	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RANBP2	ENSG00000153201	RANBP2	RAN binding protein 2	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+RARS2	ENSG00000146282	RARS2	arginyl-tRNA synthetase 2, mitochondrial	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+RAVER1	ENSG00000161847	RAVER1	ribonucleoprotein, PTB binding 1	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RAVER2	ENSG00000162437	RAVER2	ribonucleoprotein, PTB binding 2	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RBBP5	ENSG00000117222	RBBP5	RB binding protein 5, histone lysine methyltransferase complex subunit	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+RBBP6	ENSG00000122257	RBBP6	RB binding protein 6, ubiquitin ligase	YES	no	no	no	no	YES	YES	TRUE	FALSE	FALSE
+RBFOX2	ENSG00000100320;ENSG00000277564	RBFOX2	RNA binding protein, fox-1 homolog 2	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RBM10	ENSG00000182872	RBM10	RNA binding motif protein 10	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM12	ENSG00000244462	RBM12	RNA binding motif protein 12	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+RBM12B	ENSG00000183808	RBM12B	RNA binding motif protein 12B	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM14	ENSG00000239306	RBM14	RNA binding motif protein 14	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM14-RBM4	ENSG00000248643	RBM14-RBM4	RBM14-RBM4 readthrough	no	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+RBM15	ENSG00000162775	RBM15	RNA binding motif protein 15	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM15B	ENSG00000259956	RBM15B	RNA binding motif protein 15B	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+RBM19	ENSG00000122965	RBM19	RNA binding motif protein 19	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM20	ENSG00000203867	RBM20	RNA binding motif protein 20	no	no	no	no	no	YES	no	FALSE	FALSE	FALSE
+RBM22	ENSG00000086589	RBM22	RNA binding motif protein 22	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM23	ENSG00000100461	RBM23	RNA binding motif protein 23	no	no	YES	no	no	no	no	FALSE	FALSE	FALSE
+RBM24	ENSG00000112183	RBM24	RNA binding motif protein 24	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+RBM25	ENSG00000119707	RBM25	RNA binding motif protein 25	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RBM26	ENSG00000139746	RBM26	RNA binding motif protein 26	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RBM27	ENSG00000091009	RBM27	RNA binding motif protein 27	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RBM28	ENSG00000106344	RBM28	RNA binding motif protein 28	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM3	ENSG00000102317	RBM3	RNA binding motif (RNP1, RRM) protein 3	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM33	ENSG00000184863	RBM33	RNA binding motif protein 33	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RBM34	ENSG00000188739	RBM34	RNA binding motif protein 34	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RBM38	ENSG00000132819	RBM38	RNA binding motif protein 38	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RBM39	ENSG00000131051	RBM39	RNA binding motif protein 39	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM4	ENSG00000173933	RBM4	RNA binding motif protein 4	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+RBM42	ENSG00000126254	RBM42	RNA binding motif protein 42	no	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RBM45	ENSG00000155636	RBM45	RNA binding motif protein 45	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM47	ENSG00000163694	RBM47	RNA binding motif protein 47	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBM4B	ENSG00000173914	RBM4B	RNA binding motif protein 4B	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RBM5	ENSG00000003756	RBM5	RNA binding motif protein 5	YES	YES	no	no	YES	YES	YES	FALSE	FALSE	FALSE
+RBM6	ENSG00000004534	RBM6	RNA binding motif protein 6	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RBM7	ENSG00000076053	RBM7	RNA binding motif protein 7	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RBM8A	ENSG00000265241	RBM8A	RNA binding motif protein 8A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+RBMS1	ENSG00000153250	RBMS1	RNA binding motif single stranded interacting protein 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RBMS2	ENSG00000076067	RBMS2	RNA binding motif single stranded interacting protein 2	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+RBMS3	ENSG00000144642	RBMS3	RNA binding motif single stranded interacting protein 3	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+RBMX	ENSG00000147274	RBMX	RNA binding motif protein, X-linked	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RBMX2	ENSG00000134597	RBMX2	RNA binding motif protein, X-linked 2	no	no	no	YES	no	no	YES	FALSE	FALSE	FALSE
+RBMXL1	ENSG00000213516	RBMXL1	RNA binding motif protein, X-linked like 1	no	YES	no	no	YES	YES	YES	FALSE	FALSE	FALSE
+RBPMS	ENSG00000157110	RBPMS	RNA binding protein with multiple splicing	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RC3H1	ENSG00000135870	RC3H1	ring finger and CCCH-type domains 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RC3H2	ENSG00000056586	RC3H2	ring finger and CCCH-type domains 2	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+RCC1L	ENSG00000274523	RCC1L	RCC1 like	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+RCC2	ENSG00000281540;ENSG00000179051	RCC2	regulator of chromosome condensation 2	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RDX	ENSG00000137710	RDX	radixin	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+REPIN1	ENSG00000214022	REPIN1	replication initiator 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+REXO4	ENSG00000280706;ENSG00000148300	REXO4	REX4 homolog, 3'-5' exonuclease	YES	no	no	YES	no	no	YES	FALSE	FALSE	FALSE
+RIDA	ENSG00000132541	RIDA	reactive intermediate imine deaminase A homolog	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RIF1	ENSG00000080345	RIF1	replication timing regulatory factor 1	no	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+RIMS1	ENSG00000079841	RIMS1	regulating synaptic membrane exocytosis 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RNF10	ENSG00000022840	RNF10	ring finger protein 10	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+RNH1	ENSG00000023191	RNH1	ribonuclease/angiogenin inhibitor 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+RNPS1	ENSG00000205937	RNPS1	RNA binding protein with serine rich domain 1	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ROCK2	ENSG00000134318	ROCK2	Rho associated coiled-coil containing protein kinase 2	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+ROR2	ENSG00000169071	ROR2	receptor tyrosine kinase like orphan receptor 2	no	no	YES	no	no	no	no	TRUE	FALSE	FALSE
+RP1-37E16.12	ENSG00000100101	RP1-37E16.12		no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RP9	ENSG00000164610	RP9	retinitis pigmentosa 9 (autosomal dominant)	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+RPF1	ENSG00000117133	RPF1	ribosome production factor 1 homolog	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+RPF2	ENSG00000197498	RPF2	ribosome production factor 2 homolog	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+RPGR	ENSG00000156313	RPGR	retinitis pigmentosa GTPase regulator	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RPL10	ENSG00000147403	RPL10	ribosomal protein L10	YES	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPL10A	ENSG00000198755	RPL10A	ribosomal protein L10a	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL11	ENSG00000142676	RPL11	ribosomal protein L11	YES	YES	no	no	no	no	no	FALSE	TRUE	FALSE
+RPL12	ENSG00000197958	RPL12	ribosomal protein L12	YES	YES	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPL13	ENSG00000167526	RPL13	ribosomal protein L13	no	YES	no	YES	YES	YES	YES	FALSE	TRUE	FALSE
+RPL13A	ENSG00000142541	RPL13A	ribosomal protein L13a	no	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPL14	ENSG00000188846	RPL14	ribosomal protein L14	YES	YES	no	YES	YES	YES	no	FALSE	TRUE	FALSE
+RPL15	ENSG00000174748	RPL15	ribosomal protein L15	YES	YES	no	YES	YES	YES	no	FALSE	TRUE	FALSE
+RPL17	ENSG00000265681	RPL17	ribosomal protein L17	YES	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPL17-C18orf32	ENSG00000215472	RPL17-C18orf32	RPL17-C18orf32 readthrough	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RPL18	ENSG00000063177	RPL18	ribosomal protein L18	no	YES	no	no	no	YES	no	FALSE	TRUE	FALSE
+RPL18A	ENSG00000105640	RPL18A	ribosomal protein L18a	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL19	ENSG00000108298	RPL19	ribosomal protein L19	no	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL21	ENSG00000122026	RPL21	ribosomal protein L21	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL22	ENSG00000116251	RPL22	ribosomal protein L22	YES	YES	no	YES	no	YES	YES	FALSE	TRUE	FALSE
+RPL23	ENSG00000125691	RPL23	ribosomal protein L23	no	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL23A	ENSG00000198242	RPL23A	ribosomal protein L23a	YES	YES	no	YES	YES	YES	no	FALSE	TRUE	FALSE
+RPL24	ENSG00000114391	RPL24	ribosomal protein L24	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL26	ENSG00000161970	RPL26	ribosomal protein L26	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+RPL27	ENSG00000131469	RPL27	ribosomal protein L27	YES	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPL27A	ENSG00000166441	RPL27A	ribosomal protein L27a	YES	YES	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPL28	ENSG00000108107	RPL28	ribosomal protein L28	no	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL29	ENSG00000162244	RPL29	ribosomal protein L29	YES	YES	no	YES	no	YES	YES	FALSE	TRUE	FALSE
+RPL3	ENSG00000100316	RPL3	ribosomal protein L3	YES	YES	no	YES	YES	YES	no	FALSE	TRUE	FALSE
+RPL30	ENSG00000156482	RPL30	ribosomal protein L30	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL31	ENSG00000071082	RPL31	ribosomal protein L31	no	YES	no	YES	YES	YES	YES	FALSE	TRUE	FALSE
+RPL32	ENSG00000144713	RPL32	ribosomal protein L32	no	no	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL35	ENSG00000136942	RPL35	ribosomal protein L35	no	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPL35A	ENSG00000182899	RPL35A	ribosomal protein L35a	YES	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPL36	ENSG00000130255	RPL36	ribosomal protein L36	no	no	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPL36A	ENSG00000241343	RPL36A	ribosomal protein L36a	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+RPL37	ENSG00000145592	RPL37	ribosomal protein L37	no	no	no	no	no	no	YES	FALSE	TRUE	FALSE
+RPL37A	ENSG00000197756	RPL37A	ribosomal protein L37a	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+RPL38	ENSG00000172809	RPL38	ribosomal protein L38	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPL4	ENSG00000174444	RPL4	ribosomal protein L4	YES	no	no	YES	YES	YES	YES	FALSE	TRUE	FALSE
+RPL5	ENSG00000122406	RPL5	ribosomal protein L5	YES	YES	no	YES	YES	YES	YES	FALSE	TRUE	FALSE
+RPL6	ENSG00000089009	RPL6	ribosomal protein L6	no	YES	no	YES	YES	YES	YES	FALSE	TRUE	FALSE
+RPL7	ENSG00000147604	RPL7	ribosomal protein L7	YES	YES	no	YES	no	YES	no	FALSE	TRUE	FALSE
+RPL7A	ENSG00000280858;ENSG00000148303	RPL7A	ribosomal protein L7a	YES	YES	no	YES	YES	YES	no	FALSE	TRUE	FALSE
+RPL7L1	ENSG00000146223	RPL7L1	ribosomal protein L7 like 1	YES	YES	no	YES	no	YES	no	FALSE	FALSE	FALSE
+RPL8	ENSG00000161016	RPL8	ribosomal protein L8	YES	YES	no	YES	no	YES	YES	FALSE	TRUE	FALSE
+RPLP0	ENSG00000089157	RPLP0	ribosomal protein lateral stalk subunit P0	YES	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPLP2	ENSG00000177600	RPLP2	ribosomal protein lateral stalk subunit P2	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPN1	ENSG00000163902	RPN1	ribophorin I	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+RPP25	ENSG00000178718	RPP25	ribonuclease P/MRP subunit p25	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+RPP25L	ENSG00000164967	RPP25L	ribonuclease P/MRP subunit p25 like	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+RPP30	ENSG00000148688	RPP30	ribonuclease P/MRP subunit p30	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+RPRD1B	ENSG00000101413	RPRD1B	regulation of nuclear pre-mRNA domain containing 1B	no	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+RPRD2	ENSG00000163125	RPRD2	regulation of nuclear pre-mRNA domain containing 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+RPS10	ENSG00000124614	RPS10	ribosomal protein S10	YES	YES	no	YES	YES	no	YES	FALSE	TRUE	FALSE
+RPS11	ENSG00000142534	RPS11	ribosomal protein S11	no	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPS12	ENSG00000112306	RPS12	ribosomal protein S12	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPS13	ENSG00000110700	RPS13	ribosomal protein S13	YES	YES	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPS14	ENSG00000164587	RPS14	ribosomal protein S14	YES	YES	no	no	YES	no	YES	FALSE	TRUE	FALSE
+RPS15	ENSG00000115268	RPS15	ribosomal protein S15	YES	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPS15A	ENSG00000134419	RPS15A	ribosomal protein S15a	YES	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPS16	ENSG00000105193	RPS16	ribosomal protein S16	YES	YES	no	no	YES	YES	no	FALSE	TRUE	FALSE
+RPS17	ENSG00000278229;ENSG00000182774	RPS17	ribosomal protein S17	YES	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPS18	ENSG00000223367;ENSG00000096150;ENSG00000235650;ENSG00000226225;ENSG00000227794;ENSG00000231500	RPS18	ribosomal protein S18	YES	no	no	YES	no	no	YES	FALSE	TRUE	FALSE
+RPS19	ENSG00000105372	RPS19	ribosomal protein S19	YES	YES	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPS19BP1	ENSG00000187051	RPS19BP1	ribosomal protein S19 binding protein 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RPS2	ENSG00000140988	RPS2	ribosomal protein S2	YES	YES	no	YES	YES	YES	no	FALSE	TRUE	FALSE
+RPS20	ENSG00000008988	RPS20	ribosomal protein S20	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPS21	ENSG00000171858	RPS21	ribosomal protein S21	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPS23	ENSG00000186468	RPS23	ribosomal protein S23	YES	YES	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPS24	ENSG00000138326	RPS24	ribosomal protein S24	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPS25	ENSG00000280831;ENSG00000118181	RPS25	ribosomal protein S25	YES	YES	no	no	no	no	no	FALSE	TRUE	FALSE
+RPS26	ENSG00000197728	RPS26	ribosomal protein S26	YES	YES	no	YES	YES	no	YES	FALSE	TRUE	FALSE
+RPS27	ENSG00000177954	RPS27	ribosomal protein S27	YES	YES	no	no	YES	no	no	FALSE	TRUE	FALSE
+RPS27A	ENSG00000143947	RPS27A	ribosomal protein S27a	YES	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPS27L	ENSG00000185088	RPS27L	ribosomal protein S27 like	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+RPS28	ENSG00000233927	RPS28	ribosomal protein S28	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPS3	ENSG00000149273	RPS3	ribosomal protein S3	YES	YES	no	YES	YES	no	YES	TRUE	TRUE	TRUE
+RPS3A	ENSG00000145425	RPS3A	ribosomal protein S3A	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPS4X	ENSG00000198034	RPS4X	ribosomal protein S4, X-linked	YES	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPS5	ENSG00000083845	RPS5	ribosomal protein S5	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPS6	ENSG00000137154	RPS6	ribosomal protein S6	no	YES	no	YES	YES	YES	no	FALSE	TRUE	FALSE
+RPS7	ENSG00000171863	RPS7	ribosomal protein S7	YES	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+RPS8	ENSG00000142937	RPS8	ribosomal protein S8	YES	YES	no	YES	YES	YES	YES	FALSE	TRUE	FALSE
+RPS9	ENSG00000170889	RPS9	ribosomal protein S9	no	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+RPSA	ENSG00000168028	RPSA	ribosomal protein SA	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+RPUSD2	ENSG00000166133	RPUSD2	RNA pseudouridylate synthase domain containing 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RPUSD3	ENSG00000156990	RPUSD3	RNA pseudouridylate synthase domain containing 3	YES	no	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+RPUSD4	ENSG00000165526	RPUSD4	RNA pseudouridylate synthase domain containing 4	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+RRBP1	ENSG00000125844	RRBP1	ribosome binding protein 1	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+RRP1	ENSG00000160214	RRP1	ribosomal RNA processing 1	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+RRP12	ENSG00000052749	RRP12	ribosomal RNA processing 12 homolog	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RRP15	ENSG00000067533	RRP15	ribosomal RNA processing 15 homolog	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+RRP1B	ENSG00000160208	RRP1B	ribosomal RNA processing 1B	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RRP36	ENSG00000124541	RRP36	ribosomal RNA processing 36	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RRP7A	ENSG00000189306	RRP7A	ribosomal RNA processing 7 homolog A	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RRP8	ENSG00000132275	RRP8	ribosomal RNA processing 8, methyltransferase, homolog (yeast)	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RRP9	ENSG00000114767	RRP9	ribosomal RNA processing 9, small subunit (SSU) processome component, homolog (yeast)	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RRS1	ENSG00000179041	RRS1	ribosome biogenesis regulator homolog	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+RSL1D1	ENSG00000171490	RSL1D1	ribosomal L1 domain containing 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+RSL24D1	ENSG00000137876	RSL24D1	ribosomal L24 domain containing 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+RSRC2	ENSG00000111011	RSRC2	arginine and serine rich coiled-coil 2	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+RTCA	ENSG00000137996	RTCA	RNA 3'-terminal phosphate cyclase	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+RTCB	ENSG00000100220	RTCB	RNA 2',3'-cyclic phosphate and 5'-OH ligase	YES	YES	no	YES	YES	no	YES	TRUE	FALSE	FALSE
+RTF1	ENSG00000137815	RTF1	RTF1 homolog, Paf1/RNA polymerase II complex component	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+RTN4	ENSG00000115310	RTN4	reticulon 4	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+RWDD4	ENSG00000182552	RWDD4	RWD domain containing 4	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+S100A16	ENSG00000188643	S100A16	S100 calcium binding protein A16	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+S100A4	ENSG00000196154	S100A4	S100 calcium binding protein A4	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+S100A9	ENSG00000163220	S100A9	S100 calcium binding protein A9	no	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+SAFB	ENSG00000160633	SAFB	scaffold attachment factor B	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SAFB2	ENSG00000130254	SAFB2	scaffold attachment factor B2	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SAMD4A	ENSG00000020577	SAMD4A	sterile alpha motif domain containing 4A	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SAMD4B	ENSG00000179134	SAMD4B	sterile alpha motif domain containing 4B	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SAMSN1	ENSG00000155307	SAMSN1	SAM domain, SH3 domain and nuclear localization signals 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SAP18	ENSG00000150459	SAP18	Sin3A associated protein 18	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SAP30BP	ENSG00000161526	SAP30BP	SAP30 binding protein	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SARNP	ENSG00000205323	SARNP	SAP domain containing ribonucleoprotein	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SARS	ENSG00000031698	SARS	seryl-tRNA synthetase	no	YES	no	no	YES	no	no	TRUE	TRUE	TRUE
+SARS2	ENSG00000283104;ENSG00000104835	SARS2	seryl-tRNA synthetase 2, mitochondrial	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+SART1	ENSG00000175467	SART1	squamous cell carcinoma antigen recognized by T-cells 1	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+SART3	ENSG00000075856	SART3	squamous cell carcinoma antigen recognized by T-cells 3	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SBDS	ENSG00000126524	SBDS	SBDS ribosome assembly guanine nucleotide exchange factor	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SCAF11	ENSG00000139218	SCAF11	SR-related CTD associated factor 11	YES	YES	no	YES	no	YES	no	FALSE	FALSE	FALSE
+SCAF4	ENSG00000156304	SCAF4	SR-related CTD associated factor 4	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+SCAF8	ENSG00000213079	SCAF8	SR-related CTD associated factor 8	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SCAMP2	ENSG00000140497	SCAMP2	secretory carrier membrane protein 2	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SCAMP3	ENSG00000116521	SCAMP3	secretory carrier membrane protein 3	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SCG3	ENSG00000104112	SCG3	secretogranin III	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SDAD1	ENSG00000198301	SDAD1	SDA1 domain containing 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SEC23IP	ENSG00000107651	SEC23IP	SEC23 interacting protein	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SEC31A	ENSG00000138674	SEC31A	SEC31 homolog A, COPII coat complex component	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SEC61A1	ENSG00000058262	SEC61A1	Sec61 translocon alpha 1 subunit	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SEC61B	ENSG00000106803	SEC61B	Sec61 translocon beta subunit	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+SEC62	ENSG00000008952	SEC62	SEC62 homolog, preprotein translocation factor	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SEC63	ENSG00000025796	SEC63	SEC63 homolog, protein translocation regulator	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SECISBP2	ENSG00000187742	SECISBP2	SECIS binding protein 2	no	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+SECISBP2L	ENSG00000138593	SECISBP2L	SECIS binding protein 2 like	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SELENOH	ENSG00000211450	SELENOH	selenoprotein H	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+SEPT11	ENSG00000138758	SEPT11	septin 11	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SEPT7	ENSG00000122545	SEPT7	septin 7	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SERBP1	ENSG00000142864	SERBP1	SERPINE1 mRNA binding protein 1	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+SERPINH1	ENSG00000149257	SERPINH1	serpin family H member 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SF1	ENSG00000168066	SF1	splicing factor 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SF3A1	ENSG00000099995	SF3A1	splicing factor 3a subunit 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SF3A2	ENSG00000104897	SF3A2	splicing factor 3a subunit 2	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SF3A3	ENSG00000183431	SF3A3	splicing factor 3a subunit 3	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SF3B1	ENSG00000115524	SF3B1	splicing factor 3b subunit 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SF3B2	ENSG00000087365	SF3B2	splicing factor 3b subunit 2	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SF3B4	ENSG00000143368	SF3B4	splicing factor 3b subunit 4	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SF3B6	ENSG00000115128	SF3B6	splicing factor 3b subunit 6	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SFPQ	ENSG00000116560	SFPQ	splicing factor proline and glutamine rich	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SKIV2L2	ENSG00000039123	SKIV2L2	Ski2 like RNA helicase 2	no	YES	no	YES	no	no	YES	TRUE	FALSE	FALSE
+SLBP	ENSG00000163950	SLBP	stem-loop binding protein	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SLC16A3	ENSG00000141526	SLC16A3	solute carrier family 16 member 3	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+SLC25A11	ENSG00000108528	SLC25A11	solute carrier family 25 member 11	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+SLC25A48	ENSG00000145832	SLC25A48	solute carrier family 25 member 48	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SLC25A5	ENSG00000005022	SLC25A5	solute carrier family 25 member 5	no	YES	no	YES	no	no	no	FALSE	TRUE	FALSE
+SLC3A2	ENSG00000168003	SLC3A2	solute carrier family 3 member 2	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+SLIRP	ENSG00000119705	SLIRP	SRA stem-loop interacting RNA binding protein	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+SLTM	ENSG00000137776	SLTM	SAFB like transcription modulator	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SMC1A	ENSG00000072501	SMC1A	structural maintenance of chromosomes 1A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+SMG1	ENSG00000157106	SMG1	SMG1, nonsense mediated mRNA decay associated PI3K related kinase	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+SMNDC1	ENSG00000119953	SMNDC1	survival motor neuron domain containing 1	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SND1	ENSG00000197157	SND1	staphylococcal nuclease and tudor domain containing 1	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+SNIP1	ENSG00000163877	SNIP1	Smad nuclear interacting protein 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SNRNP200	ENSG00000144028	SNRNP200	small nuclear ribonucleoprotein U5 subunit 200	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+SNRNP40	ENSG00000060688	SNRNP40	small nuclear ribonucleoprotein U5 subunit 40	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SNRNP70	ENSG00000104852	SNRNP70	small nuclear ribonucleoprotein U1 subunit 70	YES	YES	YES	YES	no	no	no	FALSE	FALSE	FALSE
+SNRPA	ENSG00000077312	SNRPA	small nuclear ribonucleoprotein polypeptide A	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SNRPA1	ENSG00000131876	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SNRPB	ENSG00000125835	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+SNRPC	ENSG00000124562	SNRPC	small nuclear ribonucleoprotein polypeptide C	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+SNRPD1	ENSG00000167088	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide	YES	no	no	YES	YES	YES	no	FALSE	FALSE	FALSE
+SNRPD2	ENSG00000125743	SNRPD2	small nuclear ribonucleoprotein D2 polypeptide	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+SNRPD3	ENSG00000100028	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide	YES	no	no	no	YES	YES	no	FALSE	FALSE	FALSE
+SNRPF	ENSG00000139343	SNRPF	small nuclear ribonucleoprotein polypeptide F	no	no	no	no	no	YES	no	FALSE	FALSE	FALSE
+SNRPG	ENSG00000143977	SNRPG	small nuclear ribonucleoprotein polypeptide G	no	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SNTB1	ENSG00000172164	SNTB1	syntrophin beta 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SNTB2	ENSG00000168807	SNTB2	syntrophin beta 2	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+SNU13	ENSG00000100138	SNU13	SNU13 homolog, small nuclear ribonucleoprotein (U4/U6.U5)	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SNW1	ENSG00000100603	SNW1	SNW domain containing 1	YES	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+SON	ENSG00000159140	SON	SON DNA binding protein	YES	YES	no	YES	no	YES	no	FALSE	FALSE	FALSE
+SORBS1	ENSG00000095637	SORBS1	sorbin and SH3 domain containing 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SORBS2	ENSG00000154556	SORBS2	sorbin and SH3 domain containing 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SPAG9	ENSG00000008294	SPAG9	sperm associated antigen 9	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SPATS2	ENSG00000123352	SPATS2	spermatogenesis associated serine rich 2	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SPATS2L	ENSG00000196141	SPATS2L	spermatogenesis associated serine rich 2 like	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SPEN	ENSG00000065526	SPEN	spen family transcriptional repressor	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SPOUT1	ENSG00000198917	SPOUT1	SPOUT domain containing methyltransferase 1	YES	YES	no	YES	no	YES	no	FALSE	FALSE	FALSE
+SPTAN1	ENSG00000197694	SPTAN1	spectrin alpha, non-erythrocytic 1	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+SPTBN1	ENSG00000115306	SPTBN1	spectrin beta, non-erythrocytic 1	YES	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+SPTBN5	ENSG00000137877	SPTBN5	spectrin beta, non-erythrocytic 5	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SRBD1	ENSG00000068784	SRBD1	S1 RNA binding domain 1	no	no	no	no	YES	YES	no	FALSE	FALSE	FALSE
+SREK1	ENSG00000153914	SREK1	splicing regulatory glutamic acid and lysine rich protein 1	YES	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+SRFBP1	ENSG00000151304	SRFBP1	serum response factor binding protein 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SRP14	ENSG00000140319	SRP14	signal recognition particle 14	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SRP19	ENSG00000153037	SRP19	signal recognition particle 19	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SRP54	ENSG00000100883	SRP54	signal recognition particle 54	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+SRP68	ENSG00000167881	SRP68	signal recognition particle 68	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SRP72	ENSG00000174780	SRP72	signal recognition particle 72	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+SRPK1	ENSG00000096063	SRPK1	SRSF protein kinase 1	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+SRPK2	ENSG00000135250	SRPK2	SRSF protein kinase 2	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+SRPRA	ENSG00000182934	SRPRA	SRP receptor alpha subunit	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+SRPRB	ENSG00000144867	SRPRB	SRP receptor beta subunit	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SRRM1	ENSG00000133226	SRRM1	serine and arginine repetitive matrix 1	YES	YES	no	no	no	YES	no	FALSE	FALSE	FALSE
+SRRM2	ENSG00000167978	SRRM2	serine/arginine repetitive matrix 2	YES	YES	no	YES	YES	YES	no	FALSE	FALSE	FALSE
+SRRT	ENSG00000087087	SRRT	serrate, RNA effector molecule	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SRSF1	ENSG00000136450	SRSF1	serine and arginine rich splicing factor 1	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SRSF10	ENSG00000188529	SRSF10	serine and arginine rich splicing factor 10	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SRSF11	ENSG00000116754	SRSF11	serine and arginine rich splicing factor 11	YES	no	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+SRSF12	ENSG00000154548	SRSF12	serine and arginine rich splicing factor 12	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+SRSF2	ENSG00000161547	SRSF2	serine and arginine rich splicing factor 2	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SRSF3	ENSG00000112081	SRSF3	serine and arginine rich splicing factor 3	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SRSF4	ENSG00000116350	SRSF4	serine and arginine rich splicing factor 4	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SRSF5	ENSG00000100650	SRSF5	serine and arginine rich splicing factor 5	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SRSF6	ENSG00000124193	SRSF6	serine and arginine rich splicing factor 6	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SRSF7	ENSG00000115875	SRSF7	serine and arginine rich splicing factor 7	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SRSF8	ENSG00000263465	SRSF8	serine and arginine rich splicing factor 8	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+SRSF9	ENSG00000111786	SRSF9	serine and arginine rich splicing factor 9	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SSB	ENSG00000138385	SSB	Sjogren syndrome antigen B	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SSBP1	ENSG00000262771;ENSG00000106028	SSBP1	single stranded DNA binding protein 1	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+SSR1	ENSG00000124783	SSR1	signal sequence receptor subunit 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+SSRP1	ENSG00000149136	SSRP1	structure specific recognition protein 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ST13	ENSG00000100380	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein)	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+STAU1	ENSG00000124214	STAU1	staufen double-stranded RNA binding protein 1	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+STAU2	ENSG00000040341	STAU2	staufen double-stranded RNA binding protein 2	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+STIP1	ENSG00000168439	STIP1	stress induced phosphoprotein 1	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+STK10	ENSG00000072786	STK10	serine/threonine kinase 10	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+STRAP	ENSG00000023734	STRAP	serine/threonine kinase receptor associated protein	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+STRBP	ENSG00000165209	STRBP	spermatid perinuclear RNA binding protein	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+STX18	ENSG00000168818	STX18	syntaxin 18	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+STX7	ENSG00000079950	STX7	syntaxin 7	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+STXBP1	ENSG00000136854	STXBP1	syntaxin binding protein 1	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+SUB1	ENSG00000113387	SUB1	SUB1 homolog, transcriptional regulator	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+SUCLG1	ENSG00000163541	SUCLG1	succinate-CoA ligase alpha subunit	no	no	no	YES	YES	no	no	TRUE	TRUE	TRUE
+SUCO	ENSG00000094975	SUCO	SUN domain containing ossification factor	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+SUGP1	ENSG00000105705	SUGP1	SURP and G-patch domain containing 1	YES	YES	no	no	no	YES	YES	FALSE	FALSE	FALSE
+SUGP2	ENSG00000064607	SUGP2	SURP and G-patch domain containing 2	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SUMO1	ENSG00000116030	SUMO1	small ubiquitin-like modifier 1	no	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+SUMO2	ENSG00000188612	SUMO2	small ubiquitin-like modifier 2	YES	YES	no	no	no	no	YES	FALSE	FALSE	FALSE
+SUPT16H	ENSG00000092201	SUPT16H	SPT16 homolog, facilitates chromatin remodeling subunit	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SUPT5H	ENSG00000196235	SUPT5H	SPT5 homolog, DSIF elongation factor subunit	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SUPT6H	ENSG00000109111	SUPT6H	SPT6 homolog, histone chaperone	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SUPV3L1	ENSG00000156502	SUPV3L1	Suv3 like RNA helicase	YES	YES	no	YES	no	no	YES	TRUE	FALSE	FALSE
+SURF6	ENSG00000281309;ENSG00000148296	SURF6	surfeit 6	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SYF2	ENSG00000117614	SYF2	SYF2 pre-mRNA splicing factor	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+SYNCRIP	ENSG00000135316	SYNCRIP	synaptotagmin binding cytoplasmic RNA interacting protein	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+SYNE1	ENSG00000131018	SYNE1	spectrin repeat containing nuclear envelope protein 1	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+SYNE2	ENSG00000054654	SYNE2	spectrin repeat containing nuclear envelope protein 2	no	no	no	no	no	YES	no	FALSE	FALSE	FALSE
+TACO1	ENSG00000136463	TACO1	translational activator of cytochrome c oxidase I	no	YES	no	no	YES	no	no	FALSE	TRUE	FALSE
+TAF15	ENSG00000270647;ENSG00000276833	TAF15	TATA-box binding protein associated factor 15	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+TAGLN	ENSG00000149591	TAGLN	transgelin	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TAGLN2	ENSG00000158710	TAGLN2	transgelin 2	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+TARDBP	ENSG00000120948	TARDBP	TAR DNA binding protein	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+TARS	ENSG00000113407	TARS	threonyl-tRNA synthetase	no	no	no	no	YES	no	no	TRUE	FALSE	FALSE
+TBCA	ENSG00000171530	TBCA	tubulin folding cofactor A	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+TBL2	ENSG00000106638	TBL2	transducin beta like 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TBL3	ENSG00000183751	TBL3	transducin beta like 3	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TBRG4	ENSG00000136270	TBRG4	transforming growth factor beta regulator 4	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+TCEA1	ENSG00000187735	TCEA1	transcription elongation factor A1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TCEB3	ENSG00000011007	TCEB3	transcription elongation factor B subunit 3	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TCERG1	ENSG00000113649	TCERG1	transcription elongation regulator 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TCF20	ENSG00000100207	TCF20	transcription factor 20	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TCOF1	ENSG00000070814	TCOF1	treacle ribosome biogenesis factor 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TCP1	ENSG00000120438	TCP1	t-complex 1	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TDRD3	ENSG00000083544	TDRD3	tudor domain containing 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TECR	ENSG00000099797	TECR	trans-2,3-enoyl-CoA reductase	no	YES	no	no	no	no	no	TRUE	TRUE	TRUE
+TEFM	ENSG00000172171	TEFM	transcription elongation factor, mitochondrial	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TES	ENSG00000135269	TES	testin LIM domain protein	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+TFAM	ENSG00000108064	TFAM	transcription factor A, mitochondrial	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TFB1M	ENSG00000029639	TFB1M	transcription factor B1, mitochondrial	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TFB2M	ENSG00000162851	TFB2M	transcription factor B2, mitochondrial	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+TFRC	ENSG00000072274	TFRC	transferrin receptor	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+THRAP3	ENSG00000054118	THRAP3	thyroid hormone receptor associated protein 3	YES	YES	no	YES	no	YES	YES	FALSE	TRUE	FALSE
+THUMPD1	ENSG00000066654	THUMPD1	THUMP domain containing 1	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TIA1	ENSG00000116001	TIA1	TIA1 cytotoxic granule associated RNA binding protein	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+TIAL1	ENSG00000151923	TIAL1	TIA1 cytotoxic granule associated RNA binding protein like 1	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+TKT	ENSG00000163931	TKT	transketolase	no	no	no	no	YES	no	no	TRUE	TRUE	TRUE
+TLN1	ENSG00000137076	TLN1	talin 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+TMA16	ENSG00000198498	TMA16	translation machinery associated 16 homolog	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+TMA7	ENSG00000232112	TMA7	translation machinery associated 7 homolog	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TMED10	ENSG00000170348	TMED10	transmembrane p24 trafficking protein 10	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+TMEM214	ENSG00000119777	TMEM214	transmembrane protein 214	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+TMEM263	ENSG00000151135	TMEM263	transmembrane protein 263	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TMPO	ENSG00000120802	TMPO	thymopoietin	no	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+TMSB4X	ENSG00000205542	TMSB4X	thymosin beta 4, X-linked	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+TNKS1BP1	ENSG00000149115	TNKS1BP1	tankyrase 1 binding protein 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TNPO1	ENSG00000083312	TNPO1	transportin 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TNRC6A	ENSG00000090905	TNRC6A	trinucleotide repeat containing 6A	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+TNRC6B	ENSG00000100354	TNRC6B	trinucleotide repeat containing 6B	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TNS1	ENSG00000079308	TNS1	tensin 1	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+TOP1	ENSG00000198900	TOP1	topoisomerase (DNA) I	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+TOP2A	ENSG00000131747	TOP2A	topoisomerase (DNA) II alpha	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+TOP3B	ENSG00000100038	TOP3B	topoisomerase (DNA) III beta	YES	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+TPD52L2	ENSG00000101150	TPD52L2	tumor protein D52 like 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TPR	ENSG00000047410	TPR	translocated promoter region, nuclear basket protein	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+TPT1	ENSG00000133112	TPT1	tumor protein, translationally-controlled 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TPX2	ENSG00000088325	TPX2	TPX2, microtubule nucleation factor	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TRA2A	ENSG00000164548	TRA2A	transformer 2 alpha homolog	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+TRA2B	ENSG00000136527	TRA2B	transformer 2 beta homolog (Drosophila)	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+TRAP1	ENSG00000126602	TRAP1	TNF receptor associated protein 1	no	no	no	YES	no	no	no	FALSE	TRUE	FALSE
+TRIM25	ENSG00000121060	TRIM25	tripartite motif containing 25	no	no	no	YES	YES	no	no	TRUE	FALSE	FALSE
+TRIM28	ENSG00000130726	TRIM28	tripartite motif containing 28	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+TRIM56	ENSG00000169871	TRIM56	tripartite motif containing 56	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+TRIM71	ENSG00000206557	TRIM71	tripartite motif containing 71	no	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+TRIP6	ENSG00000087077	TRIP6	thyroid hormone receptor interactor 6	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TRMT1	ENSG00000104907	TRMT1	tRNA methyltransferase 1	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+TRMT10A	ENSG00000145331	TRMT10A	tRNA methyltransferase 10A	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TRMT10C	ENSG00000174173	TRMT10C	tRNA methyltransferase 10C, mitochondrial RNase P subunit	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+TRMT1L	ENSG00000121486	TRMT1L	tRNA methyltransferase 1 like	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TRMT2A	ENSG00000099899	TRMT2A	tRNA methyltransferase 2 homolog A	no	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+TRMT6	ENSG00000089195	TRMT6	tRNA methyltransferase 6	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TRNAU1AP	ENSG00000180098	TRNAU1AP	tRNA selenocysteine 1 associated protein 1	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+TRUB1	ENSG00000165832	TRUB1	TruB pseudouridine synthase family member 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+TRUB2	ENSG00000167112	TRUB2	TruB pseudouridine synthase family member 2	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+TSFM	ENSG00000123297	TSFM	Ts translation elongation factor, mitochondrial	YES	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+TSNAX	ENSG00000116918	TSNAX	translin associated factor X	YES	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+TSR1	ENSG00000167721	TSR1	TSR1, ribosome maturation factor	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+TUFM	ENSG00000178952	TUFM	Tu translation elongation factor, mitochondrial	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+TWF2	ENSG00000247596	TWF2	twinfilin actin binding protein 2	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+TXN	ENSG00000136810	TXN	thioredoxin	YES	YES	no	YES	YES	no	no	FALSE	TRUE	FALSE
+TXNDC5	ENSG00000239264	TXNDC5	thioredoxin domain containing 5	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+U2AF1	ENSG00000160201	U2AF1	U2 small nuclear RNA auxiliary factor 1	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+U2AF2	ENSG00000063244	U2AF2	U2 small nuclear RNA auxiliary factor 2	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+U2SURP	ENSG00000163714	U2SURP	U2 snRNP associated SURP domain containing	YES	no	no	no	no	YES	YES	FALSE	FALSE	FALSE
+UBA1	ENSG00000130985	UBA1	ubiquitin like modifier activating enzyme 1	YES	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+UBAP2	ENSG00000137073	UBAP2	ubiquitin associated protein 2	no	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+UBAP2L	ENSG00000143569	UBAP2L	ubiquitin associated protein 2 like	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+UBC	ENSG00000150991	UBC	ubiquitin C	YES	no	no	no	no	no	no	FALSE	TRUE	FALSE
+UBE2I	ENSG00000103275	UBE2I	ubiquitin conjugating enzyme E2 I	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+UBE2L3	ENSG00000185651	UBE2L3	ubiquitin conjugating enzyme E2 L3	no	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+UBE2M	ENSG00000130725	UBE2M	ubiquitin conjugating enzyme E2 M	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+UBE2N	ENSG00000177889	UBE2N	ubiquitin conjugating enzyme E2 N	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+UBE2O	ENSG00000175931	UBE2O	ubiquitin conjugating enzyme E2 O	YES	YES	no	no	no	no	no	TRUE	FALSE	FALSE
+UBFD1	ENSG00000103353	UBFD1	ubiquitin family domain containing 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+UBQLN1	ENSG00000135018	UBQLN1	ubiquilin 1	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+UBTF	ENSG00000108312	UBTF	upstream binding transcription factor, RNA polymerase I	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+UCHL5	ENSG00000116750	UCHL5	ubiquitin C-terminal hydrolase L5	no	no	no	YES	YES	no	no	TRUE	FALSE	FALSE
+UNK	ENSG00000132478	UNK	unkempt family zinc finger	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+UPF1	ENSG00000005007	UPF1	UPF1, RNA helicase and ATPase	YES	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+UPF3B	ENSG00000125351	UPF3B	UPF3 regulator of nonsense transcripts homolog B (yeast)	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+URB1	ENSG00000142207	URB1	URB1 ribosome biogenesis 1 homolog (S. cerevisiae)	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+URB2	ENSG00000135763	URB2	URB2 ribosome biogenesis 2 homolog (S. cerevisiae)	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+USO1	ENSG00000138768	USO1	USO1 vesicle transport factor	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+USP10	ENSG00000103194	USP10	ubiquitin specific peptidase 10	YES	YES	no	YES	no	no	YES	TRUE	FALSE	FALSE
+USP36	ENSG00000055483	USP36	ubiquitin specific peptidase 36	no	no	no	YES	no	no	no	TRUE	FALSE	FALSE
+USP42	ENSG00000106346	USP42	ubiquitin specific peptidase 42	no	no	no	no	no	YES	YES	TRUE	FALSE	FALSE
+UTP11	ENSG00000183520	UTP11	UTP11, small subunit processome component homolog (S. cerevisiae)	YES	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+UTP14A	ENSG00000156697	UTP14A	UTP14A small subunit processome component	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+UTP15	ENSG00000164338	UTP15	UTP15, small subunit processome component	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+UTP18	ENSG00000011260	UTP18	UTP18, small subunit processome component	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+UTP20	ENSG00000120800	UTP20	UTP20, small subunit processome component	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+UTP23	ENSG00000147679	UTP23	UTP23, small subunit processome component	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+UTP3	ENSG00000132467	UTP3	UTP3, small subunit processome component homolog (S. cerevisiae)	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+UTP4	ENSG00000141076	UTP4	UTP4, small subunit processome component	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+VCP	ENSG00000165280	VCP	valosin containing protein	YES	YES	no	no	YES	no	no	TRUE	FALSE	FALSE
+VIL1	ENSG00000127831	VIL1	villin 1	no	YES	no	no	no	no	no	FALSE	FALSE	FALSE
+VIM	ENSG00000026025	VIM	vimentin	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+WBP11	ENSG00000084463	WBP11	WW domain binding protein 11	YES	YES	no	no	YES	no	no	FALSE	FALSE	FALSE
+WBSCR22	ENSG00000071462	WBSCR22	Williams-Beuren syndrome chromosome region 22	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+WDR3	ENSG00000065183	WDR3	WD repeat domain 3	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+WDR33	ENSG00000136709	WDR33	WD repeat domain 33	YES	YES	no	no	no	YES	YES	FALSE	FALSE	FALSE
+WDR36	ENSG00000134987	WDR36	WD repeat domain 36	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+WDR43	ENSG00000163811	WDR43	WD repeat domain 43	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+WDR46	ENSG00000206284;ENSG00000204221;ENSG00000236222;ENSG00000226916;ENSG00000227057	WDR46	WD repeat domain 46	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+WDR6	ENSG00000178252	WDR6	WD repeat domain 6	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+WDR75	ENSG00000115368	WDR75	WD repeat domain 75	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+XIRP1	ENSG00000168334	XIRP1	xin actin binding repeat containing 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+XPO5	ENSG00000124571	XPO5	exportin 5	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+XRCC5	ENSG00000079246	XRCC5	X-ray repair cross complementing 5	YES	YES	no	YES	YES	YES	no	FALSE	FALSE	FALSE
+XRCC6	ENSG00000196419	XRCC6	X-ray repair cross complementing 6	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+XRN1	ENSG00000114127	XRN1	5'-3' exoribonuclease 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+XRN2	ENSG00000088930	XRN2	5'-3' exoribonuclease 2	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+YAP1	ENSG00000137693	YAP1	Yes associated protein 1	no	no	no	no	YES	no	no	FALSE	TRUE	FALSE
+YARS	ENSG00000134684	YARS	tyrosyl-tRNA synthetase	no	YES	no	YES	YES	no	no	TRUE	FALSE	FALSE
+YARS2	ENSG00000139131	YARS2	tyrosyl-tRNA synthetase 2	YES	no	no	no	no	no	no	TRUE	FALSE	FALSE
+YBX1	ENSG00000065978	YBX1	Y-box binding protein 1	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+YBX2	ENSG00000006047	YBX2	Y-box binding protein 2	no	YES	YES	no	no	no	no	FALSE	FALSE	FALSE
+YBX3	ENSG00000060138	YBX3	Y-box binding protein 3	YES	YES	YES	YES	YES	YES	YES	FALSE	FALSE	FALSE
+YLPM1	ENSG00000119596	YLPM1	YLP motif containing 1	YES	YES	no	no	no	YES	YES	FALSE	FALSE	FALSE
+YTHDC1	ENSG00000083896;ENSG00000275272	YTHDC1	YTH domain containing 1	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+YTHDC2	ENSG00000047188	YTHDC2	YTH domain containing 2	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+YTHDF1	ENSG00000149658	YTHDF1	YTH N6-methyladenosine RNA binding protein 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+YTHDF2	ENSG00000198492	YTHDF2	YTH N6-methyladenosine RNA binding protein 2	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+YTHDF3	ENSG00000185728	YTHDF3	YTH N6-methyladenosine RNA binding protein 3	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+YWHAB	ENSG00000166913	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta	no	no	no	no	YES	no	no	FALSE	FALSE	FALSE
+YWHAE	ENSG00000108953	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+YWHAG	ENSG00000170027	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+YWHAZ	ENSG00000164924	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta	no	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+ZC3H10	ENSG00000135482	ZC3H10	zinc finger CCCH-type containing 10	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZC3H11A	ENSG00000058673	ZC3H11A	zinc finger CCCH-type containing 11A	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+ZC3H13	ENSG00000123200	ZC3H13	zinc finger CCCH-type containing 13	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ZC3H14	ENSG00000100722	ZC3H14	zinc finger CCCH-type containing 14	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ZC3H15	ENSG00000065548	ZC3H15	zinc finger CCCH-type containing 15	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZC3H18	ENSG00000158545	ZC3H18	zinc finger CCCH-type containing 18	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ZC3H4	ENSG00000130749	ZC3H4	zinc finger CCCH-type containing 4	YES	no	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ZC3H7A	ENSG00000122299	ZC3H7A	zinc finger CCCH-type containing 7A	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+ZC3H7B	ENSG00000100403	ZC3H7B	zinc finger CCCH-type containing 7B	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZC3H8	ENSG00000144161	ZC3H8	zinc finger CCCH-type containing 8	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ZC3HAV1	ENSG00000105939	ZC3HAV1	zinc finger CCCH-type containing, antiviral 1	YES	YES	no	YES	YES	no	YES	FALSE	FALSE	FALSE
+ZCCHC11	ENSG00000134744	ZCCHC11	zinc finger CCHC-type containing 11	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+ZCCHC17	ENSG00000121766	ZCCHC17	zinc finger CCHC-type containing 17	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+ZCCHC24	ENSG00000165424	ZCCHC24	zinc finger CCHC-type containing 24	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ZCCHC3	ENSG00000247315	ZCCHC3	zinc finger CCHC-type containing 3	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ZCCHC6	ENSG00000083223	ZCCHC6	zinc finger CCHC-type containing 6	YES	YES	no	YES	no	no	no	TRUE	FALSE	FALSE
+ZCCHC7	ENSG00000147905	ZCCHC7	zinc finger CCHC-type containing 7	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZCCHC8	ENSG00000033030	ZCCHC8	zinc finger CCHC-type containing 8	no	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ZCCHC9	ENSG00000131732	ZCCHC9	zinc finger CCHC-type containing 9	no	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZCRB1	ENSG00000139168	ZCRB1	zinc finger CCHC-type and RNA binding motif containing 1	YES	YES	no	YES	no	no	YES	FALSE	FALSE	FALSE
+ZFC3H1	ENSG00000133858	ZFC3H1	zinc finger C3H1-type containing	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZFP36	ENSG00000128016	ZFP36	ZFP36 ring finger protein	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZFP36L1	ENSG00000185650	ZFP36L1	ZFP36 ring finger protein like 1	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZFP36L2	ENSG00000152518	ZFP36L2	ZFP36 ring finger protein like 2	no	YES	no	YES	YES	no	no	FALSE	FALSE	FALSE
+ZFR	ENSG00000056097	ZFR	zinc finger RNA binding protein	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+ZMAT3	ENSG00000172667	ZMAT3	zinc finger matrin-type 3	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZNF106	ENSG00000103994	ZNF106	zinc finger protein 106	no	no	no	YES	no	no	YES	FALSE	FALSE	FALSE
+ZNF207	ENSG00000010244	ZNF207	zinc finger protein 207	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ZNF326	ENSG00000162664	ZNF326	zinc finger protein 326	YES	YES	no	YES	YES	YES	YES	FALSE	FALSE	FALSE
+ZNF346	ENSG00000113761	ZNF346	zinc finger protein 346	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ZNF385A	ENSG00000161642	ZNF385A	zinc finger protein 385A	YES	no	no	no	no	no	YES	FALSE	FALSE	FALSE
+ZNF579	ENSG00000218891	ZNF579	zinc finger protein 579	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ZNF598	ENSG00000167962	ZNF598	zinc finger protein 598	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZNF622	ENSG00000173545	ZNF622	zinc finger protein 622	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZNF638	ENSG00000075292	ZNF638	zinc finger protein 638	YES	YES	no	YES	no	YES	YES	FALSE	FALSE	FALSE
+ZNF768	ENSG00000169957	ZNF768	zinc finger protein 768	YES	no	no	no	no	no	no	FALSE	FALSE	FALSE
+ZNFX1	ENSG00000124201	ZNFX1	zinc finger NFX1-type containing 1	YES	YES	no	YES	no	no	no	FALSE	FALSE	FALSE
+ZRANB2	ENSG00000132485	ZRANB2	zinc finger RANBP2-type containing 2	YES	no	no	YES	YES	no	no	FALSE	FALSE	FALSE
+ZYX	ENSG00000159840	ZYX	zyxin	no	no	no	YES	no	no	no	FALSE	FALSE	FALSE
