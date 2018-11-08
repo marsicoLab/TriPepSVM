@@ -34,8 +34,8 @@ help="\n
 # \n
 ####################### \n
 # USAGE EXAMPLE: \n
-# ./TriPepSVM.sh -i salmonellaProteom.fasta -o Results/ -id 590 -r True -posW 1.8 -negW 0.2 \n
-# ./TriPepSVM.sh -i humanProteom.fasta -o Results_Human/ -posW 1.8 -negW 0.2 \n
+# ./TriPepSVM.sh -i salmonellaProteom.fasta -o Results/ -id 590 -r True -posW 1.8 -negW 0.2 -thr 0.68 \n
+# ./TriPepSVM.sh -i humanProteom.fasta -o Results_Human/ -posW 1.8 -negW 0.2 -thr 0.28 \n
 # \n
 ####################### \n
 "
@@ -116,7 +116,7 @@ case $key in
     exit 1
     ;;
     
-    *)
+    *) 0.68
     status="---- > $key isn't a valid input argument"
     echo -e $help
     echo $status

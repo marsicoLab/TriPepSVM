@@ -1,0 +1,142 @@
+B5FQG8	0.150409	Non RNA-binding protein
+Q5PKJ6	0.5366529999999999	RNA-binding protein
+P40702	0.484439	RNA-binding protein
+P26469	0.12183699999999999	Non RNA-binding protein
+A9MIK8	0.356633	RNA-binding protein
+P19816	0.23025900000000002	Non RNA-binding protein
+Q99191	0.41111499999999995	RNA-binding protein
+P43666	0.214917	Non RNA-binding protein
+Q9RPU5	0.18074300000000001	Non RNA-binding protein
+P12061	0.0662444	Non RNA-binding protein
+Q57HB6	0.818945	RNA-binding protein
+A9N7J2	0.09870110000000001	Non RNA-binding protein
+Q8Z9E1	0.12036300000000001	Non RNA-binding protein
+B5RFM6	0.12349	Non RNA-binding protein
+B5FQJ2	0.0714215	Non RNA-binding protein
+O85304	0.0877778	Non RNA-binding protein
+Q57NH7	3.19602e-08	Non RNA-binding protein
+D0ZXQ1	0.0374512	Non RNA-binding protein
+P40612	0.313327	Non RNA-binding protein
+P65207	0.100223	Non RNA-binding protein
+P0A253	0.710272	RNA-binding protein
+Q56143	0.0204172	Non RNA-binding protein
+P37723	0.6026729999999999	RNA-binding protein
+P26473	0.679262	RNA-binding protein
+B5QXS4	0.138657	Non RNA-binding protein
+P20506	0.12751700000000002	Non RNA-binding protein
+Q05631	0.15040699999999999	Non RNA-binding protein
+Q57KA8	0.196747	Non RNA-binding protein
+P26265	0.0644202	Non RNA-binding protein
+Q8ZPM6	0.070559	Non RNA-binding protein
+P10503	0.125649	Non RNA-binding protein
+Q8ZPP9	0.13213	Non RNA-binding protein
+B5RAG0	0.0818443	Non RNA-binding protein
+Q57GG5	0.22539	Non RNA-binding protein
+Q5PDE6	0.334457	Non RNA-binding protein
+Q8ZK58	0.19833900000000002	Non RNA-binding protein
+P26470	0.138462	Non RNA-binding protein
+Q93LJ4	0.21675500000000003	Non RNA-binding protein
+Q9L6L9	0.09074360000000001	Non RNA-binding protein
+Q8Z289	0.030063599999999996	Non RNA-binding protein
+P27669	0.239829	Non RNA-binding protein
+B5R9W3	0.42495900000000003	RNA-binding protein
+B5F4L6	0.013248900000000001	Non RNA-binding protein
+A9MFZ6	0.0836491	Non RNA-binding protein
+P58537	0.0466816	Non RNA-binding protein
+B5RCZ5	0.158717	Non RNA-binding protein
+Q8ZM03	0.9344610000000001	RNA-binding protein
+B5R9A2	0.225892	Non RNA-binding protein
+P03022	0.10286500000000001	Non RNA-binding protein
+P65399	0.068757	Non RNA-binding protein
+Q9ZHD0	0.175688	Non RNA-binding protein
+A9MPK2	0.0365353	Non RNA-binding protein
+P37586	0.261696	Non RNA-binding protein
+P52616	0.028100099999999996	Non RNA-binding protein
+Q57I62	0.0437591	Non RNA-binding protein
+Q56062	0.0376213	Non RNA-binding protein
+Q8ZPK5	0.0719277	Non RNA-binding protein
+A9MLS2	0.162262	Non RNA-binding protein
+P40784	0.132838	Non RNA-binding protein
+P26402	0.43428	RNA-binding protein
+Q57T27	0.19986600000000002	Non RNA-binding protein
+Q9R381	0.15043099999999998	Non RNA-binding protein
+B4TUY8	0.40977600000000003	RNA-binding protein
+P37926	0.08422139999999999	Non RNA-binding protein
+B5F7N7	0.541376	RNA-binding protein
+Q57TD2	0.19902	Non RNA-binding protein
+P37168	0.0824514	Non RNA-binding protein
+Q8ZQB6	0.34621399999999997	RNA-binding protein
+Q5PNL2	0.15484	Non RNA-binding protein
+Q9S498	0.152167	Non RNA-binding protein
+B5F4W4	0.10364300000000001	Non RNA-binding protein
+B5EYD5	0.127193	Non RNA-binding protein
+P37419	0.109992	Non RNA-binding protein
+A9MEG7	0.103103	Non RNA-binding protein
+B5R3Y2	0.14018	Non RNA-binding protein
+P40194	0.039604099999999996	Non RNA-binding protein
+Q8ZLB5	0.0396045	Non RNA-binding protein
+B5FQL2	0.0452005	Non RNA-binding protein
+Q934T6	0.541858	RNA-binding protein
+Q57MS0	0.0874809	Non RNA-binding protein
+P0A189	0.0210224	Non RNA-binding protein
+P12833	0.328962	Non RNA-binding protein
+B5FK99	0.325466	Non RNA-binding protein
+Q5PLS1	0.0872212	Non RNA-binding protein
+Q5PLN0	0.125149	Non RNA-binding protein
+Q56036	0.0871529	Non RNA-binding protein
+O33789	0.362538	RNA-binding protein
+P65933	0.24085900000000002	Non RNA-binding protein
+A9MWU4	0.255601	Non RNA-binding protein
+P26417	0.454215	RNA-binding protein
+O87576	0.115375	Non RNA-binding protein
+P14303	0.6542680000000001	RNA-binding protein
+P26976	0.115888	Non RNA-binding protein
+P26264	0.0943697	Non RNA-binding protein
+Q5PJR1	0.08346010000000001	Non RNA-binding protein
+P0A2J1	0.0682465	Non RNA-binding protein
+P10367	0.12581199999999998	Non RNA-binding protein
+P0A1X0	0.08403580000000001	Non RNA-binding protein
+Q93MH4	0.9972610000000001	RNA-binding protein
+B5QYM8	0.29423299999999997	Non RNA-binding protein
+P40196	0.125704	Non RNA-binding protein
+P0A265	0.158668	Non RNA-binding protein
+B4T562	0.051284500000000004	Non RNA-binding protein
+Q9F7A2	0.12569	Non RNA-binding protein
+E1WAB5	0.194741	Non RNA-binding protein
+Q08015	0.25356100000000004	Non RNA-binding protein
+P0A1E6	0.0522198	Non RNA-binding protein
+P26389	0.16910799999999998	Non RNA-binding protein
+B5F6P9	0.209727	Non RNA-binding protein
+A9MR41	0.43160699999999996	RNA-binding protein
+Q8ZRJ9	0.09475449999999999	Non RNA-binding protein
+Q57G28	0.07083489999999999	Non RNA-binding protein
+Q04866	0.256529	Non RNA-binding protein
+B4TNR0	0.183784	Non RNA-binding protein
+Q7CPV2	0.00260119	Non RNA-binding protein
+O68883	0.0818584	Non RNA-binding protein
+B5QWW1	0.0843597	Non RNA-binding protein
+P16323	0.030751599999999997	Non RNA-binding protein
+Q8ZL64	0.187527	Non RNA-binding protein
+A9MGY0	0.677905	RNA-binding protein
+Q8Z5I4	0.172746	Non RNA-binding protein
+Q8Z991	0.0191001	Non RNA-binding protein
+Q8ZP01	0.187549	Non RNA-binding protein
+B5F0D7	0.024087200000000003	Non RNA-binding protein
+P29847	0.147099	Non RNA-binding protein
+Q8ZRP1	0.11233900000000001	Non RNA-binding protein
+P09796	0.198729	Non RNA-binding protein
+B5F1U0	0.07887319999999999	Non RNA-binding protein
+P0A1N6	0.0144137	Non RNA-binding protein
+P0A188	0.020899	Non RNA-binding protein
+Q56067	0.200692	Non RNA-binding protein
+B5FI45	0.14990799999999999	Non RNA-binding protein
+C0Q065	0.014651599999999999	Non RNA-binding protein
+B5EWJ3	0.148777	Non RNA-binding protein
+Q8ZPV5	0.111399	Non RNA-binding protein
+A9MJ39	0.47175	RNA-binding protein
+Q8Z8B6	1.09948e-05	Non RNA-binding protein
+B5R3E5	0.600643	RNA-binding protein
+P23831	0.189913	Non RNA-binding protein
+A9MJQ3	0.0493891	Non RNA-binding protein
+B5FI19	0.28480300000000003	Non RNA-binding protein
+B5F8J0	0.13591199999999998	Non RNA-binding protein
