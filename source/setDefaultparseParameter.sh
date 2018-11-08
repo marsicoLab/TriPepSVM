@@ -54,6 +54,7 @@ posW=inversePropClassSize
 negW=inversePropClassSize
 thr=0
 recM=FALSE
+mode=allData
 
 #######################
 # Parse input:
@@ -110,6 +111,11 @@ case $key in
     shift 2
     ;;
 
+    -m|--mode)
+    mode="$2"
+    shift 2
+    ;;
+
     -h|--help)
     echo -e $help
     echo "exit=1">$scriptDir/parameter.in	
@@ -142,8 +148,8 @@ if [ "$taxon_id" == "590" ];then
 		echo -e $status\n
 	fi
 
-	if [ "$thr" != "0.68" ];then
-		status="---- > ATTENTION: Application use suboptimal classification cutoff\n---- > we recommend a threshold = 0.68\n"
+	if [ "$thr" != "0.28" ];then
+		status="---- > ATTENTION: Application use suboptimal classification cutoff\n---- > we recommend a threshold = 0.28\n"
 		echo -e $status
 	fi
 fi	
@@ -154,8 +160,8 @@ if [ "$taxon_id" == "9606" ];then
 		echo -e $status
 	fi
 
-	if [ "$thr" != "0.28" ];then
-		status="---- > ATTENTION: Application use suboptimal classification cutoff\n---- > we recommend a threshold = 0.28\n"
+	if [ "$thr" != "0.68" ];then
+		status="---- > ATTENTION: Application use suboptimal classification cutoff\n---- > we recommend a threshold = 0.68\n"
 		echo -e $status
 	fi
 fi	
@@ -175,6 +181,7 @@ echo "# pos-class=$posW"
 echo "# neg-class=$negW"
 echo "# threshold=$thr"
 echo "# recursive=$recM"
+echo "# mode=$mode"
 echo "# " 
 echo "####################### "
 
@@ -193,5 +200,6 @@ echo "posW=$posW">> $scriptDir/parameter.in
 echo "negW=$negW">> $scriptDir/parameter.in
 echo "thr=$thr">> $scriptDir/parameter.in
 echo "recM=$recM">> $scriptDir/parameter.in
+echo "mode=$mode">> $scriptDir/parameter.in
 echo "####################### ">> $scriptDir/parameter.in
 

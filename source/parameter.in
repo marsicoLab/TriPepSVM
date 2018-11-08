@@ -1,13 +1,14 @@
 ####################### 
 # 
 # PARAMETER:
-INPUT_FILE=./data/proteome_9606.fasta
-outDir=./proteome_prediction_human
+INPUT_FILE=./../data/test/NRBP_9606.fasta
+outDir=./RESULT
 taxon_id=9606
 cost=1
 k=3
 posW=1.8
 negW=0.2
-thr=0.28
+thr=0.68
 recM=FALSE
+mode=trainData
 ####################### 
