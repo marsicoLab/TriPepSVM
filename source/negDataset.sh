@@ -14,7 +14,7 @@ if [ ! -e "$DATABASE/parseProteinSwissprot.fasta" ];then
 	curl $query_swissprot_proteom > $DATABASE/parseProteinSwissprot.fasta
 fi
 
-# remove all critical proteins based on protocoll 
+# remove all critical proteins based on protocol
 if [ ! -e "$DATABASE/swissprot_keyword.txt" ];then
 	for KEYWORD in `cut -f2 $scriptDir/../data/Keywords.txt`;do
 		query_keyword="http://www.uniprot.org/uniprot/?query=keyword:$KEYWORD+reviewed:yes+taxonomy:$TAXON&format=tab"		
@@ -41,33 +41,3 @@ Rscript $scriptDir/getSVMSequences.r $scriptDir/../data/uniprot_dna_binding.txt 
 Rscript $scriptDir/getSVMSequences.r $scriptDir/../data/uniprot_nucleotid_binding.txt $DATABASE/removed_dna.fasta.temp $RESULT/NRBP_$TAXON.fasta 2
 
 #rm -R $DATABASE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
