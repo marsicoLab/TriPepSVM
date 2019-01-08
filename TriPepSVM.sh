@@ -30,7 +30,7 @@ mkdir -p $outDir
 # collect data in outDir if new taxon is selected, use existing data if not
 # mode : developer parameter for performance measurements, default mode=allData but
 # could be also trainData for special application
-if [ "$taxon_id" == "9606" ] || [ "$taxon_id" == "590" ];then
+if [ "$taxon_id" == "9606" ] || [ "$taxon_id" == "590" ] || [ "$taxon_id" == "561" ];then
 	data=$scriptDir/$mode
 else
 	data=$outDir/$mode
