@@ -1,3 +1,4 @@
+ID	Score	Class
 B5F8L1	0.83925	RNA-binding protein
 B5F8N6	0.7821170000000001	RNA-binding protein
 A0A0T9WB93	0.48379799999999995	RNA-binding protein
