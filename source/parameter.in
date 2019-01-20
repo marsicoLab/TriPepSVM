@@ -1,8 +1,8 @@
 ####################### 
 # 
 # PARAMETER:
-INPUT_FILE=./../data/test/NRBP_9606.fasta
-outDir=./RESULT
+INPUT_FILE=/project/owlmayerTemporary/Bressin/Salmonella/runtime/runtime/runtime_240.fasta
+outDir=/project/owlmayerTemporary/Bressin/Salmonella/runtime/runtime/TriPepSVM_withTraining
 taxon_id=9606
 cost=1
 k=3
@@ -10,5 +10,5 @@ posW=1.8
 negW=0.2
 thr=0.68
 recM=FALSE
-mode=trainData
+mode=allData
 ####################### 
