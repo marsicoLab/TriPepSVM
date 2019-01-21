@@ -1,4 +1,4 @@
-Sequence name	SVM score	Prediction
+Sequence name	SVM score	RNA-binding protein
 sp|Q8NET6|CHSTD_HUM	-1.55	Non RNA-binding protein
 sp|Q9H4P4|RNF41_HUM	0.68	RNA-binding protein
 sp|Q6JBY9|CPZIP_HUM	2.55	RNA-binding protein

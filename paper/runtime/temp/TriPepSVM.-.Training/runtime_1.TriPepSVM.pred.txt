@@ -1,0 +1,1 @@
+UniProtKB|A0A024QZD5|SNRP70|Small	1.51774086198376	RNA-binding protein

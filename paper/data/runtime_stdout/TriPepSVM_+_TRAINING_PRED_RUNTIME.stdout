@@ -1,0 +1,78 @@
+1
+Warning message:
+no function found corresponding to methods exports from ‘XVector’ for: ‘concatenateObjects’ 
+[1] "read data"
+[1] "build model"
+[1] "read prediction file"
+[1] "predict"
+[1] "write prediction output table"
+[1] "./temp/TriPepSVM.+.Training/runtime_1.TriPepSVM.pred.txt"
+
+real	29m42.312s
+user	29m40.797s
+sys	0m0.513s
+50
+Warning message:
+no function found corresponding to methods exports from ‘XVector’ for: ‘concatenateObjects’ 
+[1] "read data"
+[1] "build model"
+[1] "read prediction file"
+[1] "predict"
+[1] "write prediction output table"
+[1] "./temp/TriPepSVM.+.Training/runtime_50.TriPepSVM.pred.txt"
+
+real	29m47.920s
+user	29m46.578s
+sys	0m0.509s
+100
+Warning message:
+no function found corresponding to methods exports from ‘XVector’ for: ‘concatenateObjects’ 
+[1] "read data"
+[1] "build model"
+[1] "read prediction file"
+[1] "predict"
+[1] "write prediction output table"
+[1] "./temp/TriPepSVM.+.Training/runtime_100.TriPepSVM.pred.txt"
+
+real	30m9.194s
+user	30m5.937s
+sys	0m0.532s
+150
+Warning message:
+no function found corresponding to methods exports from ‘XVector’ for: ‘concatenateObjects’ 
+[1] "read data"
+[1] "build model"
+[1] "read prediction file"
+[1] "predict"
+[1] "write prediction output table"
+[1] "./temp/TriPepSVM.+.Training/runtime_150.TriPepSVM.pred.txt"
+
+real	29m46.353s
+user	29m44.980s
+sys	0m0.499s
+200
+Warning message:
+no function found corresponding to methods exports from ‘XVector’ for: ‘concatenateObjects’ 
+[1] "read data"
+[1] "build model"
+[1] "read prediction file"
+[1] "predict"
+[1] "write prediction output table"
+[1] "./temp/TriPepSVM.+.Training/runtime_200.TriPepSVM.pred.txt"
+
+real	30m29.530s
+user	30m27.698s
+sys	0m0.547s
+250
+Warning message:
+no function found corresponding to methods exports from ‘XVector’ for: ‘concatenateObjects’ 
+[1] "read data"
+[1] "build model"
+[1] "read prediction file"
+[1] "predict"
+[1] "write prediction output table"
+[1] "./temp/TriPepSVM.+.Training/runtime_250.TriPepSVM.pred.txt"
+
+real	29m11.565s
+user	29m10.110s
+sys	0m0.516s

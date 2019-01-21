@@ -1,4 +1,4 @@
-ID	Score	Class
+ID	Score	RNA-binding protein
 Q9BZI7	0.999949	RNA-binding protein
 B9A023	0.7471899999999999	Non RNA-binding protein
 A0A024R320	0.474691	Non RNA-binding protein

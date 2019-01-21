@@ -1,0 +1,19 @@
+UniProtKB|B5F8N6|SeAg_B3721|60-kDa	-0.431445361789171	Non RNA-binding protein
+UniProtKB|A0A0T9WB93|greA_2|Transcription	0.129422642194824	Non RNA-binding protein
+UniProtKB|G5PRR6|LTSEMIS_3844|Carbamoyltransferase	-0.556834536095245	Non RNA-binding protein
+UniProtKB|B5F7R5|rsmB|Ribosomal	0.897655292809827	RNA-binding protein
+UniProtKB|A0A0K0HGI2|yjbN|tRNA-dihydrouridine(20/20a)	-0.516019894902102	Non RNA-binding protein
+UniProtKB|A0A100UZR0|hypF|Carbamoyltransferase	-0.683680986013144	Non RNA-binding protein
+UniProtKB|G5S1F3|infB|Translation	1.91928218373185	RNA-binding protein
+UniProtKB|B5F7S9|rplR|50S	0.614818340444067	Non RNA-binding protein
+UniProtKB|G5NIW2|rpsH|30S	0.678151227611647	Non RNA-binding protein
+UniProtKB|A0A1M4A588|Y076_06155|Uncharacterized	-0.31287151905928	Non RNA-binding protein
+UniProtKB|A0A0T9WAR2|infA_2|Translation	0.395690612688598	Non RNA-binding protein
+UniProtKB|G5MQ21|rph|Orotate	0.0586476782209107	Non RNA-binding protein
+UniProtKB|B5F1G1|rnc|Ribonuclease	-0.555576597728087	Non RNA-binding protein
+UniProtKB|A0A0T9WBQ4|rpsG_2|30S	0.551986916250511	Non RNA-binding protein
+UniProtKB|A0A0J6D5V0|rhsA|Putative	1.23107695377626	RNA-binding protein
+UniProtKB|A0A100VH36|symE_3|Toxic	0.147132914910285	Non RNA-binding protein
+UniProtKB|A0A0T9WBI4|rpsC_2|30S	-0.0914236109657183	Non RNA-binding protein
+UniProtKB|A0A0K0HEN9|cca|Multifunctional	0.758855924622035	RNA-binding protein
+UniProtKB|A0A0T9WAX4|rnpA|Ribonuclease	0.626335674519261	Non RNA-binding protein

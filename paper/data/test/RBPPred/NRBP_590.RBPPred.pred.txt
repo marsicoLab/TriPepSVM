@@ -1,4 +1,4 @@
-ID	Score	Class
+ID	Score	RNA-binding protein
 B5FQG8	0.150409	Non RNA-binding protein
 Q5PKJ6	0.5366529999999999	RNA-binding protein
 P40702	0.484439	RNA-binding protein
