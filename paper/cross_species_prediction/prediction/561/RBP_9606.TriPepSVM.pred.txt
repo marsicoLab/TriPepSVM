@@ -1,180 +1,180 @@
-UniProtKB|Q9BZI7|UPF3B|Regulator	1.71692798374255	RNA-binding protein
-UniProtKB|B9A023|EIF4E2|Eukaryotic	-0.207220743312523	Non RNA-binding protein
-UniProtKB|A0A024R320|PCBP4|Poly(RC)	-0.314219168376226	Non RNA-binding protein
-UniProtKB|Q2NKY6|-|Uncharacterized	0.682971834377138	RNA-binding protein
-UniProtKB|P13667|PDIA4|Protein	0.239916524944378	Non RNA-binding protein
-UniProtKB|Q6ZV39|-|cDNA	-0.000304495079579747	Non RNA-binding protein
-UniProtKB|Q7Z3W9|DKFZp686G18222|Putative	-0.39735215306859	Non RNA-binding protein
-UniProtKB|Q9Y4Y9|LSM5|U6	-0.950317959921535	Non RNA-binding protein
-UniProtKB|P46109|CRKL|Crk-like	-0.501576322884618	Non RNA-binding protein
-UniProtKB|Q8WUQ7|CACTIN|Cactin	0.869326293006785	RNA-binding protein
-UniProtKB|A3KFL5|EXOSC2|Exosome	0.255946517086499	Non RNA-binding protein
-UniProtKB|Q9NW64|RBM22|Pre-mRNA-splicing	-0.0398337853359741	Non RNA-binding protein
-UniProtKB|Q9BYK8|HELZ2|Helicase	0.304362535160502	RNA-binding protein
-UniProtKB|Q08J23|NSUN2|tRNA	0.135724529310296	Non RNA-binding protein
-UniProtKB|Q8WWH5|TRUB1|Probable	-0.571370191992757	Non RNA-binding protein
-UniProtKB|P46776|RPL27A|60S	0.828002318329487	RNA-binding protein
-UniProtKB|A0AV96|RBM47|RNA-binding	-0.630459340783046	Non RNA-binding protein
-UniProtKB|Q9GZR2|REXO4|RNA	0.879306535521203	RNA-binding protein
-UniProtKB|H7C257|SON|Protein	-1.60233872688139	Non RNA-binding protein
-UniProtKB|Q15046|KARS|Lysine--tRNA	0.205234483420288	Non RNA-binding protein
-UniProtKB|Q96H35|RBM18|Probable	-0.676432786803778	Non RNA-binding protein
-UniProtKB|O14776|TCERG1|Transcription	-0.284996403417012	Non RNA-binding protein
-UniProtKB|Q9UQ35|SRRM2|Serine/arginine	0.176527758401708	Non RNA-binding protein
-UniProtKB|B4DDX2|-|cDNA	0.0225932630812665	Non RNA-binding protein
-UniProtKB|Q9BX40|LSM14B|Protein	-0.291924221692479	Non RNA-binding protein
-UniProtKB|A0A140VK44|-|Proteasome	-0.331128236509059	Non RNA-binding protein
-UniProtKB|Q06413|MEF2C|Myocyte-specific	-0.35780601719429	Non RNA-binding protein
-UniProtKB|P11387|TOP1|DNA	1.10572565004976	RNA-binding protein
-UniProtKB|O94818|NOL4|Nucleolar	-0.719293762398542	Non RNA-binding protein
-UniProtKB|Q9UIS4|SNRPB|Small	-0.400530957718466	Non RNA-binding protein
-UniProtKB|B4DNE0|-|cDNA	0.147545072848285	Non RNA-binding protein
-UniProtKB|Q9H7B2|RPF2|Ribosome	0.87690250417277	RNA-binding protein
-UniProtKB|Q9H0S4|DDX47|Probable	0.32202165391276	RNA-binding protein
-UniProtKB|Q86XP3|DDX42|ATP-dependent	0.60352361881284	RNA-binding protein
-UniProtKB|Q9NZM5|GLTSCR2|Glioma	0.902038956526968	RNA-binding protein
-UniProtKB|B3KSH1|EIF3F|Eukaryotic	-0.696227635408884	Non RNA-binding protein
-UniProtKB|Q96B26|EXOSC8|Exosome	-0.49382643435672	Non RNA-binding protein
-UniProtKB|C9J250|RBM6|RNA-binding	-0.638105789935262	Non RNA-binding protein
-UniProtKB|Q5T3I0|GPATCH4|G	1.5500546095272	RNA-binding protein
-UniProtKB|Q66PJ3|ARL6IP4|ADP-ribosylation	0.377739690894035	RNA-binding protein
-UniProtKB|P82921|MRPS21|28S	-0.368343204180969	Non RNA-binding protein
-UniProtKB|P03950|ANG|Angiogenin	-0.107506013952331	Non RNA-binding protein
-UniProtKB|Q14004|CDK13|Cyclin-dependent	-0.0422122218302537	Non RNA-binding protein
-UniProtKB|P83881|RPL36A|60S	0.700565286054651	RNA-binding protein
-UniProtKB|Q9NR30|DDX21|Nucleolar	1.30949978348528	RNA-binding protein
-UniProtKB|F8VP89|EIF4B|Eukaryotic	0.220944873526759	Non RNA-binding protein
-UniProtKB|A6PVI3|NCBP2L|Nuclear	0.294548096135599	RNA-binding protein
-UniProtKB|A0A024R813|EYA1|Eyes	-1.3621169294709	Non RNA-binding protein
-UniProtKB|Q6P161|MRPL54|39S	0.596976494334487	RNA-binding protein
-UniProtKB|P07305|H1F0|Histone	1.64208629674974	RNA-binding protein
-UniProtKB|P46779|RPL28|60S	0.0799573772089383	Non RNA-binding protein
-UniProtKB|Q9P127|LUZP4|Leucine	-0.311726541124764	Non RNA-binding protein
-UniProtKB|Q9BYC8|MRPL32|39S	0.220484732536526	Non RNA-binding protein
-UniProtKB|Q3ZCQ8|TIMM50|Mitochondrial	-0.126434368050961	Non RNA-binding protein
-UniProtKB|Q6PI48|DARS2|Aspartate--tRNA	-0.0546412041270689	Non RNA-binding protein
-UniProtKB|Q9H8H0|NOL11|Nucleolar	-0.596775161619293	Non RNA-binding protein
-UniProtKB|B4DEP6|-|cDNA	0.469579886481593	RNA-binding protein
-UniProtKB|P58107|EPPK1|Epiplakin	0.00293367756769203	Non RNA-binding protein
-UniProtKB|A0A024RBS0|DDX55|RNA	0.655808913473184	RNA-binding protein
-UniProtKB|P21333|FLNA|Filamin-A	0.0673684056658668	Non RNA-binding protein
-UniProtKB|A0A024QZD5|SNRP70|Small	0.783595676104115	RNA-binding protein
-UniProtKB|Q8NAV1|PRPF38A|Pre-mRNA-splicing	0.385497768798764	RNA-binding protein
-UniProtKB|Q9Y4W2|LAS1L|Ribosomal	-0.184239691230506	Non RNA-binding protein
-UniProtKB|Q6AI08|HEATR6|HEAT	-0.835411312513084	Non RNA-binding protein
-UniProtKB|Q13595|TRA2A|Transformer-2	-0.201855554799594	Non RNA-binding protein
-UniProtKB|Q9BZE1|MRPL37|39S	-0.249559012301411	Non RNA-binding protein
-UniProtKB|Q9P258|RCC2|Protein	-0.169144006899346	Non RNA-binding protein
-UniProtKB|P48431|SOX2|Transcription	-0.419526227425829	Non RNA-binding protein
-UniProtKB|A0A024R6W2|NUDT21|Nudix	-0.204119148432369	Non RNA-binding protein
-UniProtKB|Q7Z7A3|CTU1|Cytoplasmic	0.427180240201268	RNA-binding protein
-UniProtKB|O43670|ZNF207|BUB3-interacting	-0.685328029707714	Non RNA-binding protein
-UniProtKB|Q92769|HDAC2|Histone	-0.04270412455633	Non RNA-binding protein
-UniProtKB|Q68CQ4|DIEXF|Digestive	0.0854435135939737	Non RNA-binding protein
-UniProtKB|Q14149|MORC3|MORC	-0.344680361494966	Non RNA-binding protein
-UniProtKB|Q9NX07|TRNAU1AP|tRNA	-0.85552812792362	Non RNA-binding protein
-UniProtKB|Q92900|UPF1|Regulator	-0.645539905078797	Non RNA-binding protein
-UniProtKB|Q9BZJ0|CRNKL1|Crooked	0.173407081374336	Non RNA-binding protein
-UniProtKB|Q02790|FKBP4|Peptidyl-prolyl	0.140250223685899	Non RNA-binding protein
-UniProtKB|O75347|TBCA|Tubulin-specific	-0.354970174595943	Non RNA-binding protein
-UniProtKB|Q13895|BYSL|Bystin	-0.0112814890786602	Non RNA-binding protein
-UniProtKB|P46087|NOP2|Probable	1.04972196238639	RNA-binding protein
-UniProtKB|Q92901|RPL3L|60S	0.599965757241148	RNA-binding protein
-UniProtKB|O60841|EIF5B|Eukaryotic	1.68826776490445	RNA-binding protein
-UniProtKB|Q14137|BOP1|Ribosome	-0.341985787921857	Non RNA-binding protein
-UniProtKB|O75569|PRKRA|Interferon-inducible	-0.80247963098241	Non RNA-binding protein
-UniProtKB|Q14240|EIF4A2|Eukaryotic	-0.526184462760851	Non RNA-binding protein
-UniProtKB|B5BU01|EIF2S2|Eukaryotic	0.642249007382542	RNA-binding protein
-UniProtKB|A0A024R4M0|RPS9|40S	0.964392633361927	RNA-binding protein
-UniProtKB|B3KM64|-|cDNA	-0.632620112401235	Non RNA-binding protein
-UniProtKB|F8VPW7|OAS1|2'-5'-oligoadenylate	-0.0496414111325081	Non RNA-binding protein
-UniProtKB|H0YIH0|METTL1|tRNA	0.29302054144361	RNA-binding protein
-UniProtKB|Q3ZM02|OAS1|2'-5'	-0.0424293346014478	Non RNA-binding protein
-UniProtKB|P55072|VCP|Transitional	0.477894040476667	RNA-binding protein
-UniProtKB|Q9BZD1|-|Ewings	-1.69384495899123	Non RNA-binding protein
-UniProtKB|Q9BZB8|CPEB1|Cytoplasmic	-0.65803590436521	Non RNA-binding protein
-UniProtKB|Q15024|EXOSC7|Exosome	-0.605000624513303	Non RNA-binding protein
-UniProtKB|F6TB26|TDRKH|Tudor	-0.740532368998995	Non RNA-binding protein
-UniProtKB|Q01860|POU5F1|POU	-0.462429388961928	Non RNA-binding protein
-UniProtKB|P08195|SLC3A2|4F2	-0.453511796173414	Non RNA-binding protein
-UniProtKB|Q9BZE4|GTPBP4|Nucleolar	0.491177884894049	RNA-binding protein
-UniProtKB|A0A0R4J2E6|ELAVL4|ELAV-like	-0.512329346630197	Non RNA-binding protein
-UniProtKB|Q6IMN6|CAPRIN2|Caprin-2	-0.485665048441195	Non RNA-binding protein
-UniProtKB|Q9H307|PNN|Pinin	0.021291648639543	Non RNA-binding protein
-UniProtKB|P63220|RPS21|40S	-0.37505397321273	Non RNA-binding protein
-UniProtKB|K7ELC2|RPS15|40S	0.792865903714158	RNA-binding protein
-UniProtKB|Q8N5C6|SRBD1|S1	0.266742985818456	RNA-binding protein
-UniProtKB|Q13442|PDAP1|28	1.10932846784115	RNA-binding protein
-UniProtKB|O75792|RNASEH2A|Ribonuclease	-0.176203500541473	Non RNA-binding protein
-UniProtKB|Q5VWX1|KHDRBS2|KH	0.165514162137519	Non RNA-binding protein
-UniProtKB|Q4VXU2|PABPC1L|Polyadenylate-binding	0.0465921581381953	Non RNA-binding protein
-UniProtKB|Q15427|SF3B4|Splicing	-0.554618213716911	Non RNA-binding protein
-UniProtKB|Q9NPD3|EXOSC4|Exosome	-0.351703987512358	Non RNA-binding protein
-UniProtKB|Q9HC52|CBX8|Chromobox	0.797543472746705	RNA-binding protein
-UniProtKB|B7Z1G0|-|cDNA	-0.186429975032916	Non RNA-binding protein
-UniProtKB|Q4G0J3|LARP7|La-related	1.33585691422779	RNA-binding protein
-UniProtKB|A0A024R5S5|EIF3S1|Eukaryotic	0.328759358264063	RNA-binding protein
-UniProtKB|P79522|PRR3|Proline-rich	0.0592742479301542	Non RNA-binding protein
-UniProtKB|O95391|SLU7|Pre-mRNA-splicing	0.55715666333943	RNA-binding protein
-UniProtKB|Q9H2Y7|ZNF106|Zinc	-0.306344056062494	Non RNA-binding protein
-UniProtKB|Q00688|FKBP3|Peptidyl-prolyl	0.407553795703043	RNA-binding protein
-UniProtKB|O60583|CCNT2|Cyclin-T2	-0.865460990412982	Non RNA-binding protein
-UniProtKB|Q9HC36|MRM3|rRNA	0.15356393057356	Non RNA-binding protein
-UniProtKB|Q06830|PRDX1|Peroxiredoxin-1	-0.533473386576719	Non RNA-binding protein
-UniProtKB|Q6PK04|CCDC137|Coiled-coil	0.936767804898424	RNA-binding protein
-UniProtKB|P61254|RPL26|60S	0.883660450834544	RNA-binding protein
-UniProtKB|Q7Z5Q1|CPEB2|Cytoplasmic	-0.851663696041329	Non RNA-binding protein
-UniProtKB|O00541|PES1|Pescadillo	1.22119996350374	RNA-binding protein
-UniProtKB|Q96PU8|QKI|Protein	-0.334887845612433	Non RNA-binding protein
-UniProtKB|Q7Z7L1|SLFN11|Schlafen	-0.242620986864025	Non RNA-binding protein
-UniProtKB|P26447|S100A4|Protein	-0.237231353389654	Non RNA-binding protein
-UniProtKB|Q9NNW5|WDR6|WD	-0.764990940327253	Non RNA-binding protein
-UniProtKB|H0YCK3|ADAR|Double-stranded	-0.241273883630958	Non RNA-binding protein
-UniProtKB|O43159|RRP8|Ribosomal	0.377273129499473	RNA-binding protein
-UniProtKB|B4DEH4|-|cDNA	-0.91066450160245	Non RNA-binding protein
-UniProtKB|P26368|U2AF2|Splicing	-0.951413006810592	Non RNA-binding protein
-UniProtKB|K7EQU7|TRMT1|tRNA	-0.666848134442774	Non RNA-binding protein
-UniProtKB|A0A0B4J1V8|PPAN-P2RY11|HCG2039996	-0.391562736520938	Non RNA-binding protein
-UniProtKB|Q9NPI7|KRCC1|Lysine-rich	1.06804765790714	RNA-binding protein
-UniProtKB|A0A024R9K4|FYTTD1|Forty-two-three	0.495971933449615	RNA-binding protein
-UniProtKB|Q14331|FRG1|Protein	0.693992493731135	RNA-binding protein
-UniProtKB|A0A024RAQ1|CSDA|Cold	0.391284787109159	RNA-binding protein
-UniProtKB|Q93073|SECISBP2L|Selenocysteine	-0.386267337748367	Non RNA-binding protein
-UniProtKB|Q6ZP53|-|cDNA	0.587314134175833	RNA-binding protein
-UniProtKB|Q03701|CEBPZ|CCAAT/enhancer-binding	0.347122094560221	RNA-binding protein
-UniProtKB|O15504|NUPL2|Nucleoporin-like	-0.946755512652331	Non RNA-binding protein
-UniProtKB|Q8IU60|DCP2|m7GpppN-mRNA	-0.219469690031407	Non RNA-binding protein
-UniProtKB|M0R2T0|HNRNPM|Heterogeneous	0.496292598406777	RNA-binding protein
-UniProtKB|P16403|HIST1H1C|Histone	1.05368785295167	RNA-binding protein
-UniProtKB|Q07954|LRP1|Prolow-density	-1.35837504314603	Non RNA-binding protein
-UniProtKB|Q99575|POP1|Ribonucleases	0.299299825243363	RNA-binding protein
-UniProtKB|Q08170|SRSF4|Serine/arginine-rich	0.667216152024111	RNA-binding protein
-UniProtKB|Q5SY38|EIF2D|Eukaryotic	-0.643306206641276	Non RNA-binding protein
-UniProtKB|P21128|ENDOU|Poly(U)-specific	-0.795749961045737	Non RNA-binding protein
-UniProtKB|B4DSS8|-|cDNA	-0.626946816441493	Non RNA-binding protein
-UniProtKB|P63162|SNRPN|Small	-0.293889365211383	Non RNA-binding protein
-UniProtKB|Q9NV31|IMP3|U3	0.701212279547843	RNA-binding protein
-UniProtKB|M0R2N4|-|Uncharacterized	-0.381220195398116	Non RNA-binding protein
-UniProtKB|O95429|BAG4|BAG	-0.998241647163186	Non RNA-binding protein
-UniProtKB|Q02040|AKAP17A|A-kinase	1.69846562805679	RNA-binding protein
-UniProtKB|Q96T37|RBM15|Putative	0.21896771582803	Non RNA-binding protein
-UniProtKB|Q969X6|UTP4|U3	-0.684651877600728	Non RNA-binding protein
-UniProtKB|Q16540|MRPL23|39S	-0.590561087412261	Non RNA-binding protein
-UniProtKB|Q1KMD3|HNRNPUL2|Heterogeneous	0.418291954813983	RNA-binding protein
-UniProtKB|A0A024R2F4|THUMPD3|THUMP	-0.462025535683672	Non RNA-binding protein
-UniProtKB|V5YQU3|FGFR2-BICC1|FGFR2-BICC1	-0.920691572547953	Non RNA-binding protein
-UniProtKB|F2Z2Z0|PABPC1L|Polyadenylate-binding	-1.10474993509844	Non RNA-binding protein
-UniProtKB|Q96A33|CCDC47|Coiled-coil	-0.023273392751413	Non RNA-binding protein
-UniProtKB|Q8WU43|C2orf15|Uncharacterized	0.00380163472876816	Non RNA-binding protein
-UniProtKB|Q9NP64|ZCCHC17|Nucleolar	0.617925182587527	RNA-binding protein
-UniProtKB|A0A024RCH0|TCEAL6|Transcription	0.366575103213074	RNA-binding protein
-UniProtKB|P39023|RPL3|60S	0.870486855839651	RNA-binding protein
-UniProtKB|Q9Y5G4|PCDHGA9|Protocadherin	-1.26865529931489	Non RNA-binding protein
-UniProtKB|Q70T17|-|FUS/BBF2H7	-1.00712396637267	Non RNA-binding protein
-UniProtKB|Q08211|DHX9|ATP-dependent	-0.273602383034357	Non RNA-binding protein
-UniProtKB|H9KVD5|FYTTD1|UAP56-interacting	0.396125263828961	RNA-binding protein
-UniProtKB|P14625|HSP90B1|Endoplasmin	0.830583921459205	RNA-binding protein
-UniProtKB|P61764|STXBP1|Syntaxin-binding	-1.01177956644476	Non RNA-binding protein
-UniProtKB|Q7L576|CYFIP1|Cytoplasmic	0.236134481477498	Non RNA-binding protein
-UniProtKB|Q9Y4Z0|LSM4|U6	0.440676340314127	RNA-binding protein
-UniProtKB|O14647|CHD2|Chromodomain-helicase-DNA-binding	1.53229604730566	RNA-binding protein
+UniProtKB|Q9BZI7|UPF3B|Regulator	1.70030609200374	RNA-binding protein
+UniProtKB|B9A023|EIF4E2|Eukaryotic	0.0462827280527016	Non RNA-binding protein
+UniProtKB|A0A024R320|PCBP4|Poly(RC)	-0.305900952036794	Non RNA-binding protein
+UniProtKB|Q2NKY6|-|Uncharacterized	0.726882266449141	RNA-binding protein
+UniProtKB|P13667|PDIA4|Protein	0.413947618624258	RNA-binding protein
+UniProtKB|Q6ZV39|-|cDNA	0.291752865762317	Non RNA-binding protein
+UniProtKB|Q7Z3W9|DKFZp686G18222|Putative	-0.0806901557198029	Non RNA-binding protein
+UniProtKB|Q9Y4Y9|LSM5|U6	-0.519450042667289	Non RNA-binding protein
+UniProtKB|P46109|CRKL|Crk-like	-0.254604962597955	Non RNA-binding protein
+UniProtKB|Q8WUQ7|CACTIN|Cactin	1.04169910606836	RNA-binding protein
+UniProtKB|A3KFL5|EXOSC2|Exosome	0.317298262378045	RNA-binding protein
+UniProtKB|Q9NW64|RBM22|Pre-mRNA-splicing	0.0851819885926421	Non RNA-binding protein
+UniProtKB|Q9BYK8|HELZ2|Helicase	0.448043320239179	RNA-binding protein
+UniProtKB|Q08J23|NSUN2|tRNA	0.355033949725727	RNA-binding protein
+UniProtKB|Q8WWH5|TRUB1|Probable	-0.374975014714249	Non RNA-binding protein
+UniProtKB|P46776|RPL27A|60S	0.929918420519829	RNA-binding protein
+UniProtKB|A0AV96|RBM47|RNA-binding	-0.224780610165941	Non RNA-binding protein
+UniProtKB|Q9GZR2|REXO4|RNA	0.946094949571284	RNA-binding protein
+UniProtKB|H7C257|SON|Protein	-1.02173391409044	Non RNA-binding protein
+UniProtKB|Q15046|KARS|Lysine--tRNA	0.423066207285959	RNA-binding protein
+UniProtKB|Q96H35|RBM18|Probable	-0.273791309618788	Non RNA-binding protein
+UniProtKB|O14776|TCERG1|Transcription	0.105482712492666	Non RNA-binding protein
+UniProtKB|Q9UQ35|SRRM2|Serine/arginine	0.314610157235195	RNA-binding protein
+UniProtKB|B4DDX2|-|cDNA	0.209471791499865	Non RNA-binding protein
+UniProtKB|Q9BX40|LSM14B|Protein	-0.104294079594748	Non RNA-binding protein
+UniProtKB|A0A140VK44|-|Proteasome	-0.0120224345318942	Non RNA-binding protein
+UniProtKB|Q06413|MEF2C|Myocyte-specific	-0.318078133373368	Non RNA-binding protein
+UniProtKB|P11387|TOP1|DNA	1.20173618174223	RNA-binding protein
+UniProtKB|O94818|NOL4|Nucleolar	-0.333508709874886	Non RNA-binding protein
+UniProtKB|Q9UIS4|SNRPB|Small	-0.0546443292593667	Non RNA-binding protein
+UniProtKB|B4DNE0|-|cDNA	0.244506945438885	Non RNA-binding protein
+UniProtKB|Q9H7B2|RPF2|Ribosome	0.899812197716178	RNA-binding protein
+UniProtKB|Q9H0S4|DDX47|Probable	0.375309710749648	RNA-binding protein
+UniProtKB|Q86XP3|DDX42|ATP-dependent	0.558761778542388	RNA-binding protein
+UniProtKB|Q9NZM5|GLTSCR2|Glioma	1.08177438328288	RNA-binding protein
+UniProtKB|B3KSH1|EIF3F|Eukaryotic	-0.452147190575684	Non RNA-binding protein
+UniProtKB|Q96B26|EXOSC8|Exosome	-0.294747255291327	Non RNA-binding protein
+UniProtKB|C9J250|RBM6|RNA-binding	-0.37640590896493	Non RNA-binding protein
+UniProtKB|Q5T3I0|GPATCH4|G	1.48914671355303	RNA-binding protein
+UniProtKB|Q66PJ3|ARL6IP4|ADP-ribosylation	0.530118971269877	RNA-binding protein
+UniProtKB|P82921|MRPS21|28S	0.037083476319126	Non RNA-binding protein
+UniProtKB|P03950|ANG|Angiogenin	-0.0332991122763966	Non RNA-binding protein
+UniProtKB|Q14004|CDK13|Cyclin-dependent	0.077019516067636	Non RNA-binding protein
+UniProtKB|P83881|RPL36A|60S	0.720003991310812	RNA-binding protein
+UniProtKB|Q9NR30|DDX21|Nucleolar	1.22961768971081	RNA-binding protein
+UniProtKB|F8VP89|EIF4B|Eukaryotic	0.455106055723554	RNA-binding protein
+UniProtKB|A6PVI3|NCBP2L|Nuclear	0.428441417552016	RNA-binding protein
+UniProtKB|A0A024R813|EYA1|Eyes	-1.00664230673137	Non RNA-binding protein
+UniProtKB|Q6P161|MRPL54|39S	0.731331129253149	RNA-binding protein
+UniProtKB|P07305|H1F0|Histone	1.48854335950239	RNA-binding protein
+UniProtKB|P46779|RPL28|60S	0.276223424002429	Non RNA-binding protein
+UniProtKB|Q9P127|LUZP4|Leucine	-0.0591010973406049	Non RNA-binding protein
+UniProtKB|Q9BYC8|MRPL32|39S	0.381933024222367	RNA-binding protein
+UniProtKB|Q3ZCQ8|TIMM50|Mitochondrial	0.108229922293899	Non RNA-binding protein
+UniProtKB|Q6PI48|DARS2|Aspartate--tRNA	0.123952028752224	Non RNA-binding protein
+UniProtKB|Q9H8H0|NOL11|Nucleolar	-0.427974144429173	Non RNA-binding protein
+UniProtKB|B4DEP6|-|cDNA	0.663670548657372	RNA-binding protein
+UniProtKB|P58107|EPPK1|Epiplakin	0.248260296661838	Non RNA-binding protein
+UniProtKB|A0A024RBS0|DDX55|RNA	0.720171865022416	RNA-binding protein
+UniProtKB|P21333|FLNA|Filamin-A	0.118129110039173	Non RNA-binding protein
+UniProtKB|A0A024QZD5|SNRP70|Small	1.01589724752069	RNA-binding protein
+UniProtKB|Q8NAV1|PRPF38A|Pre-mRNA-splicing	0.581715071550497	RNA-binding protein
+UniProtKB|Q9Y4W2|LAS1L|Ribosomal	0.00337806584229805	Non RNA-binding protein
+UniProtKB|Q6AI08|HEATR6|HEAT	-0.739147004725094	Non RNA-binding protein
+UniProtKB|Q13595|TRA2A|Transformer-2	0.171573748569922	Non RNA-binding protein
+UniProtKB|Q9BZE1|MRPL37|39S	0.000875848064636142	Non RNA-binding protein
+UniProtKB|Q9P258|RCC2|Protein	0.00446574177825332	Non RNA-binding protein
+UniProtKB|P48431|SOX2|Transcription	-0.207359029841237	Non RNA-binding protein
+UniProtKB|A0A024R6W2|NUDT21|Nudix	0.0109117870054921	Non RNA-binding protein
+UniProtKB|Q7Z7A3|CTU1|Cytoplasmic	0.576736482766092	RNA-binding protein
+UniProtKB|O43670|ZNF207|BUB3-interacting	-0.439510491345999	Non RNA-binding protein
+UniProtKB|Q92769|HDAC2|Histone	0.174302747717704	Non RNA-binding protein
+UniProtKB|Q68CQ4|DIEXF|Digestive	0.113011974372349	Non RNA-binding protein
+UniProtKB|Q14149|MORC3|MORC	-0.0966712659264591	Non RNA-binding protein
+UniProtKB|Q9NX07|TRNAU1AP|tRNA	-0.443248224269546	Non RNA-binding protein
+UniProtKB|Q92900|UPF1|Regulator	-0.368751011802037	Non RNA-binding protein
+UniProtKB|Q9BZJ0|CRNKL1|Crooked	0.451983713827347	RNA-binding protein
+UniProtKB|Q02790|FKBP4|Peptidyl-prolyl	0.425949264061548	RNA-binding protein
+UniProtKB|O75347|TBCA|Tubulin-specific	0.208333791642622	Non RNA-binding protein
+UniProtKB|Q13895|BYSL|Bystin	0.341204033035285	RNA-binding protein
+UniProtKB|P46087|NOP2|Probable	0.996678297095266	RNA-binding protein
+UniProtKB|Q92901|RPL3L|60S	0.783774961287899	RNA-binding protein
+UniProtKB|O60841|EIF5B|Eukaryotic	1.60036031966072	RNA-binding protein
+UniProtKB|Q14137|BOP1|Ribosome	-0.0651585014233388	Non RNA-binding protein
+UniProtKB|O75569|PRKRA|Interferon-inducible	-0.426837465038795	Non RNA-binding protein
+UniProtKB|Q14240|EIF4A2|Eukaryotic	-0.212546555516186	Non RNA-binding protein
+UniProtKB|B5BU01|EIF2S2|Eukaryotic	0.721449846287877	RNA-binding protein
+UniProtKB|A0A024R4M0|RPS9|40S	0.97861667502047	RNA-binding protein
+UniProtKB|B3KM64|-|cDNA	-0.444492829656864	Non RNA-binding protein
+UniProtKB|F8VPW7|OAS1|2'-5'-oligoadenylate	0.125696984304614	Non RNA-binding protein
+UniProtKB|H0YIH0|METTL1|tRNA	0.321956413257762	RNA-binding protein
+UniProtKB|Q3ZM02|OAS1|2'-5'	0.167786175484119	Non RNA-binding protein
+UniProtKB|P55072|VCP|Transitional	0.651319729710577	RNA-binding protein
+UniProtKB|Q9BZD1|-|Ewings	-1.30113733570147	Non RNA-binding protein
+UniProtKB|Q9BZB8|CPEB1|Cytoplasmic	-0.468427281400147	Non RNA-binding protein
+UniProtKB|Q15024|EXOSC7|Exosome	-0.263713685372524	Non RNA-binding protein
+UniProtKB|F6TB26|TDRKH|Tudor	-0.384309159385427	Non RNA-binding protein
+UniProtKB|Q01860|POU5F1|POU	-0.159020695016972	Non RNA-binding protein
+UniProtKB|P08195|SLC3A2|4F2	-0.383876092136267	Non RNA-binding protein
+UniProtKB|Q9BZE4|GTPBP4|Nucleolar	0.664010275489287	RNA-binding protein
+UniProtKB|A0A0R4J2E6|ELAVL4|ELAV-like	-0.246921976613211	Non RNA-binding protein
+UniProtKB|Q6IMN6|CAPRIN2|Caprin-2	-0.284263714575132	Non RNA-binding protein
+UniProtKB|Q9H307|PNN|Pinin	0.33867251231938	RNA-binding protein
+UniProtKB|P63220|RPS21|40S	-0.0869435223405772	Non RNA-binding protein
+UniProtKB|K7ELC2|RPS15|40S	0.898599802264517	RNA-binding protein
+UniProtKB|Q8N5C6|SRBD1|S1	0.368832547057179	RNA-binding protein
+UniProtKB|Q13442|PDAP1|28	1.17015905371358	RNA-binding protein
+UniProtKB|O75792|RNASEH2A|Ribonuclease	0.138751711093645	Non RNA-binding protein
+UniProtKB|Q5VWX1|KHDRBS2|KH	0.428315249106236	RNA-binding protein
+UniProtKB|Q4VXU2|PABPC1L|Polyadenylate-binding	0.224836586512666	Non RNA-binding protein
+UniProtKB|Q15427|SF3B4|Splicing	-0.243749509523878	Non RNA-binding protein
+UniProtKB|Q9NPD3|EXOSC4|Exosome	-0.175616344076997	Non RNA-binding protein
+UniProtKB|Q9HC52|CBX8|Chromobox	0.806119378780781	RNA-binding protein
+UniProtKB|B7Z1G0|-|cDNA	-0.0910380780651609	Non RNA-binding protein
+UniProtKB|Q4G0J3|LARP7|La-related	1.31360436904644	RNA-binding protein
+UniProtKB|A0A024R5S5|EIF3S1|Eukaryotic	0.59217969892587	RNA-binding protein
+UniProtKB|P79522|PRR3|Proline-rich	0.264549847387627	Non RNA-binding protein
+UniProtKB|O95391|SLU7|Pre-mRNA-splicing	0.716705078111221	RNA-binding protein
+UniProtKB|Q9H2Y7|ZNF106|Zinc	-0.0533488263114562	Non RNA-binding protein
+UniProtKB|Q00688|FKBP3|Peptidyl-prolyl	0.610029545710251	RNA-binding protein
+UniProtKB|O60583|CCNT2|Cyclin-T2	-0.627830706290263	Non RNA-binding protein
+UniProtKB|Q9HC36|MRM3|rRNA	0.344837397092932	RNA-binding protein
+UniProtKB|Q06830|PRDX1|Peroxiredoxin-1	-0.255219194036827	Non RNA-binding protein
+UniProtKB|Q6PK04|CCDC137|Coiled-coil	0.960792793728397	RNA-binding protein
+UniProtKB|P61254|RPL26|60S	0.947239220785445	RNA-binding protein
+UniProtKB|Q7Z5Q1|CPEB2|Cytoplasmic	-0.553198150132765	Non RNA-binding protein
+UniProtKB|O00541|PES1|Pescadillo	1.23461672325512	RNA-binding protein
+UniProtKB|Q96PU8|QKI|Protein	-0.0901088404504893	Non RNA-binding protein
+UniProtKB|Q7Z7L1|SLFN11|Schlafen	0.0734133981385184	Non RNA-binding protein
+UniProtKB|P26447|S100A4|Protein	0.117922297253999	Non RNA-binding protein
+UniProtKB|Q9NNW5|WDR6|WD	-0.559206336213684	Non RNA-binding protein
+UniProtKB|H0YCK3|ADAR|Double-stranded	-0.0399485693197012	Non RNA-binding protein
+UniProtKB|O43159|RRP8|Ribosomal	0.51250821000728	RNA-binding protein
+UniProtKB|B4DEH4|-|cDNA	-0.430693693182892	Non RNA-binding protein
+UniProtKB|P26368|U2AF2|Splicing	-0.570160469806733	Non RNA-binding protein
+UniProtKB|K7EQU7|TRMT1|tRNA	-0.337482275073489	Non RNA-binding protein
+UniProtKB|A0A0B4J1V8|PPAN-P2RY11|HCG2039996	-0.22623897247792	Non RNA-binding protein
+UniProtKB|Q9NPI7|KRCC1|Lysine-rich	1.06956291755249	RNA-binding protein
+UniProtKB|A0A024R9K4|FYTTD1|Forty-two-three	0.493183545998162	RNA-binding protein
+UniProtKB|Q14331|FRG1|Protein	0.698619211885472	RNA-binding protein
+UniProtKB|A0A024RAQ1|CSDA|Cold	0.488082311529343	RNA-binding protein
+UniProtKB|Q93073|SECISBP2L|Selenocysteine	-0.184569440116919	Non RNA-binding protein
+UniProtKB|Q6ZP53|-|cDNA	0.719362216866458	RNA-binding protein
+UniProtKB|Q03701|CEBPZ|CCAAT/enhancer-binding	0.467176381290553	RNA-binding protein
+UniProtKB|O15504|NUPL2|Nucleoporin-like	-0.696224941375263	Non RNA-binding protein
+UniProtKB|Q8IU60|DCP2|m7GpppN-mRNA	0.0899307520441988	Non RNA-binding protein
+UniProtKB|M0R2T0|HNRNPM|Heterogeneous	0.636593534420248	RNA-binding protein
+UniProtKB|P16403|HIST1H1C|Histone	0.979388525015266	RNA-binding protein
+UniProtKB|Q07954|LRP1|Prolow-density	-0.976775742890065	Non RNA-binding protein
+UniProtKB|Q99575|POP1|Ribonucleases	0.405823844530539	RNA-binding protein
+UniProtKB|Q08170|SRSF4|Serine/arginine-rich	0.785253931013889	RNA-binding protein
+UniProtKB|Q5SY38|EIF2D|Eukaryotic	-0.342392436257571	Non RNA-binding protein
+UniProtKB|P21128|ENDOU|Poly(U)-specific	-0.440676127363787	Non RNA-binding protein
+UniProtKB|B4DSS8|-|cDNA	-0.453104611844982	Non RNA-binding protein
+UniProtKB|P63162|SNRPN|Small	-0.0143377450305634	Non RNA-binding protein
+UniProtKB|Q9NV31|IMP3|U3	0.857901785572273	RNA-binding protein
+UniProtKB|M0R2N4|-|Uncharacterized	0.0408298103288919	Non RNA-binding protein
+UniProtKB|O95429|BAG4|BAG	-0.558815989826174	Non RNA-binding protein
+UniProtKB|Q02040|AKAP17A|A-kinase	1.65581512803812	RNA-binding protein
+UniProtKB|Q96T37|RBM15|Putative	0.336389438643106	RNA-binding protein
+UniProtKB|Q969X6|UTP4|U3	-0.433372217433315	Non RNA-binding protein
+UniProtKB|Q16540|MRPL23|39S	-0.252186856996122	Non RNA-binding protein
+UniProtKB|Q1KMD3|HNRNPUL2|Heterogeneous	0.651054175730589	RNA-binding protein
+UniProtKB|A0A024R2F4|THUMPD3|THUMP	-0.120180865623323	Non RNA-binding protein
+UniProtKB|V5YQU3|FGFR2-BICC1|FGFR2-BICC1	-0.738641422355523	Non RNA-binding protein
+UniProtKB|F2Z2Z0|PABPC1L|Polyadenylate-binding	-0.7202295731854	Non RNA-binding protein
+UniProtKB|Q96A33|CCDC47|Coiled-coil	0.245116326118928	Non RNA-binding protein
+UniProtKB|Q8WU43|C2orf15|Uncharacterized	0.141551448740625	Non RNA-binding protein
+UniProtKB|Q9NP64|ZCCHC17|Nucleolar	0.743230947288603	RNA-binding protein
+UniProtKB|A0A024RCH0|TCEAL6|Transcription	0.518032021028508	RNA-binding protein
+UniProtKB|P39023|RPL3|60S	0.894820395016124	RNA-binding protein
+UniProtKB|Q9Y5G4|PCDHGA9|Protocadherin	-0.960387953907984	Non RNA-binding protein
+UniProtKB|Q70T17|-|FUS/BBF2H7	-0.60196897476865	Non RNA-binding protein
+UniProtKB|Q08211|DHX9|ATP-dependent	-0.064286673755451	Non RNA-binding protein
+UniProtKB|H9KVD5|FYTTD1|UAP56-interacting	0.508849183441748	RNA-binding protein
+UniProtKB|P14625|HSP90B1|Endoplasmin	0.930418544095227	RNA-binding protein
+UniProtKB|P61764|STXBP1|Syntaxin-binding	-0.488025210661612	Non RNA-binding protein
+UniProtKB|Q7L576|CYFIP1|Cytoplasmic	0.37399619512696	RNA-binding protein
+UniProtKB|Q9Y4Z0|LSM4|U6	0.554081548899467	RNA-binding protein
+UniProtKB|O14647|CHD2|Chromodomain-helicase-DNA-binding	1.47907416832888	RNA-binding protein

@@ -92,32 +92,32 @@ fi
 #####  get performance: e.coli
 if [ ! -f $prediction/561/RBP_590.TriPepSVM.pred.txt ];then
 	mxqsub -t 2h -m 10G \
-	bash $scriptDir/../../TriPepSVM.sh -i $testData/RBP_590.fasta -o $prediction/561 -id 561 -pos 1.8 -neg 0.2 -thr 0.26 -r TRUE -m trainData
+	bash $scriptDir/../../TriPepSVM.sh -i $testData/RBP_590.fasta -o $prediction/561 -id 561 -pos 1 -neg 0.1 -thr 0.3 -r TRUE -m trainData
 fi
 
 if [ ! -f $prediction/561/NRBP_590.TriPepSVM.pred.txt ];then
 	mxqsub -t 2h -m 10G \
-	bash $scriptDir/../../TriPepSVM.sh -i $testData/NRBP_590.fasta -o $prediction/561 -id 561 -pos 1.8 -neg 0.2 -thr 0.26 -r TRUE -m trainData
+	bash $scriptDir/../../TriPepSVM.sh -i $testData/NRBP_590.fasta -o $prediction/561 -id 561 -pos 1 -neg 0.1 -thr 0.3 -r TRUE -m trainData
 fi
 
 if [ ! -f $prediction/561/RBP_561.TriPepSVM.pred.txt ];then
 	mxqsub -t 2h -m 10G \
-	bash $scriptDir/../../TriPepSVM.sh -i $testData/RBP_561.fasta -o $prediction/561 -id 561 -pos 1.8 -neg 0.2 -thr 0.26 -r TRUE -m trainData
+	bash $scriptDir/../../TriPepSVM.sh -i $testData/RBP_561.fasta -o $prediction/561 -id 561 -pos 1 -neg 0.1 -thr 0.3 -r TRUE -m trainData
 fi
 
 if [ ! -f $prediction/561/NRBP_561.TriPepSVM.pred.txt ];then
 	mxqsub -t 2h -m 10G \
-	bash $scriptDir/../../TriPepSVM.sh -i $testData/NRBP_561.fasta -o $prediction/561 -id 561 -pos 1.8 -neg 0.2 -thr 0.26 -r TRUE -m trainData
+	bash $scriptDir/../../TriPepSVM.sh -i $testData/NRBP_561.fasta -o $prediction/561 -id 561 -pos 1 -neg 0.1 -thr 0.3 -r TRUE -m trainData
 fi
 
 if [ ! -f $prediction/561/RBP_9606.TriPepSVM.pred.txt ];then
 	mxqsub -t 2h -m 10G \
-	bash $scriptDir/../../TriPepSVM.sh -i $testData/RBP_9606.fasta -o $prediction/561 -id 561 -pos 1.8 -neg 0.2 -thr 0.26 -r TRUE -m trainData
+	bash $scriptDir/../../TriPepSVM.sh -i $testData/RBP_9606.fasta -o $prediction/561 -id 561 -pos 1 -neg 0.1 -thr 0.3 -r TRUE -m trainData
 fi
 
 if [ ! -f $prediction/561/NRBP_9606.TriPepSVM.pred.txt ];then
 	mxqsub -t 2h -m 10G \
-	bash $scriptDir/../../TriPepSVM.sh -i $testData/NRBP_9606.fasta -o $prediction/561 -id 561 -pos 1.8 -neg 0.2 -thr 0.26 -r TRUE -m trainData
+	bash $scriptDir/../../TriPepSVM.sh -i $testData/NRBP_9606.fasta -o $prediction/561 -id 561 -pos 1 -neg 0.1 -thr 0.3 -r TRUE -m trainData
 fi
 
 Rscript $scriptDir/source/plotCrossSpecies.r $prediction $scriptDir/crossSpeciesPrediction.pdf $scriptDir/colorScale.png

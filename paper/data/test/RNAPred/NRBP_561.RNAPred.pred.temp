@@ -1,4 +1,5 @@
-sp|P37146|RIR4_ECOL	-0.83	RNA-binding protein
+Sequence name	SVM score	Prediction
+sp|P37146|RIR4_ECOL	-0.83	Non RNA-binding protein
 sp|P19704|T1SA_ECOL	0.67	RNA-binding protein
 sp|P0ADX5|YHFG_ECOL	-1.03	Non RNA-binding protein
 sp|P52044|YGFI_ECOL	0.28	RNA-binding protein
@@ -9,7 +10,7 @@ sp|P0AET3|HDEB_ECOL	0.63	RNA-binding protein
 sp|P23538|PPSA_ECOL	1.12	RNA-binding protein
 sp|P0AF43|YJBB_ECOL	-1.91	Non RNA-binding protein
 sp|P13016|AMPD_ECOL	-2.06	Non RNA-binding protein
-sp|P12758|UDP_ECOLI	-0.32	RNA-binding protein
+sp|P12758|UDP_ECOLI	-0.32	Non RNA-binding protein
 sp|P77475|YQAB_ECOL	-1.29	Non RNA-binding protein
 sp|P33607|NUOL_ECOL	-7.10	Non RNA-binding protein
 sp|Q8FF70|PPK_ECOL6	1.06	RNA-binding protein
@@ -27,55 +28,55 @@ sp|B7USB4|CHBG_ECO2	-1.13	Non RNA-binding protein
 sp|P62538|REPE2_ECO	0.39	RNA-binding protein
 sp|P45753|HOFM_ECOL	-1.59	Non RNA-binding protein
 sp|P0AF33|NARV_ECO5	-6.99	Non RNA-binding protein
-sp|Q8X4S6|ARGD_ECO5	-0.73	RNA-binding protein
+sp|Q8X4S6|ARGD_ECO5	-0.73	Non RNA-binding protein
 sp|P32138|SQASE_ECO	-1.86	Non RNA-binding protein
 sp|P0AFD2|NUOE_ECOL	0.23	RNA-binding protein
 sp|B1XEU8|SFGH1_ECO	0.12	RNA-binding protein
 sp|P0AF51|YJBR_ECO5	0.78	RNA-binding protein
 sp|O32583|THIS_ECOL	0.58	RNA-binding protein
-sp|B1IYQ2|DGOD_ECOL	-0.48	RNA-binding protein
-sp|B1IRK5|YHAM_ECOL	-0.41	RNA-binding protein
+sp|B1IYQ2|DGOD_ECOL	-0.48	Non RNA-binding protein
+sp|B1IRK5|YHAM_ECOL	-0.41	Non RNA-binding protein
 sp|P77437|HYFF_ECOL	-7.51	Non RNA-binding protein
 sp|P10805|ENVY_ECOL	0.15	RNA-binding protein
 sp|P53656|BIOA_ESCV	-1.40	Non RNA-binding protein
 sp|P07017|MCP2_ECOL	0.34	RNA-binding protein
-sp|P33997|ALPA_ECOL	-0.21	RNA-binding protein
+sp|P33997|ALPA_ECOL	-0.21	Non RNA-binding protein
 sp|P0AFK4|POTB_ECOL	-8.22	Non RNA-binding protein
 sp|P37909|YBGD_ECOL	-1.08	Non RNA-binding protein
 sp|A7ZPW6|PEPB_ECO2	-1.31	Non RNA-binding protein
 sp|A8A7U3|ULAE_ECOH	0.29	RNA-binding protein
 sp|P04744|PAPB_ECOL	-2.04	Non RNA-binding protein
-sp|B7UJC6|XGPT_ECO2	-0.70	RNA-binding protein
+sp|B7UJC6|XGPT_ECO2	-0.70	Non RNA-binding protein
 sp|P39332|YJGH_ECOL	-1.88	Non RNA-binding protein
-sp|P39391|YJIT_ECOL	-0.39	RNA-binding protein
+sp|P39391|YJIT_ECOL	-0.39	Non RNA-binding protein
 sp|P31680|DJLA_ECOL	1.83	RNA-binding protein
 sp|P22521|IMMV_ECOL	-2.10	Non RNA-binding protein
 sp|P52106|CSGD_ECOL	-0.10	RNA-binding protein
 sp|P05719|T1SK_ECOL	2.26	RNA-binding protein
 sp|P13036|FECA_ECOL	-0.91	Non RNA-binding protein
-sp|B7UR10|TYPH_ECO2	-0.37	RNA-binding protein
+sp|B7UR10|TYPH_ECO2	-0.37	Non RNA-binding protein
 sp|P0ACT2|ENVR_ECOL	1.41	RNA-binding protein
 sp|B7MYB2|YPFN_ECO8	-4.07	Non RNA-binding protein
 sp|P08701|IMMI_ECOL	-8.15	Non RNA-binding protein
 sp|P77269|YPHF_ECOL	0.93	RNA-binding protein
-sp|Q8FDS2|Y3666_ECO	-0.31	RNA-binding protein
+sp|Q8FDS2|Y3666_ECO	-0.31	Non RNA-binding protein
 sp|B7MAZ5|PLSY_ECO4	-5.89	Non RNA-binding protein
 sp|Q8XDS6|LEUE_ECO5	-6.63	Non RNA-binding protein
-sp|P36682|YACH_ECOL	-0.34	RNA-binding protein
+sp|P36682|YACH_ECOL	-0.34	Non RNA-binding protein
 sp|P0AF79|YJFJ_ECOL	1.03	RNA-binding protein
 sp|P0C0L8|PROP_ECO5	-3.28	Non RNA-binding protein
 sp|P0AFY9|SEQA_ECOL	0.73	RNA-binding protein
 sp|P13009|METH_ECOL	0.49	RNA-binding protein
 sp|P77156|YDCU_ECOL	-7.46	Non RNA-binding protein
 sp|Q8XD58|IDI_ECO57	-0.91	Non RNA-binding protein
-sp|B7MXS6|RHMA_ECO8	-0.25	RNA-binding protein
+sp|B7MXS6|RHMA_ECO8	-0.25	Non RNA-binding protein
 sp|B1J0T9|CYNS_ECOL	-0.92	Non RNA-binding protein
 sp|P64481|YDJM_ECOL	-4.78	Non RNA-binding protein
 sp|P16682|PHND_ECOL	1.12	RNA-binding protein
 sp|P75931|YCEM_ECOL	-0.91	Non RNA-binding protein
-sp|Q8X574|XERD_ECO5	-0.41	RNA-binding protein
+sp|Q8X574|XERD_ECO5	-0.41	Non RNA-binding protein
 sp|P0A9W7|IBAG_ECOL	1.11	RNA-binding protein
-sp|P75975|CROE_ECOL	-0.39	RNA-binding protein
+sp|P75975|CROE_ECOL	-0.39	Non RNA-binding protein
 sp|P13809|RPI_ECOLX	0.82	RNA-binding protein
 sp|B7NNT0|YBJL_ECO7	-2.96	Non RNA-binding protein
 sp|P76513|YFDQ_ECOL	-0.10	RNA-binding protein
@@ -83,38 +84,38 @@ sp|P0AEU9|SKP_ECO57	1.31	RNA-binding protein
 sp|Q8FG50|HIS7_ECOL	0.76	RNA-binding protein
 sp|P31469|CBRC_ECOL	-1.40	Non RNA-binding protein
 sp|P23876|FEPD_ECOL	-5.75	Non RNA-binding protein
-sp|P0AEH7|ELAB_ECO5	-0.24	RNA-binding protein
+sp|P0AEH7|ELAB_ECO5	-0.24	Non RNA-binding protein
 sp|P65552|GMM_ECO57	-2.53	Non RNA-binding protein
 sp|P25448|FANF_ECOL	-1.49	Non RNA-binding protein
 sp|Q46832|YGHD_ECOL	0.29	RNA-binding protein
 sp|P77682|GTRA_ECOL	-6.74	Non RNA-binding protein
 sp|P0ACJ7|DECR_ECO5	-1.01	Non RNA-binding protein
-sp|B5YZ99|ARAB_ECO5	-0.83	RNA-binding protein
+sp|B5YZ99|ARAB_ECO5	-0.83	Non RNA-binding protein
 sp|P13960|REA1_ECOL	0.11	RNA-binding protein
-sp|P45541|FRLC_ECOL	-0.42	RNA-binding protein
+sp|P45541|FRLC_ECOL	-0.42	Non RNA-binding protein
 sp|Q47317|IUCB_ECOL	-2.18	Non RNA-binding protein
 sp|B7MG46|NUOH_ECO4	-5.80	Non RNA-binding protein
 sp|B7LHJ4|CLSA_ECO5	-1.85	Non RNA-binding protein
 sp|P0AAR1|TOMB_ECOL	0.17	RNA-binding protein
-sp|P29744|FLGL_ECOL	-0.36	RNA-binding protein
+sp|P29744|FLGL_ECOL	-0.36	Non RNA-binding protein
 sp|P77506|YBDJ_ECOL	-11.01	Non RNA-binding protein
-sp|P62593|BLAT_ECOL	-0.51	RNA-binding protein
+sp|P62593|BLAT_ECOL	-0.51	Non RNA-binding protein
 sp|P39361|SGCR_ECOL	-0.03	RNA-binding protein
-sp|P0ACH9|MELR_ECOL	-0.30	RNA-binding protein
+sp|P0ACH9|MELR_ECOL	-0.30	Non RNA-binding protein
 sp|O82899|YUBG_ECO5	-0.16	RNA-binding protein
 sp|P39274|YJDJ_ECOL	2.25	RNA-binding protein
 sp|P75954|YCFS_ECOL	-0.14	RNA-binding protein
-sp|A7ZUB8|RHAR_ECO2	-0.27	RNA-binding protein
+sp|A7ZUB8|RHAR_ECO2	-0.27	Non RNA-binding protein
 sp|P75806|YBJG_ECOL	-7.51	Non RNA-binding protein
 sp|P0ADY2|PPID_ECOL	1.70	RNA-binding protein
 sp|Q8X4Z9|YDEO_ECO5	-0.07	RNA-binding protein
 sp|Q9JMR6|YUAY_ECOL	0.24	RNA-binding protein
 sp|B5YTX2|RTCA_ECO5	-0.16	RNA-binding protein
 sp|P34211|YUAR_ECOL	-0.11	RNA-binding protein
-sp|P15006|MCRC_ECOL	-0.58	RNA-binding protein
+sp|P15006|MCRC_ECOL	-0.58	Non RNA-binding protein
 sp|B7MBC9|SFSA_ECO4	0.14	RNA-binding protein
 sp|P36548|AMIA_ECOL	1.20	RNA-binding protein
-sp|P37325|YBCH_ECOL	-0.59	RNA-binding protein
+sp|P37325|YBCH_ECOL	-0.59	Non RNA-binding protein
 sp|B7UFS1|ARNF_ECO2	-10.37	Non RNA-binding protein
 sp|Q5JBK6|YUBL2_ECO	-1.54	Non RNA-binding protein
 sp|P0AFL1|POTI_ECOL	-5.63	Non RNA-binding protein
@@ -124,7 +125,7 @@ sp|P28246|BCR_ECOLI	-5.72	Non RNA-binding protein
 sp|P76072|STFR_ECOL	-0.92	Non RNA-binding protein
 sp|P64565|YGGT_ECOL	-7.43	Non RNA-binding protein
 sp|P21867|RAFR_ECOL	-1.87	Non RNA-binding protein
-sp|P0AD33|YFCZ_ECOL	-0.68	RNA-binding protein
+sp|P0AD33|YFCZ_ECOL	-0.68	Non RNA-binding protein
 sp|P37681|YIAT_ECOL	-1.65	Non RNA-binding protein
 sp|P16869|FHUE_ECOL	-1.95	Non RNA-binding protein
 sp|P33235|FLGK_ECOL	-1.19	Non RNA-binding protein
@@ -135,7 +136,7 @@ sp|P30176|RIBX_ECOL	1.08	RNA-binding protein
 sp|Q9JMT1|YUAH_ECOL	0.55	RNA-binding protein
 sp|P69367|MDTH_ECOL	-4.74	Non RNA-binding protein
 sp|P75711|YBBV_ECOL	0.72	RNA-binding protein
-sp|B7MYB7|DAPA_ECO8	-0.32	RNA-binding protein
+sp|B7MYB7|DAPA_ECO8	-0.32	Non RNA-binding protein
 sp|Q7DBJ9|YDET_ECO5	-1.46	Non RNA-binding protein
 sp|A7ZPY3|HCAC_ECO2	-1.27	Non RNA-binding protein
 sp|Q46800|XDHB_ECOL	-1.13	Non RNA-binding protein
@@ -149,19 +150,19 @@ sp|A7ZNJ1|HIS1_ECO2	0.83	RNA-binding protein
 sp|Q8X6C0|YGEW_ECO5	0.73	RNA-binding protein
 sp|P0ADX7|YHHA_ECOL	1.03	RNA-binding protein
 sp|Q8X8D5|SQUT_ECO5	1.01	RNA-binding protein
-sp|B7LA91|DCUP_ECO5	-0.22	RNA-binding protein
-sp|Q46896|CAS1_ECOL	-0.56	RNA-binding protein
+sp|B7LA91|DCUP_ECO5	-0.22	Non RNA-binding protein
+sp|Q46896|CAS1_ECOL	-0.56	Non RNA-binding protein
 sp|P02970|FAEG1_ECO	-3.68	Non RNA-binding protein
 sp|P37767|YFHH_ECOL	1.18	RNA-binding protein
 sp|P76552|EUTH_ECOL	-3.25	Non RNA-binding protein
 sp|P0AC33|FUMA_ECOL	1.10	RNA-binding protein
 sp|P0AGE6|CHRR_ECOL	1.06	RNA-binding protein
 sp|P76269|YEBQ_ECOL	-5.00	Non RNA-binding protein
-sp|Q7BSW8|KATG2_ECO	-0.23	RNA-binding protein
+sp|Q7BSW8|KATG2_ECO	-0.23	Non RNA-binding protein
 sp|P64588|YQJI_ECOL	1.71	RNA-binding protein
 sp|P31808|YCIK_ECOL	0.88	RNA-binding protein
 sp|B7M1P4|TUSB_ECO8	-2.63	Non RNA-binding protein
-sp|P05804|BGLR_ECOL	-0.70	RNA-binding protein
+sp|P05804|BGLR_ECOL	-0.70	Non RNA-binding protein
 sp|Q9EZE7|ESPC_ECO2	-2.29	Non RNA-binding protein
 sp|P77316|YBDR_ECOL	0.17	RNA-binding protein
 sp|P33915|YEJE_ECOL	-6.01	Non RNA-binding protein
@@ -176,17 +177,17 @@ sp|P21437|GLPX2_ECO	-0.09	RNA-binding protein
 sp|P64446|YNAJ_ECOL	-3.96	Non RNA-binding protein
 sp|P77667|SUFA_ECOL	0.04	RNA-binding protein
 sp|P0AEG5|DSBA_ECO5	0.19	RNA-binding protein
-sp|A7ZTJ2|SLMA_ECO2	-0.29	RNA-binding protein
+sp|A7ZTJ2|SLMA_ECO2	-0.29	Non RNA-binding protein
 sp|P19926|AGP_ECOLI	1.21	RNA-binding protein
-sp|P55798|PRP1_ECOL	-0.51	RNA-binding protein
+sp|P55798|PRP1_ECOL	-0.51	Non RNA-binding protein
 sp|P75737|YBFP_ECOL	0.27	RNA-binding protein
 sp|B5YY27|GPPA_ECO5	0.00	RNA-binding protein
 sp|P37344|PSPF_ECOL	0.15	RNA-binding protein
-sp|P11257|T341_ECOL	-0.27	RNA-binding protein
+sp|P11257|T341_ECOL	-0.27	Non RNA-binding protein
 sp|P15319|PAPD_ECOL	1.53	RNA-binding protein
 sp|Q8FBH7|MOBA_ECOL	0.05	RNA-binding protein
 sp|P13988|TNSA_ECOL	0.78	RNA-binding protein
-sp|P26281|HPPK_ECOL	-0.32	RNA-binding protein
+sp|P26281|HPPK_ECOL	-0.32	Non RNA-binding protein
 sp|Q46796|YGEP_ECOL	0.64	RNA-binding protein
 sp|P77599|YFCS_ECOL	1.70	RNA-binding protein
 sp|B7N6A5|RLMN_ECOL	1.17	RNA-binding protein
@@ -196,14 +197,14 @@ sp|P45468|YRAQ_ECOL	-4.98	Non RNA-binding protein
 sp|P76236|YEAI_ECOL	-3.84	Non RNA-binding protein
 sp|P0AD42|PGPC_ECOL	-2.86	Non RNA-binding protein
 sp|P02988|GENK_ECOL	-2.51	Non RNA-binding protein
-sp|P76633|YGCW_ECOL	-0.60	RNA-binding protein
+sp|P76633|YGCW_ECOL	-0.60	Non RNA-binding protein
 sp|A7ZHD4|FIXA_ECO2	0.53	RNA-binding protein
-sp|P08506|DACC_ECOL	-0.81	RNA-binding protein
+sp|P08506|DACC_ECOL	-0.81	Non RNA-binding protein
 sp|P16429|HYCC_ECOL	-6.31	Non RNA-binding protein
 sp|B7LZZ2|MDTJ_ECO8	-6.89	Non RNA-binding protein
-sp|Q2EES0|YNFO_ECOL	-0.30	RNA-binding protein
+sp|Q2EES0|YNFO_ECOL	-0.30	Non RNA-binding protein
 sp|P69827|PTMCB_ECO	-2.28	Non RNA-binding protein
-sp|P75843|YCAQ_ECOL	-0.84	RNA-binding protein
+sp|P75843|YCAQ_ECOL	-0.84	Non RNA-binding protein
 sp|P0AEV8|HYCH_ECO5	-0.19	RNA-binding protein
 sp|P13857|RIML_ECOL	1.30	RNA-binding protein
 sp|P03066|REPA2_ECO	0.90	RNA-binding protein
@@ -215,20 +216,20 @@ sp|B7LMJ8|YAII_ESCF	0.27	RNA-binding protein
 sp|P0CE45|UIDB2_ECO	-4.21	Non RNA-binding protein
 sp|P0A954|FABB_ECOL	-0.04	RNA-binding protein
 sp|P37751|WBBK_ECOL	-1.26	Non RNA-binding protein
-sp|P77307|FETB_ECOL	-0.36	RNA-binding protein
+sp|P77307|FETB_ECOL	-0.36	Non RNA-binding protein
 sp|B7LF05|LGT_ECO55	-5.42	Non RNA-binding protein
 sp|P13660|MBED_ECOL	-5.22	Non RNA-binding protein
-sp|P0ADI4|ENTB_ECOL	-0.37	RNA-binding protein
+sp|P0ADI4|ENTB_ECOL	-0.37	Non RNA-binding protein
 sp|P0A9I2|CITE_ECOL	0.90	RNA-binding protein
 sp|P77768|YFCI_ECOL	0.14	RNA-binding protein
 sp|P58402|EVGS_ECO5	0.28	RNA-binding protein
-sp|Q46889|YGBK_ECOL	-0.21	RNA-binding protein
+sp|Q46889|YGBK_ECOL	-0.21	Non RNA-binding protein
 sp|P75857|ELFC_ECOL	-1.05	Non RNA-binding protein
 sp|Q00736|TRAY5_ECO	1.29	RNA-binding protein
 sp|P42591|YGJJ_ECOL	-3.88	Non RNA-binding protein
 sp|P0AAV6|YBGS_ECOL	-3.59	Non RNA-binding protein
 sp|P27127|RFAB_ECOL	-0.14	RNA-binding protein
-sp|P08203|ARAD_ECOL	-0.53	RNA-binding protein
+sp|P08203|ARAD_ECOL	-0.53	Non RNA-binding protein
 sp|P23849|TRKG_ECOL	-8.17	Non RNA-binding protein
 sp|P05825|FEPA_ECOL	-1.27	Non RNA-binding protein
 sp|B7M5Q1|MQO_ECO8A	0.88	RNA-binding protein
@@ -251,30 +252,30 @@ sp|Q8FDU7|NANA2_ECO	0.96	RNA-binding protein
 sp|P03848|YPRR_ECOL	0.43	RNA-binding protein
 sp|P0AF62|GHOS_ECO5	-2.22	Non RNA-binding protein
 sp|P0AEZ1|METF_ECOL	0.15	RNA-binding protein
-sp|P62554|CCDB_ECOL	-0.33	RNA-binding protein
+sp|P62554|CCDB_ECOL	-0.33	Non RNA-binding protein
 sp|P0ACF5|DBHB_ECOL	-0.02	RNA-binding protein
 sp|P37050|YADN_ECOL	-2.99	Non RNA-binding protein
 sp|P46133|ABGT_ECOL	-5.37	Non RNA-binding protein
-sp|P76559|YPFG_ECOL	-0.77	RNA-binding protein
+sp|P76559|YPFG_ECOL	-0.77	Non RNA-binding protein
 sp|P54745|MNGA_ECOL	-2.70	Non RNA-binding protein
 sp|B7MBY4|NANK_ECO4	-2.96	Non RNA-binding protein
 sp|P0A9R5|FER_ECO57	-0.05	RNA-binding protein
 sp|P0AEC9|DCUS_ECO5	1.15	RNA-binding protein
 sp|P64624|YHEO_ECOL	0.77	RNA-binding protein
 sp|Q8X5W4|AROH_ECO5	-0.11	RNA-binding protein
-sp|P26838|CAT4_ECOL	-0.84	RNA-binding protein
+sp|P26838|CAT4_ECOL	-0.84	Non RNA-binding protein
 sp|Q57254|AFAE3_ECO	-3.24	Non RNA-binding protein
 sp|Q8FAJ3|ULAA_ECOL	-4.43	Non RNA-binding protein
 sp|P37197|YHJA_ECOL	0.74	RNA-binding protein
 sp|P75974|COHE_ECOL	-1.28	Non RNA-binding protein
 sp|P05820|CEAM_ECOL	-0.97	Non RNA-binding protein
-sp|P39374|YJIC_ECOL	-0.56	RNA-binding protein
+sp|P39374|YJIC_ECOL	-0.56	Non RNA-binding protein
 sp|P40713|SCRK_ECOL	-1.26	Non RNA-binding protein
 sp|P37014|YFAD_ECOL	-0.98	Non RNA-binding protein
-sp|A8A4K7|GLNE_ECOH	-0.38	RNA-binding protein
+sp|A8A4K7|GLNE_ECOH	-0.38	Non RNA-binding protein
 sp|P75936|FLGD_ECOL	-2.98	Non RNA-binding protein
 sp|Q1RBG6|RSXD_ECOU	-5.83	Non RNA-binding protein
-sp|P39376|YJIE_ECOL	-0.65	RNA-binding protein
+sp|P39376|YJIE_ECOL	-0.65	Non RNA-binding protein
 sp|Q0T964|CDII_ECOL	0.62	RNA-binding protein
 sp|P71244|WCAM_ECOL	0.88	RNA-binding protein
 sp|P77775|YFCH_ECOL	-1.09	Non RNA-binding protein
@@ -282,19 +283,19 @@ sp|P07115|YPMC_ECOL	-1.77	Non RNA-binding protein
 sp|B7UI92|KEFF_ECO2	-3.72	Non RNA-binding protein
 sp|P64525|CBTA_ECOL	0.09	RNA-binding protein
 sp|P08371|PPDB_ECOL	-0.02	RNA-binding protein
-sp|P0ADQ4|YIID_ECO5	-0.20	RNA-binding protein
+sp|P0ADQ4|YIID_ECO5	-0.20	Non RNA-binding protein
 sp|B7MN09|FETP_ECO4	-1.34	Non RNA-binding protein
-sp|P0ADG6|SUHB_ECO5	-0.55	RNA-binding protein
+sp|P0ADG6|SUHB_ECO5	-0.55	Non RNA-binding protein
 sp|Q8XAS7|WECA_ECO5	-5.78	Non RNA-binding protein
 sp|P75987|IRAM_ECOL	-4.40	Non RNA-binding protein
 sp|P21865|KDPD_ECOL	-0.02	RNA-binding protein
 sp|P0DJ90|TIR1_ECOL	1.11	RNA-binding protein
 sp|P37057|OGRK_ECOL	-2.28	Non RNA-binding protein
-sp|P75811|RCDA_ECOL	-0.32	RNA-binding protein
+sp|P75811|RCDA_ECOL	-0.32	Non RNA-binding protein
 sp|P43667|YGAH_ECOL	-5.21	Non RNA-binding protein
 sp|A7ZY06|NADA_ECOH	0.09	RNA-binding protein
-sp|P20605|FIC_ECOLI	-0.31	RNA-binding protein
-sp|P30147|HYI_ECOLI	-0.77	RNA-binding protein
+sp|P20605|FIC_ECOLI	-0.31	Non RNA-binding protein
+sp|P30147|HYI_ECOLI	-0.77	Non RNA-binding protein
 sp|P37677|LYXK_ECOL	-2.01	Non RNA-binding protein
 sp|Q3YL95|CDII_ECOL	-9.76	Non RNA-binding protein
 sp|P37641|YHJC_ECOL	-1.11	Non RNA-binding protein
@@ -318,9 +319,9 @@ sp|P0AAX7|MCBA_ECO5	0.02	RNA-binding protein
 sp|P0A905|SLYB_ECOL	0.90	RNA-binding protein
 sp|P37750|WBBJ_ECOL	0.07	RNA-binding protein
 sp|Q8XEH3|EUTC_ECO5	1.08	RNA-binding protein
-sp|P76544|YFFM_ECOL	-0.25	RNA-binding protein
+sp|P76544|YFFM_ECOL	-0.25	Non RNA-binding protein
 sp|P0AE42|YQAE_ECOL	-11.88	Non RNA-binding protein
-sp|P58116|YHHW_ECO5	-0.25	RNA-binding protein
+sp|P58116|YHHW_ECO5	-0.25	Non RNA-binding protein
 sp|P05706|PTHA_ECOL	-1.03	Non RNA-binding protein
 sp|B7MFR4|LPTE_ECO4	0.23	RNA-binding protein
 sp|P39343|IDNR_ECOL	0.93	RNA-binding protein
@@ -337,18 +338,18 @@ sp|P32890|ELBP_ECOL	-1.89	Non RNA-binding protein
 sp|P09182|IMMN_ECOL	-8.10	Non RNA-binding protein
 sp|P31828|PQQL_ECOL	1.07	RNA-binding protein
 sp|P31121|MARB_ECOL	1.50	RNA-binding protein
-sp|P45563|XAPA_ECOL	-0.57	RNA-binding protein
+sp|P45563|XAPA_ECOL	-0.57	Non RNA-binding protein
 sp|P77297|YAHE_ECOL	-0.08	RNA-binding protein
-sp|P0ABR7|YEAW_ECOL	-0.46	RNA-binding protein
+sp|P0ABR7|YEAW_ECOL	-0.46	Non RNA-binding protein
 sp|P45999|FASC_ECOL	1.63	RNA-binding protein
 sp|P45566|YHDT_ECOL	-7.64	Non RNA-binding protein
 sp|P18392|RSTB_ECOL	-1.87	Non RNA-binding protein
 sp|Q1R692|YCEF2_ECO	0.82	RNA-binding protein
-sp|P65556|YFCD_ECOL	-0.63	RNA-binding protein
+sp|P65556|YFCD_ECOL	-0.63	Non RNA-binding protein
 sp|P75769|YBHM_ECOL	-6.24	Non RNA-binding protein
 sp|P0ACG0|HNS_ECO57	0.18	RNA-binding protein
 sp|P39368|YJHQ_ECOL	-1.91	Non RNA-binding protein
-sp|P04481|YPCB_ECOL	-0.37	RNA-binding protein
+sp|P04481|YPCB_ECOL	-0.37	Non RNA-binding protein
 sp|P38393|KILR_ECOL	-2.09	Non RNA-binding protein
 sp|P76521|YFDY_ECOL	-8.72	Non RNA-binding protein
 sp|P33015|YEEE_ECOL	-5.57	Non RNA-binding protein
@@ -361,11 +362,11 @@ sp|B7UIW5|UPPP_ECO2	-6.16	Non RNA-binding protein
 sp|Q46891|YGBM_ECOL	-1.44	Non RNA-binding protein
 sp|Q46839|GLCA_ECOL	-5.15	Non RNA-binding protein
 sp|Q9JMT5|YUAE_ECOL	1.13	RNA-binding protein
-sp|P0ACU5|FABR_ECOL	-0.28	RNA-binding protein
+sp|P0ACU5|FABR_ECOL	-0.28	Non RNA-binding protein
 sp|P68649|HEAD_ECOL	0.92	RNA-binding protein
 sp|P11895|HOK_ECOLX	-3.73	Non RNA-binding protein
 sp|P0AC97|GNTU_ECO5	-5.05	Non RNA-binding protein
-sp|P69773|PADL_ECO1	-0.31	RNA-binding protein
+sp|P69773|PADL_ECO1	-0.31	Non RNA-binding protein
 sp|P39263|YFCC_ECOL	-3.89	Non RNA-binding protein
 sp|P0AB32|YCEK_ECO5	-5.45	Non RNA-binding protein
 sp|A7ZJA8|SUCC_ECO2	0.68	RNA-binding protein
@@ -375,5 +376,5 @@ sp|P37748|RFC_ECOLI	-6.70	Non RNA-binding protein
 sp|P31679|YAAU_ECOL	-4.79	Non RNA-binding protein
 sp|P31058|YADC_ECOL	-3.21	Non RNA-binding protein
 sp|P65644|EUTT_ECOL	0.10	RNA-binding protein
-sp|P52076|QSEB_ECOL	-0.22	RNA-binding protein
+sp|P52076|QSEB_ECOL	-0.22	Non RNA-binding protein
 sp|P43459|PERA_ECO2	-1.29	Non RNA-binding protein
