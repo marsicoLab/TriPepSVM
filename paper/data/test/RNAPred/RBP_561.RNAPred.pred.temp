@@ -1,14 +1,15 @@
+Sequence name	SVM score	Prediction
 UniProtKB|A0A0T5XJJ	0.73	RNA-binding protein
 UniProtKB|W1FVT2|-|	1.43	RNA-binding protein
-UniProtKB|A0A029KQU	-0.68	RNA-binding protein
+UniProtKB|A0A029KQU	-0.68	Non RNA-binding protein
 UniProtKB|A0A0H2VBS	-0.09	RNA-binding protein
 UniProtKB|H4UI20|EC	-1.19	Non RNA-binding protein
-UniProtKB|A0A1D3KC3	-0.41	RNA-binding protein
+UniProtKB|A0A1D3KC3	-0.41	Non RNA-binding protein
 UniProtKB|W1G0D8|-|	-0.17	RNA-binding protein
 UniProtKB|T9SFG2|G9	1.12	RNA-binding protein
 UniProtKB|A0A0S3NQI	2.04	RNA-binding protein
 UniProtKB|A0A0A8UFV	1.74	RNA-binding protein
-UniProtKB|W1FQG6|-|	-0.77	RNA-binding protein
+UniProtKB|W1FQG6|-|	-0.77	Non RNA-binding protein
 UniProtKB|A0A0S3N2M	0.12	RNA-binding protein
 UniProtKB|A0A0T5XGA	-1.50	Non RNA-binding protein
 UniProtKB|W0AUP1|EA	1.68	RNA-binding protein
@@ -17,16 +18,16 @@ UniProtKB|P0A9W3|et	1.34	RNA-binding protein
 UniProtKB|A0A193M1N	0.26	RNA-binding protein
 UniProtKB|P0AE70|ma	0.67	RNA-binding protein
 UniProtKB|A0A0S3ND5	2.42	RNA-binding protein
-UniProtKB|A0A1D3U1W	-0.59	RNA-binding protein
+UniProtKB|A0A1D3U1W	-0.59	Non RNA-binding protein
 UniProtKB|A0A193LS3	0.32	RNA-binding protein
 UniProtKB|P23003|tr	0.97	RNA-binding protein
 UniProtKB|W1F1T4|-|	-2.08	Non RNA-binding protein
 UniProtKB|F4VSJ8|EC	1.66	RNA-binding protein
 UniProtKB|A0A1D3KN5	1.17	RNA-binding protein
-UniProtKB|A0A090V0G	-0.56	RNA-binding protein
+UniProtKB|A0A090V0G	-0.56	Non RNA-binding protein
 UniProtKB|W1WWD0|Q6	1.42	RNA-binding protein
 UniProtKB|A0A0S3MWN	4.72	RNA-binding protein
-UniProtKB|A0A0T5XRL	-0.66	RNA-binding protein
+UniProtKB|A0A0T5XRL	-0.66	Non RNA-binding protein
 UniProtKB|A0A1M2G2J	1.99	RNA-binding protein
 UniProtKB|A0A0S3NCE	3.34	RNA-binding protein
 UniProtKB|A0A0S3N0X	1.16	RNA-binding protein
@@ -39,7 +40,7 @@ UniProtKB|A0A0T5XHS	-0.96	Non RNA-binding protein
 UniProtKB|A0A1D3U0V	0.73	RNA-binding protein
 UniProtKB|W1G7G6|-|	-3.14	Non RNA-binding protein
 UniProtKB|A0A1M0HPS	1.42	RNA-binding protein
-UniProtKB|I2WBH4|EC	-0.21	RNA-binding protein
+UniProtKB|I2WBH4|EC	-0.21	Non RNA-binding protein
 UniProtKB|A0A0Q3DHT	-1.44	Non RNA-binding protein
 UniProtKB|A0A1D3KDK	0.17	RNA-binding protein
 UniProtKB|A0A090VX2	0.00	RNA-binding protein
@@ -48,5 +49,5 @@ UniProtKB|A0A0S3MYW	1.05	RNA-binding protein
 UniProtKB|A0A0T5XKU	0.63	RNA-binding protein
 UniProtKB|I2W6N0|ph	1.01	RNA-binding protein
 UniProtKB|A0A167BBB	4.15	RNA-binding protein
-UniProtKB|A0A1D3U7C	-0.84	RNA-binding protein
+UniProtKB|A0A1D3U7C	-0.84	Non RNA-binding protein
 UniProtKB|A0A0T5XI1	1.97	RNA-binding protein

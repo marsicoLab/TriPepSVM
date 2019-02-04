@@ -1,4 +1,3 @@
-Sequence name	SVM score	RNA-binding protein
 UniProtKB|Q9BZI7|UP	0.20	RNA-binding protein
 UniProtKB|B9A023|EI	0.28	RNA-binding protein
 UniProtKB|A0A024R32	0.55	RNA-binding protein

@@ -1,4 +1,3 @@
-ID	Score	RNA-binding protein
 A0A0T5XJJ6	0.140246	Non RNA-binding protein
 W1FVT2	0.5842310000000001	RNA-binding protein
 A0A029KQU2	0.977432	RNA-binding protein

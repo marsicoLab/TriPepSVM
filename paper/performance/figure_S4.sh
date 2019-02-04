@@ -22,11 +22,11 @@ fi
 
 #####  get performance: e.coli
 if [ ! -f $scriptDir/../data/test/TriPepSVM/RBP_561.TriPepSVM.pred.txt ];then
-	TriPepSVM.sh -i $scriptDir/../data/test/RBP_561.fasta -o $scriptDir/../data/test/TriPepSVM -id 561 -pos 1.8 -neg 0.2 -thr 0.26 -m trainData
+	TriPepSVM.sh -i $scriptDir/../data/test/RBP_561.fasta -o $scriptDir/../data/test/TriPepSVM -id 561 -pos 1 -neg 0.1 -thr 0.3 -m trainData
 fi
 
 if [ ! -f $scriptDir/../data/test/TriPepSVM/NRBP_561.TriPepSVM.pred.txt ];then
-	TriPepSVM.sh -i $scriptDir/../data/test/NRBP_561.fasta -o $scriptDir/../data/test/TriPepSVM -id 561 -pos 1.8 -neg 0.2 -thr 0.26 -m trainData
+	TriPepSVM.sh -i $scriptDir/../data/test/NRBP_561.fasta -o $scriptDir/../data/test/TriPepSVM -id 561 -pos 1 -neg 0.1 -thr 0.3 -m trainData
 fi
 
 
@@ -36,39 +36,39 @@ fi
 RNAPred_Cutoff=-0.24
 for file in $scriptDir/../data/test/RNAPred/*9606*.temp;do
 	base=${file%.*} 	
-	awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RNAPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' $file > $base.txt  
+	tail -n +2 $file | awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RNAPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' > $base.txt  
 done
 
 RNAPred_Cutoff=-0.18
 for file in $scriptDir/../data/test/RNAPred/*590*.temp;do
 	base=${file%.*} 	
-	awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RNAPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' $file > $base.txt  
+	tail -n +2 $file | awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RNAPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' > $base.txt  
 done
 
 RNAPred_Cutoff=-0.84
 for file in $scriptDir/../data/test/RNAPred/*561*.temp;do
 	base=${file%.*} 	
-	awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RNAPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' $file > $base.txt  
+	tail -n +2 $file | awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RNAPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' > $base.txt  
 done
 
 ### RBPPred
 RBPPred_Cutoff=0.81
 for file in $scriptDir/../data/test/RBPPred/*9606*.temp;do
 	base=${file%.*}
-	awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RBPPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' $file > $base.txt
+	tail -n +2 $file | awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RBPPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' > $base.txt
 done
 
 
 RBPPred_Cutoff=0.34
 for file in $scriptDir/../data/test/RBPPred/*590*.temp;do
 	base=${file%.*}
-	awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RBPPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' $file > $base.txt
+	tail -n +2 $file | awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RBPPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}'> $base.txt
 done
 
 RBPPred_Cutoff=0.35
 for file in $scriptDir/../data/test/RBPPred/*561*.temp;do
 	base=${file%.*}
-	awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RBPPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' $file > $base.txt
+	tail -n +2 $file | awk -v OFS="\t" -F"\t" '{ if( $2 >= '$RBPPred_Cutoff' ) print $1,$2,"RNA-binding protein"; else print $1,$2,"Non RNA-binding protein";}' > $base.txt
 done
 
 ##### plot performance

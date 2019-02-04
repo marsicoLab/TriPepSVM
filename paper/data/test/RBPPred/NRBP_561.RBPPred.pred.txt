@@ -1,4 +1,3 @@
-ID	Score	RNA-binding protein
 P37146	0.09276749999999999	Non RNA-binding protein
 P19704	0.712505	RNA-binding protein
 P0ADX5	0.277752	Non RNA-binding protein
