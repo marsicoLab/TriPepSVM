@@ -102,9 +102,12 @@ fi
 
 
 Rscript $scriptDir/source/plotRankingFrac.r $TEMP/590/RBP_kmerCount_ordered.txt $TEMP/590/RBP_kmerCount_disordered.txt $scriptDir/../data/proteome_prediction_salmonella/proteome_99287.featureWeights.txt \
-$TEMP/9606/RBP_kmerCount_ordered.txt $TEMP/9606/RBP_kmerCount_disordered.txt $scriptDir/../data/proteome_prediction_human/proteome_9606.featureWeights.txt 0.2 $scriptDir/figure_5_1.pdf
+$TEMP/9606/RBP_kmerCount_ordered.txt $TEMP/9606/RBP_kmerCount_disordered.txt $scriptDir/../data/proteome_prediction_human/proteome_9606.featureWeights.txt 0.2 $scriptDir/figure_5_1.pdf \
+$scriptDir/important_kmer_590.txt $scriptDir/important_kmer_9606.txt
 
 Rscript $scriptDir/source/plotRankingFrac.r $TEMP/561/RBP_kmerCount_ordered.txt $TEMP/561/RBP_kmerCount_disordered.txt $scriptDir/../data/proteome_prediction_ecoli/proteome_83333.featureWeights.txt \
-$TEMP/9606/RBP_kmerCount_ordered.txt $TEMP/9606/RBP_kmerCount_disordered.txt $scriptDir/../data/proteome_prediction_human/proteome_9606.featureWeights.txt 0.2 $scriptDir/figure_5_2.pdf
+$TEMP/9606/RBP_kmerCount_ordered.txt $TEMP/9606/RBP_kmerCount_disordered.txt $scriptDir/../data/proteome_prediction_human/proteome_9606.featureWeights.txt 0.2 $scriptDir/figure_5_2.pdf \
+$scriptDir/important_kmer_561.txt $scriptDir/important_kmer_9606.txt
+
 
 

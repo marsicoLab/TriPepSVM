@@ -16,6 +16,9 @@ disordered_path_hum = args[5]
 featureWeights_path_hum = args[6]
 span = as.numeric(args[7])
 out = args[8]
+outTable_1 =args[9]
+outTable_2 =args[10]
+
 
 getTable = function(ordered_path, disordered_path, featureWeights_path){
   ordered = fread(ordered_path)
@@ -78,3 +81,6 @@ abline(v=min(which(smooth_sal<=sal_80_sm)))
 legend("topright",c("Human","Salmonella"), col=c("red","black"),pch=20)
 dev.off()
 
+
+write.table(table_sal, col.names = F, row.names = F, quote = F, sep = "\t", file = outTable_1)
+write.table(table_hum, col.names = F, row.names = F, quote = F, sep = "\t", file = outTable_2)
