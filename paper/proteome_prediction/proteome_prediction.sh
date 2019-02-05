@@ -84,7 +84,7 @@ cat <(echo "UniprotKB_ID	Name	TriPepSVM_Score	TriPepSVM_class	RNA-binding_annota
 
 #### get final table ecoli
 
-cat <(echo "UniprotKB_ID	Name	TriPepSVM_Score	TriPepSVM_class	RNA-binding_annotation(21.10.2018)	Fraction_predicted_tertiary_structure") \
+cat <(echo "UniprotKB_ID	Name	TriPepSVM_Score	TriPepSVM_class	RNA-binding_annotation(27.01.2019)	Fraction_predicted_tertiary_structure") \
 <(join -t $'\t' -1 1 -2 1 \
 <(join -t $'\t' -1 1 -2 1 -a 1 -e "no" -o "1.1,1.2,1.3,1.4,2.2" \
 <(join -t $'\t' -1 1 -2 1 <(cut -f 1,5 $scriptDir/../data/proteome_83333.tab | cut -f1 -d' ' | tail -n +1 | sort -k1,1 ) \
@@ -94,7 +94,7 @@ cat <(echo "UniprotKB_ID	Name	TriPepSVM_Score	TriPepSVM_class	RNA-binding_annota
 <(cut -f2 $scriptDir/../data/proteome_prediction_ecoli/proteome_83333.fractionPredictedDomain.txt) | sort -k1,1 ) | sort -k3,3 -rn ) \
 > $scriptDir/proteome_83333_summary.txt
 
-cat <(echo "UniprotKB_ID	Name	TriPepSVM_Score	TriPepSVM_class	RNA-binding_annotation(04.02.2019)	Fraction_predicted_tertiary_structure") \
+cat <(echo "UniprotKB_ID	Name	TriPepSVM_Score	TriPepSVM_class	RNA-binding_annotation(27.01.2019)	Fraction_predicted_tertiary_structure") \
 <(grep -P "\tRNA-binding protein\tno" $scriptDir/proteome_83333_summary.txt) \
 > $scriptDir/proteome_83333.newIdentified.txt
 
