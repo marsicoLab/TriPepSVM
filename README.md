@@ -10,7 +10,15 @@ TriPepSVM was developed by the [Marsico RNA bioinformatics group](https://www.mo
 * Unix system
 * R (>= 3.2.0)
 * [HMMER](http://hmmer.org/) (3.1)
-* [CDHIT](https://github.com/weizhongli/cdhit) (4.6.4)  
+* [CDHIT](https://github.com/weizhongli/cdhit) (4.6.4)
+* [Python](https://www.python.org/) (3 and higher) with the following packages:
+[Pandas](https://pandas.pydata.org/) and 
+[BioServices](https://bioservices.readthedocs.io/en/master/)
+
+You can install python packages via `pip`. If you don't have sudo rights, you might want to use the `--user` option of `pip`:
+```
+pip install --user bioservices pandas
+```
 
 ### Remarks:
 * If TriPepSVM is applied to a new taxon id, you need a stable internet connection 
