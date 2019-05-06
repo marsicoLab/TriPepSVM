@@ -37,7 +37,7 @@ if [ ! -e "$DATABASE/RBP.fasta" ];then
 fi
 # get AA sequences for the IDs using a python script
 if [ ! -e "$DATABASE/RBP.fasta" ];then
-    python get_rbps_for_taxon.py -ids $DATABASE/rbp_ids.temp.tsv -o $DATABASE/RBP.fasta
+    python $scriptDir/get_rbps_for_taxon.py -ids $DATABASE/rbp_ids.temp.tsv -o $DATABASE/RBP.fasta
 fi
 
 # Finally, remove duplicate sequences from the fasta file, using cd-hit
