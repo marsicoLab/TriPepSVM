@@ -10,14 +10,14 @@ DATABASE=$RESULT/TEMP_NEG
 mkdir -p $DATABASE
 
 if [ ! -e "$DATABASE/parseProteinSwissprot.fasta" ];then
-	query_swissprot_proteom="http://www.uniprot.org/uniprot/?query=reviewed:yes+taxonomy:$TAXON&format=fasta"
+	query_swissprot_proteom="https://www.uniprot.org/uniprot/?query=reviewed:yes+taxonomy:$TAXON&format=fasta"
 	curl $query_swissprot_proteom > $DATABASE/parseProteinSwissprot.fasta
 fi
 
 # remove all critical proteins based on protocol
 if [ ! -e "$DATABASE/swissprot_keyword.txt" ];then
 	for KEYWORD in `cut -f2 $scriptDir/../data/Keywords.txt`;do
-		query_keyword="http://www.uniprot.org/uniprot/?query=keyword:$KEYWORD+reviewed:yes+taxonomy:$TAXON&format=tab"		
+		query_keyword="https://www.uniprot.org/uniprot/?query=keyword:$KEYWORD+reviewed:yes+taxonomy:$TAXON&format=tab"		
 		curl $query_keyword >> $DATABASE/swissprot_keyword.txt
 	done
 fi
@@ -40,4 +40,4 @@ Rscript $scriptDir/getSVMSequences.r $scriptDir/../data/uniprot_rna_binding.txt 
 Rscript $scriptDir/getSVMSequences.r $scriptDir/../data/uniprot_dna_binding.txt $DATABASE/removed_rna.fasta.temp $DATABASE/removed_dna.fasta.temp 2
 Rscript $scriptDir/getSVMSequences.r $scriptDir/../data/uniprot_nucleotid_binding.txt $DATABASE/removed_dna.fasta.temp $RESULT/NRBP_$TAXON.fasta 2
 
-#rm -R $DATABASE
+rm -R $DATABASE
