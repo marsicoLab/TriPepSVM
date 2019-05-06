@@ -203,6 +203,11 @@ fi
 base=${INPUT_FILE##*/}
 filename=${base%.*}
 
+posSize=`grep "^>" $data/RBP_${taxon_id}.fasta | wc -l`
+negSize=`grep "^>" $data/NRBP_${taxon_id}.fasta | wc -l`
+echo "positive set size: $posSize"
+echo "positive set size: $negSize"
+
 Rscript $scriptDir/source/kmerPrediction.r $data/RBP_${taxon_id}.fasta $data/NRBP_${taxon_id}.fasta $INPUT_FILE $k $cost $outDir \
 						${filename}.TriPepSVM.pred.txt ${filename}.featureWeights.txt $posW $negW $thr
 
